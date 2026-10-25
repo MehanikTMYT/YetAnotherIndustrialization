@@ -7,5 +7,39 @@ pluginManagement {
 }
 
 plugins {
-    id 'org.gradle.toolchains.foojay-resolver-convention' version '0.8.0'
+    id 'org.gradle.toolchains.foojay-resolver-convention' version '1.0.0'
+    id 'net.neoforged.moddev.repositories' version '2.0.134'
+}
+
+rootProject.name = "yet-another-industrialization"
+
+dependencyResolutionManagement {
+    repositoriesMode = RepositoriesMode.FAIL_ON_PROJECT_REPOS
+    rulesMode = RulesMode.FAIL_ON_PROJECT_RULES
+    repositories {
+        // Fleet: locally built 26.1.2 artifacts (MI wheel) take precedence.
+        mavenLocal()
+        mavenCentral()
+        maven {
+            name = "ModMaven (MI, GrandPower, Tesseract)"
+            url = "https://modmaven.dev"
+            content {
+                includeGroup "aztech"
+                includeGroup "dev.technici4n"
+                includeGroup "net.swedz"
+            }
+        }
+        maven {
+            url = "https://maven.terraformersmc.com"
+            content {
+                includeGroup "dev.emi"
+            }
+        }
+        // Kotlin for Forge: only needed while the Kotlin->Java conversion is in progress;
+        // removed together with the last .kt file.
+        maven {
+            name = "Kotlin for Forge"
+            setUrl("https://thedarkcolour.github.io/KotlinForForge/")
+        }
+    }
 }

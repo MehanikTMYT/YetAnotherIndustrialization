@@ -5,8 +5,7 @@ plugins {
     id 'java-library'
     id 'maven-publish'
     id 'net.neoforged.moddev' version '2.0.140'
-    id "org.jetbrains.kotlin.jvm" version ("2.0.21")
-    id "me.modmuss50.mod-publish-plugin" version "2.1.1"
+    id "org.jetbrains.kotlin.jvm" version ("2.2.20")
 }
 
 tasks.named('wrapper', Wrapper).configure {
@@ -16,88 +15,14 @@ tasks.named('wrapper', Wrapper).configure {
 version = mod_version
 group = mod_group_id
 
-repositories {
-    mavenLocal()
-    maven {
-        name = "Kotlin for Forge"
-        setUrl("https://thedarkcolour.github.io/KotlinForForge/")
-    }
-    maven {
-        name = "ModMaven (MI, GrandPower, Tesseract, JEI)"
-        url = "https://modmaven.dev"
-        content {
-            includeGroup "aztech" // MI
-            includeGroup "dev.technici4n"  // GrandPower
-            includeGroup "net.swedz" // Tesseract
-            includeGroup "mezz.jei" // JEI
-        }
-    }
-    maven {
-        name = "Illusive Soulworks (Curios)"
-        url = "https://maven.theillusivec4.top/"
-    }
-    maven {
-        name = "Wisp Forest (Accessories)"
-        url = "https://maven.wispforest.io/releases"
-    }
-    maven {
-        name = "Su5eD (Accessories)"
-        url = "https://maven.su5ed.dev/releases"
-        content {
-            includeGroup "org.sinytra.forgified-fabric-api"
-        }
-    }
-    maven {
-        name = "CurseMaven"
-        url = "https://cursemaven.com"
-        content {
-            includeGroup("curse.maven")
-        }
-    }
-    maven {
-        name = "TerraformersMC (EMI)"
-        url = "https://maven.terraformersmc.com/releases/"
-        content {
-            includeGroup "dev.emi"
-        }
-    }
-
-    maven {
-        name = "Shedaniel (REI)"
-        url = "https://maven.shedaniel.me"
-    }
-
-    maven {
-        name = "Latvian (KubeJS)"
-        url = "https://maven.latvian.dev/releases"
-        content {
-            includeGroup "dev.latvian.mods"
-            includeGroup "dev.latvian.apps"
-        }
-    }
-
-    maven {
-        name = "Jitpack (Rhino)"
-        url = "https://jitpack.io"
-        content {
-            includeGroup "com.github.rtyley"
-        }
-    }
-}
-
 base {
     archivesName = mod_id
 }
 
-java.toolchain.languageVersion = JavaLanguageVersion.of(21)
+java.toolchain.languageVersion = JavaLanguageVersion.of(25)
 
 neoForge {
     version = project.neo_version
-
-    parchment {
-        mappingsVersion = project.parchment_mappings_version
-        minecraftVersion = project.parchment_minecraft_version
-    }
 
     setAccessTransformers {
         file("src/main/resources/${project.mod_id}-accesstransformer.cfg")
@@ -106,7 +31,6 @@ neoForge {
     runs {
         client {
             client()
-
             systemProperty 'neoforge.enabledGameTestNamespaces', project.mod_id
         }
 
@@ -124,14 +48,12 @@ neoForge {
         data {
             data()
             gameDirectory = project.file('run-data')
-
             programArguments.addAll '--mod', project.mod_id, '--all', '--output', file('src/generated/resources/').getAbsolutePath(), '--existing', file('src/main/resources/').getAbsolutePath()
         }
 
         configureEach {
             systemProperty 'forge.logging.markers', 'REGISTRIES'
-
-            logLevel = org.slf4j.event.Level.DEBUG
+            logLevel = org.slf4j.event.Level.INFO
 
             systemProperty 'guideme.yet_another_industrialization.guide.sources',
                     file("src/main/resources/assets/yet_another_industrialization/yai_guidebook/").absolutePath
@@ -152,37 +74,17 @@ configurations {
 }
 
 dependencies {
-    implementation "thedarkcolour:kotlinforforge-neoforge:${kff_version}"
-
     implementation "dev.technici4n:GrandPower:${grandpower_version}"
     implementation "aztech:Modern-Industrialization:${modern_industrialization_version}"
     implementation "net.swedz:tesseract-api-neoforge:${tesseract_version}"
+    implementation "org.appliedenergistics:guideme:${guideme_version}"
 
-    compileOnly "top.theillusivec4.curios:curios-neoforge:${curios_version}:api"
-    runtimeOnly "top.theillusivec4.curios:curios-neoforge:${curios_version}"
-    compileOnly "io.wispforest:accessories-neoforge:${accessories_version}"
+    compileOnly "dev.emi:emi-neoforge:${emi_version}+${emi_minecraft_version}:api"
+    localRuntime "dev.emi:emi-neoforge:${emi_version}+${emi_minecraft_version}"
 
-    compileOnly "dev.emi:emi-neoforge:${emi_version}:api"
-    compileOnly("mezz.jei:jei-${minecraft_version}-neoforge-api:${jei_version}")
-    compileOnly "me.shedaniel:RoughlyEnoughItems-api-neoforge:${rei_version}"
-    switch("${active_item_viewer}") {
-        case "emi":
-            runtimeOnly "dev.emi:emi-neoforge:${emi_version}"
-            break
-        case "jei":
-            runtimeOnly("mezz.jei:jei-${minecraft_version}-neoforge:${jei_version}")
-            break
-        case "rei":
-            runtimeOnly "me.shedaniel:RoughlyEnoughItems-neoforge:${rei_version}"
-            break
-        default:
-            break
-    }
-
-    implementation("curse.maven:jade-324717:${project.jade_version}")
-    compileOnly("curse.maven:jade-324717:${project.jade_version}")
-
-    implementation "org.appliedenergistics:guideme:${project.guideme_version}"
+    // Kotlin only while src/main/kotlin still exists; removed when the Java
+    // conversion completes.
+    implementation "thedarkcolour:kotlinforforge-neoforge:6.4.0"
 }
 
 var generateModMetadata = tasks.register("generateModMetadata", ProcessResources) {
@@ -191,8 +93,6 @@ var generateModMetadata = tasks.register("generateModMetadata", ProcessResources
             minecraft_version_range: minecraft_version_range,
             neo_version            : neo_version,
             neo_version_range      : neo_version_range,
-            kff_version            : kff_version,
-            kff_version_range      : kff_version_range,
             loader_version_range   : loader_version_range,
             mod_id                 : mod_id,
             mod_name               : mod_name,
@@ -200,8 +100,8 @@ var generateModMetadata = tasks.register("generateModMetadata", ProcessResources
             mod_version            : mod_version,
             mod_authors            : mod_authors,
             mod_description        : mod_description,
-            modern_industrialization_version_range : modern_industrialization_version_range,
-            tesseract_version_range : tesseract_version_range
+            modern_industrialization_version_range: modern_industrialization_version_range,
+            tesseract_version_range: tesseract_version_range
     ]
     inputs.properties replaceProperties
     expand replaceProperties
@@ -211,19 +111,6 @@ var generateModMetadata = tasks.register("generateModMetadata", ProcessResources
 
 sourceSets.main.resources.srcDir generateModMetadata
 neoForge.ideSyncTask generateModMetadata
-
-publishing {
-    publications {
-        register('mavenJava', MavenPublication) {
-            from components.java
-        }
-    }
-    repositories {
-        maven {
-            url "file://${project.projectDir}/repo"
-        }
-    }
-}
 
 tasks.withType(JavaCompile).configureEach {
     options.encoding = 'UTF-8'
@@ -239,58 +126,5 @@ idea {
     module {
         downloadSources = true
         downloadJavadoc = true
-    }
-}
-
-ext.getChangeLog = { ->
-    return ""
-}
-
-publishMods {
-    file = jar.archiveFile
-    version = "${project.mod_version}"
-    displayName = "${project.mod_version}"
-    modLoaders.add("neoforge")
-    type = STABLE
-    changelog = project.getChangeLog()
-
-    curseforge {
-        accessToken = providers.environmentVariable("CURSEFORGE_API_KEY")
-        projectId = "1358516"
-        projectSlug = "yet-another-industrialization"
-        minecraftVersions.add("${project.minecraft_version}")
-        client = true
-        server = true
-
-        requires("modern-industrialization")
-        requires("tesseract-api-neoforge")
-        requires("kotlin-for-forge")
-        optional("emi")
-        optional("jei")
-
-        announcementTitle = "Download from CurseForge"
-    }
-
-    modrinth {
-        accessToken = providers.environmentVariable("MODRINTH_TOKEN")
-        projectId = "jXqDKaST"
-        minecraftVersions.add("${project.minecraft_version}")
-        environment = CLIENT_AND_SERVER
-
-        requires("modern-industrialization")
-        requires("tesseract-api")
-        requires("kotlin-for-forge")
-        optional("emi")
-        optional("jei")
-
-        announcementTitle = "Download from Modrinth"
-    }
-
-    discord {
-        webhookUrl = providers.environmentVariable("CAFETERIA_MOD_RELEASE_WEBHOOK")
-        username = "${rootProject.mod_name}"
-        avatarUrl = "https://cdn.modrinth.com/data/jXqDKaST/c0bd6980760c14410cc9a517ec5176d230f817d1_96.webp"
-
-        content = changelog.map { "# " + (rootProject.mod_name as String) + " " + (project.mod_version as String) + " has been released \n" + it}
     }
 }
