@@ -1,12 +1,12 @@
-modLoader="kotlinforforge"
-loaderVersion="${kff_version_range}"
+modLoader="javafml"
+loaderVersion="${loader_version_range}"
 license="${mod_license}"
 issueTrackerURL="https://github.com/Luligabi1/YetAnotherIndustrialization/issues/"
 [[mods]]
 modId="${mod_id}"
 version="${mod_version}"
 displayName="${mod_name}"
-displayURL="https://https://github.com/Luligabi1/YetAnotherIndustrialization/"
+displayURL="https://github.com/Luligabi1/YetAnotherIndustrialization/"
 logoFile="assets/${mod_id}/logo.png"
 authors="${mod_authors}"
 description='''${mod_description}'''
