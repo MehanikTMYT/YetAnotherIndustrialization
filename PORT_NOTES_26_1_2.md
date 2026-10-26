@@ -88,3 +88,17 @@ FoundationChecks проверяет транзакции/границы энер
 - Следующий связанный этап: оставшиеся инструменты и их обращения к inventory/crafter API, затем прямой реестр машин (старые Tesseract hooks отсутствуют). Production entrypoint, creative tab и datagen ещё предстоит восстановить.
 
 Результат второго батча: 61 dedicated-проверка PASS (17 energy + 22 component + 22 item), включая регистрацию под настоящими ID YAI. Логи: /root/home/scratch/yai-port/validation/items-server.log и items-build.log. Ключи item-tooltip сверены с en_us и ru_ru; клиентский рендер ещё не проверен.
+
+## Storage Slot Locker — Java-батч 2026-10-26
+
+- Зарегистрирован десятый предмет storage_slot_locker и современное определение его модели.
+- Перенесены шесть режимов блокировки предметных/жидкостных слотов на публичные MIInventory.getItemStacks/getFluidStacks. MIStorageAccessor и UseOnContextAccessor инструменту больше не нужны.
+- Перенесены dragItem/dragFluid, simulation без изменения компонентов, TooltipData и текстовые подсказки (Shift через TooltipFlag, без ссылки common-кода на клиентский Screen).
+- Исправлено ложное сообщение об успехе на неизменяемых слотах. Player-lock не трогает machine-lock и слоты canPlayerLock=false; повторный вызов без изменений возвращает false.
+- Native NeoForge serverbound payloads заменяют старые Tesseract CustomPacket для смены режима и выбора ресурса. Проверяются индекс, текущий containerId, stillValid и mayPickup; изменения синхронизируются через broadcastChanges. Удалён неиспользуемый playerId из смены режима, версия протокола 2.
+- YAIPackets пока содержит только два перенесённых обработчика, не весь исходный сетевой набор.
+- Осталось подключить клиентские scroll/EMI callbacks и перенести StorageSlotLockerComponent renderer; полная работа инструмента в клиенте пока не заявляется. Production entrypoint и оставшиеся инструменты (diagnoser/remover) также ещё не готовы.
+
+Результат: 107 dedicated assertions PASS (17 energy + 22 components + 22 items + 46 locker).
+Логи NL: /root/home/scratch/yai-port/validation/locker-server.log и locker-build.log.
+В запуске был отдельный Log4j DebugFile/Netty kqueue platform-probe exception (OSX/BSD transport на Linux) до готовности сервера; сервер после этого запустился, все проверки прошли и завершился штатно. Это не чистый от предупреждений/ошибок лог; клиентская проверка и сетевой обмен с реальным клиентом ещё не выполнены.

@@ -3,13 +3,13 @@ package me.luligabi.yet_another_industrialization.common.item;
 import me.luligabi.yet_another_industrialization.common.YAIIds;
 import me.luligabi.yet_another_industrialization.common.item.food.*;
 import me.luligabi.yet_another_industrialization.common.item.misc.*;
-import me.luligabi.yet_another_industrialization.common.item.tools.IndustrialistsGogglesItem;
+import me.luligabi.yet_another_industrialization.common.item.tools.*;
 import net.minecraft.world.item.Item;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.neoforge.registries.DeferredItem;
 import net.neoforged.neoforge.registries.DeferredRegister;
 
-/** Direct registrations for converted items. Diagnoser, remover and slot locker are still pending. */
+/** Direct registrations for converted items. Diagnoser and remover are still pending. */
 public final class YAIItems {
     public static final DeferredRegister.Items ITEMS = DeferredRegister.createItems(YAIIds.ID);
     public static final DeferredItem<YAIGuidebookItem> GUIDEBOOK = ITEMS.registerItem("guidebook", YAIGuidebookItem::new);
@@ -24,6 +24,7 @@ public final class YAIItems {
     public static final DeferredItem<UltradenseMetalBallBurgerItem> ULTRADENSE_METAL_BALL_BURGER =
         ITEMS.registerItem("ultradense_metal_ball_burger", UltradenseMetalBallBurgerItem::new);
     public static final DeferredItem<Item> ENERGY_ZAP = ITEMS.registerSimpleItem("energy_zap");
+    public static final DeferredItem<StorageSlotLockerItem> STORAGE_SLOT_LOCKER = ITEMS.registerItem("storage_slot_locker", StorageSlotLockerItem::new);
     private YAIItems() {}
     public static void init(IEventBus bus) { ITEMS.register(bus); }
 }
