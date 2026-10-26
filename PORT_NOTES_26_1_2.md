@@ -26,11 +26,11 @@
 | JEI 19.24 / REI 16.0 | recipe viewer | **УБИРАЕМ** (пакеты jei/, rei/ в port/26.1-pl удалены) | в сборке только EMI (решение пользователя 2026-10-25: только саб-сависимости, кроме core); общие категории (Numismatic/FLP/ItemCharger/LSU/NeutronSource — `common/compat/recipeviewer/*Category`) на абстракции MI остаются и работают через EMI |
 | (KubeJS) | stub | Оставляем пустую заглушку классом-болванкой (в апстриме уже пустая) | нулевая стоимость |
 
- Итог времени выполнения: jar YAI требует **только** MI (+ ваниль). Опциональные: Tesseract (нужен), GuideMe (guidebook), EMI (просмотр рецептов). Curios/Accessories/JEI/REI/KFF — не требуются.
+Фактические зависимости ещё проверяются при переносе. MI, Tesseract (config/lang) и GuideMe необходимы текущей архитектуре; нельзя считать Tesseract опциональным. Старый MI-модуль Tesseract в артефакте 26.1.2 отсутствует. GrandPower больше не используется новым энергетическим адаптером, но окончательное удаление требует переноса предметов. EMI сохраняется для просмотра рецептов.
 
 ## Карта слоёв Kotlin → Java (целевой порядок конверсии)
 
-Батчи собираются от листьев к корню, компилируются поэтапно (состояние Gradle под 26.1.2 остаётся постоянно зелёным после каждого коммита в converted-пакет):
+Батчи переносятся от листьев к корню. Полная сборка пока не проходит: Kotlin-дерево было удалено до восстановления Java-классов. Для проверки готового слоя используется отдельный source set foundation; его успешная компиляция не означает готовность всего мода.
 
 1. util, YAIConfig, YAIText (интерфейсы) · YAI (точка входа), YAIUtil · misc (component/datamap/effect/keybind/material/network/sound/tags/trades/command/hatchtypes/fluids/creative tab/tooltips)
 2. item (food/misc/tools) + proxy (только `YAIModSlotProxy`-vanilla) + compat/mi (hooks), compat/kubejs (PAS)
@@ -53,3 +53,25 @@
 ## Коммит-регламент порт-ветки
 - Каждый батч = коммит (шаг батча + STC).
 - НО НЕ push до публиковать (JSON правок не выбрасывать в network).
+
+## Проверенный прогресс — 2026-10-26
+
+- Исправлен запуск сборки на Java 25: Gradle 9.2.1, ModDev repositories 2.0.147; Kotlin plugin/KFF удалены. Основная сборка ещё блокируется отсутствующими классами и старыми mixin API.
+- На Java перенесены конфигурации, интерфейс переводов, идентификаторы, звуки, теги, тип урона, эффект полёта, draggable-контракт и энергетические адаптеры.
+- EnergyComponentStorage использует транзакционные insert/extract самого MI. Его журнал обеспечивает откат вложенных транзакций и сохранение BlockEntity только после корневого commit; ёмкость и остаток — long.
+- SlotLockerData переведён на ItemResource/FluidResource и неизменяемый record. Использовать withItem/withFluid/withMode и затем ItemStack.set; запрещено возвращаться к мутациям общего компонента.
+- Зарегистрированы типы компонентов slot_locker_data и goggles_enabled; подключение их init к будущему entrypoint ещё впереди.
+- В Tesseract 1.13.6-26.1.2 отсутствует compat.mi: 133 класса находятся в src_disabled upstream-ветки. Старые hooks/material helpers/GUI нельзя считать готовыми зависимостями. Следующий этап — прямые регистрации MI и перенос машин/предметов без заглушек.
+
+### Изолированная проверка foundation
+
+Сборка тестового артефакта (не релизный YAI):
+```sh
+JAVA_HOME=/usr/lib/jvm/java-25-openjdk-amd64 ./gradlew -I scripts/foundation.gradle foundationQaJar
+```
+
+Запускать полученный *-foundation-qa.jar в отдельном dedicated NeoForge 26.1.2.122 с MI 2.6.0-26.1.2-fleet01 и GuideMe 26.1.14-beta. На NL создан игнорируемый qa-server с собственным портом 25981; libraries ссылается на .port-tools/srv26-ru/libraries. После проверок сервер останавливается автоматически. Обычный JavaExec непригоден: BlockEntity требует активный FML loader.
+
+FoundationChecks проверяет транзакции/границы энергии и persistent/network round trips компонентов. Маркеры успеха: YAI_FOUNDATION_PASS и YAI_COMPONENTS_PASS; YAI_FOUNDATION_FAIL означает провал даже при коде выхода сервера 0. Проверка полного игрового мода и клиента пока не выполнена.
+
+Результат isolated dedicated QA 2026-10-26: **39 проверок PASS** (17 энергетических + 22 компонентов). Лог NL: /root/home/scratch/yai-port/validation/foundation-server.log.

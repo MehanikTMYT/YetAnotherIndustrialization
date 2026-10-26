@@ -1,0 +1,35 @@
+// Compile the converted foundation independently while the rest of the port is incomplete.
+// This is deliberately separate from build: it must never produce a runnable mod JAR.
+allprojects {
+    afterEvaluate {
+        sourceSets {
+            foundation {
+                java.srcDirs = ['src/main/java']
+                java.include 'me/luligabi/yet_another_industrialization/common/YAIIds.java'
+                java.include 'me/luligabi/yet_another_industrialization/common/YAIConfig.java'
+                java.include 'me/luligabi/yet_another_industrialization/client/YAIClientConfig.java'
+                java.include 'me/luligabi/yet_another_industrialization/common/util/EmptyEnergyAccess.java'
+                java.include 'me/luligabi/yet_another_industrialization/common/util/EnergyComponentStorage.java'
+                java.include 'me/luligabi/yet_another_industrialization/common/util/YAIDraggable.java'
+                java.include 'me/luligabi/yet_another_industrialization/common/util/YAIText.java'
+                java.include 'me/luligabi/yet_another_industrialization/common/misc/YAITags.java'
+                java.include 'me/luligabi/yet_another_industrialization/common/misc/YAISounds.java'
+                java.include 'me/luligabi/yet_another_industrialization/common/misc/YAIDamageTypes.java'
+                java.include 'me/luligabi/yet_another_industrialization/common/misc/effect/*.java'
+                java.include 'me/luligabi/yet_another_industrialization/common/misc/component/*.java'
+                compileClasspath += sourceSets.main.compileClasspath
+            }
+            foundationTest {
+                java.srcDirs = ['src/foundationTest/java']
+                compileClasspath += sourceSets.foundation.output + sourceSets.main.compileClasspath
+                runtimeClasspath += output + compileClasspath
+            }
+        }
+        tasks.register('foundationQaJar', Jar) {
+            dependsOn tasks.named('foundationTestClasses')
+            archiveClassifier = 'foundation-qa'
+            from sourceSets.foundation.output
+            from sourceSets.foundationTest.output
+        }
+    }
+}

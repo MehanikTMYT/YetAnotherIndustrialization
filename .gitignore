@@ -30,3 +30,6 @@ repo
 
 /src/generated/resources/.cache
 /src/main/resources/bonsaigen-src
+# Isolated development checks
+qa-server/
+logs/
