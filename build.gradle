@@ -1,11 +1,8 @@
-import org.jetbrains.kotlin.gradle.tasks.KotlinJvmCompile
-
 plugins {
     id 'idea'
     id 'java-library'
     id 'maven-publish'
-    id 'net.neoforged.moddev' version '2.0.140'
-    id "org.jetbrains.kotlin.jvm" version ("2.2.20")
+    id 'net.neoforged.moddev'
 }
 
 tasks.named('wrapper', Wrapper).configure {
@@ -81,10 +78,6 @@ dependencies {
 
     compileOnly "dev.emi:emi-neoforge:${emi_version}+${emi_minecraft_version}:api"
     localRuntime "dev.emi:emi-neoforge:${emi_version}+${emi_minecraft_version}"
-
-    // Kotlin only while src/main/kotlin still exists; removed when the Java
-    // conversion completes.
-    implementation "thedarkcolour:kotlinforforge-neoforge:6.4.0"
 }
 
 var generateModMetadata = tasks.register("generateModMetadata", ProcessResources) {
@@ -114,12 +107,6 @@ neoForge.ideSyncTask generateModMetadata
 
 tasks.withType(JavaCompile).configureEach {
     options.encoding = 'UTF-8'
-}
-
-tasks.withType(KotlinJvmCompile).configureEach {
-    compilerOptions {
-        freeCompilerArgs.add("-Xjvm-default=all")
-    }
 }
 
 idea {

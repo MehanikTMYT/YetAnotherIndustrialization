@@ -8,7 +8,7 @@ pluginManagement {
 
 plugins {
     id 'org.gradle.toolchains.foojay-resolver-convention' version '1.0.0'
-    id 'net.neoforged.moddev.repositories' version '2.0.134'
+    id 'net.neoforged.moddev.repositories' version '2.0.147'
 }
 
 rootProject.name = "yet-another-industrialization"
@@ -35,11 +35,9 @@ dependencyResolutionManagement {
                 includeGroup "dev.emi"
             }
         }
-        // Kotlin for Forge: only needed while the Kotlin->Java conversion is in progress;
-        // removed together with the last .kt file.
         maven {
-            name = "Kotlin for Forge"
-            setUrl("https://thedarkcolour.github.io/KotlinForForge/")
+            url = "https://maven.appliedenergistics.org"
+            content { includeGroup "org.appliedenergistics" }
         }
     }
 }
