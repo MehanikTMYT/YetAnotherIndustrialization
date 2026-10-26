@@ -75,3 +75,16 @@ JAVA_HOME=/usr/lib/jvm/java-25-openjdk-amd64 ./gradlew -I scripts/foundation.gra
 FoundationChecks проверяет транзакции/границы энергии и persistent/network round trips компонентов. Маркеры успеха: YAI_FOUNDATION_PASS и YAI_COMPONENTS_PASS; YAI_FOUNDATION_FAIL означает провал даже при коде выхода сервера 0. Проверка полного игрового мода и клиента пока не выполнена.
 
 Результат isolated dedicated QA 2026-10-26: **39 проверок PASS** (17 энергетических + 22 компонентов). Лог NL: /root/home/scratch/yai-port/validation/foundation-server.log.
+
+## Предметы — второй Java-батч, 2026-10-26
+
+- YAIItems напрямую регистрирует девять перенесённых предметов с исходными ID через DeferredRegister.Items: guidebook, industrialists_goggles, dragon_egg_siphon_catalyst, tempproof_air_intake, demon_core, cachaca, ai_slop, ultradense_metal_ball_burger, energy_zap. Это ещё не весь реестр: machine_diagnoser, machine_remover, storage_slot_locker остаются в работе.
+- Три вида еды сохраняют исходные nutrition/saturation, длительность и вероятности эффектов. Cachaça: 16 в стопке, 0.8 секунды, DRINK, nausea II на 160 ticks с вероятностью 35%, возврат стеклянной бутылки.
+- Demon Core: 320 прочности; supportsEnchantment/isPrimaryItemFor запрещают стол и наковальню независимо от тегов.
+- Очки: ванильный equippable HEAD, исходный компонент enabled=true; toggleMode изменяет только надетый предмет. Curios/Accessories не возвращаются согласно согласованному сокращению зависимостей.
+- Перенесены YAIGuidebookItem и описание YAIGuide с MultiblockShapeCompiler MI. Клиентское открытие книги и отображение очков ещё не проверены.
+- Для девяти предметов добавлены современные assets/.../items/*.json, ссылающиеся на существующие модели. Старые models/item сами по себе недостаточны для MC 26.
+- ItemChecks регистрирует реальные YAIItems и YAIDataComponents через отдельный QA entrypoint, проверяет питание, эффекты, фактическое потребление бутылки, зачарование, слот головы и независимость копий при переключении очков.
+- Следующий связанный этап: оставшиеся инструменты и их обращения к inventory/crafter API, затем прямой реестр машин (старые Tesseract hooks отсутствуют). Production entrypoint, creative tab и datagen ещё предстоит восстановить.
+
+Результат второго батча: 61 dedicated-проверка PASS (17 energy + 22 component + 22 item), включая регистрацию под настоящими ID YAI. Логи: /root/home/scratch/yai-port/validation/items-server.log и items-build.log. Ключи item-tooltip сверены с en_us и ru_ru; клиентский рендер ещё не проверен.

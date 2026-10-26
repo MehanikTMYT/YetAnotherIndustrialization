@@ -17,6 +17,11 @@ allprojects {
                 java.include 'me/luligabi/yet_another_industrialization/common/misc/YAIDamageTypes.java'
                 java.include 'me/luligabi/yet_another_industrialization/common/misc/effect/*.java'
                 java.include 'me/luligabi/yet_another_industrialization/common/misc/component/*.java'
+                java.include 'me/luligabi/yet_another_industrialization/common/item/food/*.java'
+                java.include 'me/luligabi/yet_another_industrialization/common/item/misc/*.java'
+                java.include 'me/luligabi/yet_another_industrialization/common/compat/guideme/*.java'
+                java.include 'me/luligabi/yet_another_industrialization/common/item/tools/IndustrialistsGogglesItem.java'
+                java.include 'me/luligabi/yet_another_industrialization/common/item/YAIItems.java'
                 compileClasspath += sourceSets.main.compileClasspath
             }
             foundationTest {

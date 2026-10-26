@@ -4,9 +4,11 @@ import net.neoforged.neoforge.common.NeoForge;
 import net.neoforged.neoforge.event.server.ServerStartedEvent;
 @Mod("yai_foundation_qa")
 public final class FoundationQa {
-    public FoundationQa() {
+    public FoundationQa(net.neoforged.bus.api.IEventBus bus) {
+        me.luligabi.yet_another_industrialization.common.misc.component.YAIDataComponents.init(bus);
+        ItemChecks.register(bus);
         NeoForge.EVENT_BUS.addListener((ServerStartedEvent event) -> {
-            try { FoundationChecks.main(new String[0]); FoundationChecks.checkComponents(event.getServer().registryAccess()); }
+            try { FoundationChecks.main(new String[0]); FoundationChecks.checkComponents(event.getServer().registryAccess()); ItemChecks.run(event.getServer()); }
             catch (Throwable failure) { failure.printStackTrace(); System.out.println("YAI_FOUNDATION_FAIL"); }
             finally { event.getServer().halt(false); }
         });
