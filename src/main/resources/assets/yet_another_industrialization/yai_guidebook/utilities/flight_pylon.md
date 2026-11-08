@@ -13,6 +13,7 @@ item_ids:
 
 <GameScene zoom="2" interactive={true} fullWidth={true}>
     <MultiblockShape controller="yet_another_industrialization:flight_pylon" />
+    <MultiblockShape controller="yet_another_industrialization:flight_pylon" useBigShape={true} x="-7" />
     <IsometricCamera yaw="190" pitch="15" />
 </GameScene>
 
@@ -22,9 +23,12 @@ Usually, you'll be able to unlock them during MV:
 
 <Recipe id="yet_another_industrialization:craft/flight_pylon_jetpack" />
 
-However, you can use an Elytra (which you can clone using [Dragon's Breath](../machines/arboreous_greenhouse.md)) to craft it early during LV:
+However, you can use an Elytra (which you can clone using [Dragon's Breath](../utilities/fluids.md)) to craft it early during LV:
 
-<Recipe id="yet_another_industrialization:craft/flight_pylon_elytra" />
+<Row>
+    <Recipe id="yet_another_industrialization:craft/flight_pylon_elytra" />
+    <Recipe id="yet_another_industrialization:mixer/elytra_duplication" />
+</Row>
 
 Pylons have multiple tiers, each increasing the effect's range and EU required. Check your recipe viewer for further details.
 

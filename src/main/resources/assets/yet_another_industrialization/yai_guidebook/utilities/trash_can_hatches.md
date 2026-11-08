@@ -20,8 +20,9 @@ item_ids:
 
 Special output hatches that automatically void anything as soon as it's outputted. Not any different from placing an Automatic Trash Can and enabling auto output, but I mean, it's neat, right?
 
-<Recipe id="yet_another_industrialization:craft/item_trash_can_hatch" />
+<Row>
+    <Recipe id="yet_another_industrialization:craft/item_trash_can_hatch" />
 
-<Recipe id="yet_another_industrialization:craft/fluid_trash_can_hatch" />
-
+    <Recipe id="yet_another_industrialization:craft/fluid_trash_can_hatch" />
+</Row>
 __**WARNING: These hatches have no priority over regular hatches. Make sure to properly lock all slots or risk having precious output thrown out!**__

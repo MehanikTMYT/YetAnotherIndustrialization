@@ -23,6 +23,9 @@ allprojects {
                 java.include 'me/luligabi/yet_another_industrialization/common/item/tools/*.java'
                 java.include 'me/luligabi/yet_another_industrialization/common/item/YAIItems.java'
                 java.include 'me/luligabi/yet_another_industrialization/common/misc/network/*.java'
+                java.include 'me/luligabi/yet_another_industrialization/client/SlotLockerClient.java'
+                java.include 'me/luligabi/yet_another_industrialization/client/renderer/item/*.java'
+                java.include 'me/luligabi/yet_another_industrialization/common/compat/recipeviewer/emi/*.java'
                 compileClasspath += sourceSets.main.compileClasspath
             }
             foundationTest {
@@ -34,6 +37,8 @@ allprojects {
         tasks.register('foundationQaJar', Jar) {
             dependsOn tasks.named('foundationTestClasses')
             archiveClassifier = 'foundation-qa'
+            from('src/main/resources') { include 'assets/**' }
+            from('src/generated/resources') { include 'assets/**' }
             from sourceSets.foundation.output
             from sourceSets.foundationTest.output
         }

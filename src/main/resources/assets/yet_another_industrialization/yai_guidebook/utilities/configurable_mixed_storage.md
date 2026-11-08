@@ -17,9 +17,8 @@ item_ids:
 
 A *mix* of Configurable Chests and Tanks! It contains 9 slots of each type, making it very useful in conjunction to AE2 buses, allowing 18 resources to be I/O'd with just 2 buses and a single block!
 
-
-<Recipe id="yet_another_industrialization:craft/configurable_mixed_storage" />
-
-<Recipe id="yet_another_industrialization:craft/configurable_mixed_storage_upgrade" />
-
+<Row>
+    <Recipe id="yet_another_industrialization:craft/configurable_mixed_storage" />
+    <Recipe id="yet_another_industrialization:craft/configurable_mixed_storage_upgrade" />
+</Row>
 

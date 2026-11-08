@@ -17,7 +17,7 @@ public abstract class ItemMixin {
         cancellable = true
     )
     private void yai$forceBarVisible(ItemStack stack, CallbackInfoReturnable<Boolean> cir) {
-        if (stack.getItem().builtInRegistryHolder().is(YAITags.INSTANCE.getLIFESPAN_DURABILITY_TOOLTIP())) {
+        if (stack.getItem().builtInRegistryHolder().is(YAITags.LIFESPAN_DURABILITY_TOOLTIP)) {
             cir.setReturnValue(false);
         }
     }

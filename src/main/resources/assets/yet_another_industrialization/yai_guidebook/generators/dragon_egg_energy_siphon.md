@@ -20,24 +20,33 @@ item_ids:
 
 Dragon Egg Energy Siphons are capable of generating energy by harnessing the Dragon Egg's power... Not! I mean, this is MI. Nothing is truly passive here :P
 
-<Recipe id="yet_another_industrialization:craft/dragon_egg_energy_siphon" />
-
-<Recipe id="yet_another_industrialization:craft/steel_plated_end_stone_bricks" />
+<Row>
+    <Recipe id="yet_another_industrialization:craft/dragon_egg_energy_siphon" />
+    <Recipe id="yet_another_industrialization:craft/steel_plated_end_stone_bricks" />
+</Row>
 
 ## Producing energy
 
-To Start, centrifuge your **Dragon Breath** bottles to acquire it as a fluid. Each bottle equals to 350mB.
-
-Using an **Assembler**, craft some **Dragon Egg Siphon Catalysts** with **Steel Plates**, a single **Quartz Tiny Dust** and **Dragon Breath**. They're consumed everytime energy is generated.
+Using an **Assembler**, craft some **Dragon Egg Siphon Catalysts** with **Steel Plates**, a single **Quartz Tiny Dust** and [Dragon's Breath](../utilities/fluids.md). They're consumed everytime energy is generated.
 
 Finally, input a **Dragon Egg Siphon Catalyst** and 1000mB of **Dragon Breath** to produce energy!
 
+<Recipe id="yet_another_industrialization:dragon_egg_energy_siphon/dragon_breath" />
+
 ## Aftermath
 
-After producing energy, the inserted Dragon Breath becomes **Impure Dragon Breath**. 
+After producing energy, the inserted Dragon's Breath becomes **Impure Dragon's Breath**. 
 
 At this state, it cannot be used for anything, so you'll need to purify it by centrifuging it. Doing so might also yield some **Quartz Tiny Dust**.
 
+<Recipe id="yet_another_industrialization:centrifuge/impure_dragon_breath_purify" />
+
+This cycle grants a net-positive amount of **Dragon's Breath**, also serving as the way to automate it even if you're not interested in the energy produced.
+
 ## Better yields?
 
-All aspects of this processing chain can be improved by replacing regular Dragon Breath with **Nutrient Dragon Breath** (more on it at [Arboreous Greenhouse](../machines/arboreous_greenhouse.md)).
+Use [Nutrient Dragon's Breath](../utilities/fluids.md) to improve all aspects of this processing chain!
+
+<Recipe id="yet_another_industrialization:dragon_egg_energy_siphon/nutrient_dragon_breath" />
+
+<Recipe id="yet_another_industrialization:centrifuge/impure_dragon_breath_purify_nutrient" />

@@ -102,3 +102,14 @@ FoundationChecks проверяет транзакции/границы энер
 Результат: 107 dedicated assertions PASS (17 energy + 22 components + 22 items + 46 locker).
 Логи NL: /root/home/scratch/yai-port/validation/locker-server.log и locker-build.log.
 В запуске был отдельный Log4j DebugFile/Netty kqueue platform-probe exception (OSX/BSD transport на Linux) до готовности сервера; сервер после этого запустился, все проверки прошли и завершился штатно. Это не чистый от предупреждений/ошибок лог; клиентская проверка и сетевой обмен с реальным клиентом ещё не выполнены.
+
+## Клиент Slot Locker — 2026-10-26
+
+- SlotLockerClient регистрирует фабрику подсказки и Shift+scroll для предмета в основной руке. Обработчик безопасен без player и не перехватывает прокрутку открытого GUI.
+- StorageSlotLockerComponent перенесён с GuiGraphics/RenderSystem на GuiGraphicsExtractor; сохранены размеры 40x22, обе иконки, atlas 256x256 и четыре состояния рамки.
+- EMI entrypoint и drag/drop handler перенесены на ItemResource/FluidResource и ClientPacketDistributor; компоненты выбранного ресурса сохраняются. Пустой список ингредиентов не вызывает исключения. Creative inventory по-прежнему исключён.
+- Убран AbstractContainerScreenAccessor из пути drag/drop: индекс берётся из menu.slots, попадание проверяется по координатам. getGuiLeft/getGuiTop поддерживаются NeoForge 26.1.2.122, но помечены deprecated.
+- В foundation QA добавлен отдельный CLIENT entrypoint и assets. На integrated server серверный QA больше не останавливает мир: dedicated проверки остаются отдельными.
+- Изолированный клиент: /root/home/scratch/yai-port/client-harness, NeoForge 26.1.2.122, MI fleet01, GuideMe 26.1.14-beta, SEMI 1.1.24-semi151a6c88+26.1.2, DISPLAY=:99.
+- В полном наборе старых assets выявлены ошибки machine/multiblock model loaders; их перенос остаётся отдельным обязательным этапом. Ресурсы не удалены и не заменены пустыми моделями.
+- Production client entrypoint ещё отсутствует: при его восстановлении вызвать SlotLockerClient.init(modBus); EMI находит YAIEmiPlugin через @EmiEntrypoint.

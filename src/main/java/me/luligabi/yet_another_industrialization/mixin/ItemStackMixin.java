@@ -27,7 +27,7 @@ public abstract class ItemStackMixin {
     )
     private boolean yai$suppressDurabilityTooltip(List<Component> list, Object component) {
         ItemStack self = (ItemStack)(Object) this;
-        if (self.getItem().builtInRegistryHolder().is(YAITags.INSTANCE.getLIFESPAN_DURABILITY_TOOLTIP())) {
+        if (self.getItem().builtInRegistryHolder().is(YAITags.LIFESPAN_DURABILITY_TOOLTIP)) {
             return false;
         }
         return list.add((Component) component);
@@ -43,8 +43,8 @@ public abstract class ItemStackMixin {
             @Local List<Component> list
     ) {
         ItemStack self = (ItemStack)(Object) this;
-        if (self.getItem().builtInRegistryHolder().is(YAITags.INSTANCE.getLIFESPAN_DURABILITY_TOOLTIP())) {
-            list.add(YAI.Companion.getTEXT().alwaysVisibleLifespan(
+        if (self.getItem().builtInRegistryHolder().is(YAITags.LIFESPAN_DURABILITY_TOOLTIP)) {
+            list.add(YAI.TEXT.lang().alwaysVisibleLifespan(
                     self.getMaxDamage() - self.getDamageValue(),
                     self.getMaxDamage()
             ));

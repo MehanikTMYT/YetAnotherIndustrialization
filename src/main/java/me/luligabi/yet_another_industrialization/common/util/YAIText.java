@@ -275,7 +275,7 @@ public interface YAIText {
 
     @WithStyle("gray")
     @LangKey(text = {"Lifespan: %s / %s"})
-    MutableComponent alwaysVisibleLifespan(
+    public MutableComponent alwaysVisibleLifespan(
         @WithStyle("highlight") int remaining,
         @WithStyle("highlight") int total
     );

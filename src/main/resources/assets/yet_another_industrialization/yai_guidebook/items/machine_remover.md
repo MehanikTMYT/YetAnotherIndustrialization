@@ -12,3 +12,5 @@ item_ids:
 ###### *Wrench's evil twin!?*
 
 Sneak + Right-click machines to remove them at the cost of energy.
+
+<RecipeFor id="yet_another_industrialization:machine_remover" />

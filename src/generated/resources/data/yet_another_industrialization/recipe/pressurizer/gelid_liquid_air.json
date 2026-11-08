@@ -24,7 +24,7 @@
   "process_conditions": [
     {
       "type": "modern_industrialization:biome",
-      "tag": "c:gelid_liquid_air_biomes"
+      "tag": "c:otherworldly_cold_biomes"
     }
   ]
 }

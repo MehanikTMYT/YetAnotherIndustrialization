@@ -30,4 +30,10 @@ Nuclear Rod Irradiators are capable of depleting nuclear fuel rods. They are bot
 
 <Recipe id="yet_another_industrialization:craft/nuclear_rod_irradiator" />
 
+<FloatingColumn align="right">
+	<PaddedBox left="5" right="10" bottom="5">
+		<ItemImage align="right" id="yet_another_industrialization:demon_core" scale="2" />
+	</PaddedBox>
+</FloatingColumn>
+
 To work, NRIs require EU and a **Neutron Source** item. These provide the depletion power required, but will be consumed or otherwise degrade overtime, needing to be replaced frequently. Check your recipe viewer for more details on them.

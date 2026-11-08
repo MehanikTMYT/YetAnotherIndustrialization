@@ -14,21 +14,28 @@ item_ids:
 # Large Storage Unit
 ###### *This is the kind of greed they talk about in the Bible, y' know?*
 
-<GameScene zoom="3" interactive={true} fullWidth={true}>
+<GameScene zoom="2" interactive={true} fullWidth={true}>
     <MultiblockShape controller="yet_another_industrialization:large_storage_unit" />
+    <MultiblockShape controller="yet_another_industrialization:large_storage_unit" useBigShape={true} x="-9" />
+    <IsometricCamera yaw="190" pitch="15" />
 </GameScene>
 
 Large Storage Units are capable of storing eight times more than their voltage's storage unit. That's a lot!
 
 Unlike other electric machines, LSUs can I/O to its voltage and lower ones. i.e. At HV it's capable of performing I/O to other machines at its voltage, MV and LV. No transformers required.
 
-<Recipe id="yet_another_industrialization:craft/large_storage_unit" />
+<Row>
+    <Recipe id="yet_another_industrialization:craft/large_storage_unit" />
 
-<Recipe id="yet_another_industrialization:materials/battery_alloy/craft/machine_casing_special" />
+    <Recipe id="yet_another_industrialization:materials/battery_alloy/craft/machine_casing_special" />
+</Row>
 
 Energy I/O is done through special hatches:
 
-<Recipe id="yet_another_industrialization:craft/large_storage_unit_input_hatch" />
+<Row>
+    <Recipe id="yet_another_industrialization:craft/large_storage_unit_input_hatch" />
 
-<Recipe id="yet_another_industrialization:craft/large_storage_unit_output_hatch" />
+    <Recipe id="yet_another_industrialization:craft/large_storage_unit_output_hatch" />
+</Row>
+
 

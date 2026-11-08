@@ -1,0 +1,272 @@
+WARNING: A restricted method in java.lang.System has been called
+WARNING: java.lang.System::load has been called by net.rubygrapefruit.platform.internal.NativeLibraryLoader in an unnamed module (file:/root/.gradle/wrapper/dists/gradle-9.2.1-bin/2t0n5ozlw9xmuyvbp7dnzaxug/gradle-9.2.1/lib/native-platform-0.22-milestone-29.jar)
+WARNING: Use --enable-native-access=ALL-UNNAMED to avoid a warning for callers in this module
+WARNING: Restricted methods will be blocked in a future release unless native access is enabled
+
+Calculating task graph as configuration cache cannot be reused because environment variable 'JAVA_HOME' has changed.
+
+> Task :createMinecraftArtifacts
+Loaded 127 artifacts from /root/home/forks/yai-stack/YetAnotherIndustrialization/build/tmp/createMinecraftArtifacts/nfrt_artifact_manifest.properties
+[1m*** Started working on [4mdownloadManifest[23;0m[23;0m
+  ↓ https://piston-meta.mojang.com/mc/game/version_manifest_v2.json
+ [1m[92m✓[23;0m Completed [4mdownloadManifest[23;0m in 0.97s
+[1m*** Started working on [4mdownloadJson[23;0m[23;0m
+ [1m[92m✓[23;0m Completed [4mdownloadJson[23;0m in 0.02s
+[1m*** Started working on [4mdownloadClient[23;0m[23;0m
+[1m*** Started working on [4mdownloadServer[23;0m[23;0m
+ [1m[92m✓[23;0m Completed [4mdownloadServer[23;0m in 0.07s
+ [1m[92m✓[23;0m Completed [4mdownloadClient[23;0m in 0.07s
+[1m*** Started working on [4mpreProcessJar[23;0m[23;0m
+ [1m[92m♻[23;0m Used cache of [4mpreProcessJar[23;0m in 0.00s
+[1m*** Started working on [4mdecompile[23;0m[23;0m
+ [1m[92m♻[23;0m Used cache of [4mdecompile[23;0m in 0.01s
+[1m*** Started working on [4mpatch[23;0m[23;0m
+ [1m[92m♻[23;0m Used cache of [4mpatch[23;0m in 0.02s
+[1m*** Started working on [4mapplyNeoforgePatches[23;0m[23;0m
+ [1m[92m♻[23;0m Used cache of [4mapplyNeoforgePatches[23;0m in 0.01s
+[1m*** Started working on [4mtransformSources[23;0m[23;0m
+ [1m[92m♻[23;0m Used cache of [4mtransformSources[23;0m in 0.00s
+[1m*** Started working on [4mrecompile[23;0m[23;0m
+ [1m[92m♻[23;0m Used cache of [4mrecompile[23;0m in 0.00s
+[1m*** Started working on [4mmergeWithSources[23;0m[23;0m
+ [1m[92m♻[23;0m Used cache of [4mmergeWithSources[23;0m in 0.00s
+Total runtime: 5.89s
+
+
+> Task :compileJava
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/ItemStackMixin.java:6: error: cannot find symbol
+import me.luligabi.yet_another_industrialization.common.YAI;
+                                                       ^
+  symbol:   class YAI
+  location: package me.luligabi.yet_another_industrialization.common
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/MachineBlockEntityMixin.java:4: error: cannot find symbol
+import me.luligabi.yet_another_industrialization.common.YAI;
+                                                       ^
+  symbol:   class YAI
+  location: package me.luligabi.yet_another_industrialization.common
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/MultiblockInventoryComponentAccessor.java:6: error: package aztech.modern_industrialization.thirdparty.fabrictransfer.api.storage does not exist
+import aztech.modern_industrialization.thirdparty.fabrictransfer.api.storage.TransferVariant;
+                                                                            ^
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/MultiblockInventoryComponentAccessor.java:17: error: cannot find symbol
+    <T, Stack extends AbstractConfigurableStack<T, ? extends TransferVariant<T>>> void invokeRebuildList(
+                                                             ^
+  symbol:   class TransferVariant
+  location: interface MultiblockInventoryComponentAccessor
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/HackedMachineRegistrationHelperAccessor.java:5: error: package net.swedz.tesseract.neoforge.compat.mi.hack does not exist
+import net.swedz.tesseract.neoforge.compat.mi.hack.HackedMachineRegistrationHelper;
+                                                  ^
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/HackedMachineRegistrationHelperAccessor.java:6: error: package net.swedz.tesseract.neoforge.compat.mi.hook does not exist
+import net.swedz.tesseract.neoforge.compat.mi.hook.MIHook;
+                                                  ^
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/HackedMachineRegistrationHelperAccessor.java:14: error: cannot find symbol
+    static void invokeRegisterReiTiers(MIHook hook, String englishName, String machine, MachineRecipeType recipeType, MachineCategoryParams categoryParams, int tiers) {
+                                       ^
+  symbol:   class MIHook
+  location: interface HackedMachineRegistrationHelperAccessor
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/MIHookContextAccessor.java:3: error: package net.swedz.tesseract.neoforge.compat.mi.hook does not exist
+import net.swedz.tesseract.neoforge.compat.mi.hook.MIHook;
+                                                  ^
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/MIHookContextAccessor.java:4: error: package net.swedz.tesseract.neoforge.compat.mi.hook.context does not exist
+import net.swedz.tesseract.neoforge.compat.mi.hook.context.MIHookContext;
+                                                          ^
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/MIHookContextAccessor.java:12: error: cannot find symbol
+    MIHook getHook();
+    ^
+  symbol:   class MIHook
+  location: interface MIHookContextAccessor
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/HatchFlagsMixin.java:6: error: cannot find symbol
+import me.luligabi.yet_another_industrialization.common.misc.YAIHatchTypes;
+                                                            ^
+  symbol:   class YAIHatchTypes
+  location: package me.luligabi.yet_another_industrialization.common.misc
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/MultiblockMachineBERMixin.java:6: error: package me.luligabi.yet_another_industrialization.common.misc.proxy does not exist
+import me.luligabi.yet_another_industrialization.common.misc.proxy.YAIModSlotProxy;
+                                                                  ^
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/HackedMachineRegistrationHelperAccessor.java:10: error: cannot find symbol
+@Mixin(value = HackedMachineRegistrationHelper.class, remap = false)
+               ^
+  symbol: class HackedMachineRegistrationHelper
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/MIHookContextAccessor.java:8: error: cannot find symbol
+@Mixin(value = MIHookContext.class, remap = false)
+               ^
+  symbol: class MIHookContext
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/ItemStackMixin.java:30: error: cannot find symbol
+        if (self.getItem().builtInRegistryHolder().is(YAITags.INSTANCE.getLIFESPAN_DURABILITY_TOOLTIP())) {
+                                                             ^
+  symbol:   variable INSTANCE
+  location: class YAITags
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/ItemStackMixin.java:46: error: cannot find symbol
+        if (self.getItem().builtInRegistryHolder().is(YAITags.INSTANCE.getLIFESPAN_DURABILITY_TOOLTIP())) {
+                                                             ^
+  symbol:   variable INSTANCE
+  location: class YAITags
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/ItemStackMixin.java:47: error: package YAI does not exist
+            list.add(YAI.Companion.getTEXT().alwaysVisibleLifespan(
+                        ^
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/MachineBlockEntityMixin.java:20: error: cannot find symbol
+        if (blockId.getNamespace().equals(YAI.ID)) {
+                                          ^
+  symbol:   variable YAI
+  location: class MachineBlockEntityMixin
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/ItemMixin.java:20: error: cannot find symbol
+        if (stack.getItem().builtInRegistryHolder().is(YAITags.INSTANCE.getLIFESPAN_DURABILITY_TOOLTIP())) {
+                                                              ^
+  symbol:   variable INSTANCE
+  location: class YAITags
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/HatchFlagsMixin.java:25: error: package YAIHatchTypes does not exist
+        if (type == YAIHatchTypes.INSTANCE.getMIXED_INPUT() &&
+                                 ^
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/HatchFlagsMixin.java:30: error: package YAIHatchTypes does not exist
+        if (type == YAIHatchTypes.INSTANCE.getMIXED_OUTPUT() &&
+                                 ^
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/MultiblockMachineBERMixin.java:47: error: package YAIModSlotProxy does not exist
+        final List<ItemStack> possibleGoggles = YAIModSlotProxy.Companion.getHeadItems(
+                                                               ^
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/MultiblockMachineBERMixin.java:53: error: cannot find symbol
+        return possibleGoggles.stream().anyMatch(stack -> stack.getOrDefault(YAIDataComponents.INSTANCE.getGOGGLES_ENABLED(), false));
+                                                                                              ^
+  symbol:   variable INSTANCE
+  location: class YAIDataComponents
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/common/compat/recipeviewer/emi/StorageSlotLockerDragDropHandler.java:31: warning: [removal] getGuiLeft() in AbstractContainerScreen has been deprecated and marked for removal
+            int x = container.getGuiLeft() + slot.x, y = container.getGuiTop() + slot.y;
+                             ^
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/common/compat/recipeviewer/emi/StorageSlotLockerDragDropHandler.java:31: warning: [removal] getGuiTop() in AbstractContainerScreen has been deprecated and marked for removal
+            int x = container.getGuiLeft() + slot.x, y = container.getGuiTop() + slot.y;
+                                                                  ^
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/common/compat/recipeviewer/emi/StorageSlotLockerDragDropHandler.java:46: warning: [removal] getGuiLeft() in AbstractContainerScreen has been deprecated and marked for removal
+            int x = container.getGuiLeft() + slot.x, y = container.getGuiTop() + slot.y;
+                             ^
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/common/compat/recipeviewer/emi/StorageSlotLockerDragDropHandler.java:46: warning: [removal] getGuiTop() in AbstractContainerScreen has been deprecated and marked for removal
+            int x = container.getGuiLeft() + slot.x, y = container.getGuiTop() + slot.y;
+                                                                  ^
+Note: Some input files use or override a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+23 errors
+4 warnings
+
+> Task :compileJava FAILED
+
+[Incubating] Problems report is available at: file:///root/home/forks/yai-stack/YetAnotherIndustrialization/build/reports/problems/problems-report.html
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':compileJava'.
+> Compilation failed; see the compiler output below.
+  Note: Recompile with -Xlint:deprecation for details.
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/ItemStackMixin.java:6: error: cannot find symbol
+  import me.luligabi.yet_another_industrialization.common.YAI;
+                                                         ^
+    symbol:   class YAI
+    location: package me.luligabi.yet_another_industrialization.common
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/MachineBlockEntityMixin.java:4: error: cannot find symbol
+  import me.luligabi.yet_another_industrialization.common.YAI;
+                                                         ^
+    symbol:   class YAI
+    location: package me.luligabi.yet_another_industrialization.common
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/MultiblockInventoryComponentAccessor.java:17: error: cannot find symbol
+      <T, Stack extends AbstractConfigurableStack<T, ? extends TransferVariant<T>>> void invokeRebuildList(
+                                                               ^
+    symbol:   class TransferVariant
+    location: interface MultiblockInventoryComponentAccessor
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/HackedMachineRegistrationHelperAccessor.java:14: error: cannot find symbol
+      static void invokeRegisterReiTiers(MIHook hook, String englishName, String machine, MachineRecipeType recipeType, MachineCategoryParams categoryParams, int tiers) {
+                                         ^
+    symbol:   class MIHook
+    location: interface HackedMachineRegistrationHelperAccessor
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/MIHookContextAccessor.java:12: error: cannot find symbol
+      MIHook getHook();
+      ^
+    symbol:   class MIHook
+    location: interface MIHookContextAccessor
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/HatchFlagsMixin.java:6: error: cannot find symbol
+  import me.luligabi.yet_another_industrialization.common.misc.YAIHatchTypes;
+                                                              ^
+    symbol:   class YAIHatchTypes
+    location: package me.luligabi.yet_another_industrialization.common.misc
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/ItemStackMixin.java:30: error: cannot find symbol
+          if (self.getItem().builtInRegistryHolder().is(YAITags.INSTANCE.getLIFESPAN_DURABILITY_TOOLTIP())) {
+                                                               ^
+    symbol:   variable INSTANCE
+    location: class YAITags
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/ItemStackMixin.java:46: error: cannot find symbol
+          if (self.getItem().builtInRegistryHolder().is(YAITags.INSTANCE.getLIFESPAN_DURABILITY_TOOLTIP())) {
+                                                               ^
+    symbol:   variable INSTANCE
+    location: class YAITags
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/MachineBlockEntityMixin.java:20: error: cannot find symbol
+          if (blockId.getNamespace().equals(YAI.ID)) {
+                                            ^
+    symbol:   variable YAI
+    location: class MachineBlockEntityMixin
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/ItemMixin.java:20: error: cannot find symbol
+          if (stack.getItem().builtInRegistryHolder().is(YAITags.INSTANCE.getLIFESPAN_DURABILITY_TOOLTIP())) {
+                                                                ^
+    symbol:   variable INSTANCE
+    location: class YAITags
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/MultiblockMachineBERMixin.java:53: error: cannot find symbol
+          return possibleGoggles.stream().anyMatch(stack -> stack.getOrDefault(YAIDataComponents.INSTANCE.getGOGGLES_ENABLED(), false));
+                                                                                                ^
+    symbol:   variable INSTANCE
+    location: class YAIDataComponents
+  Note: Some input files use or override a deprecated API.
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/common/compat/recipeviewer/emi/StorageSlotLockerDragDropHandler.java:31: warning: [removal] getGuiLeft() in AbstractContainerScreen has been deprecated and marked for removal
+              int x = container.getGuiLeft() + slot.x, y = container.getGuiTop() + slot.y;
+                               ^
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/common/compat/recipeviewer/emi/StorageSlotLockerDragDropHandler.java:31: warning: [removal] getGuiTop() in AbstractContainerScreen has been deprecated and marked for removal
+              int x = container.getGuiLeft() + slot.x, y = container.getGuiTop() + slot.y;
+                                                                    ^
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/common/compat/recipeviewer/emi/StorageSlotLockerDragDropHandler.java:46: warning: [removal] getGuiLeft() in AbstractContainerScreen has been deprecated and marked for removal
+              int x = container.getGuiLeft() + slot.x, y = container.getGuiTop() + slot.y;
+                               ^
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/common/compat/recipeviewer/emi/StorageSlotLockerDragDropHandler.java:46: warning: [removal] getGuiTop() in AbstractContainerScreen has been deprecated and marked for removal
+              int x = container.getGuiLeft() + slot.x, y = container.getGuiTop() + slot.y;
+                                                                    ^
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/HackedMachineRegistrationHelperAccessor.java:10: error: cannot find symbol
+  @Mixin(value = HackedMachineRegistrationHelper.class, remap = false)
+                 ^
+    symbol: class HackedMachineRegistrationHelper
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/MIHookContextAccessor.java:8: error: cannot find symbol
+  @Mixin(value = MIHookContext.class, remap = false)
+                 ^
+    symbol: class MIHookContext
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/MultiblockInventoryComponentAccessor.java:6: error: package aztech.modern_industrialization.thirdparty.fabrictransfer.api.storage does not exist
+  import aztech.modern_industrialization.thirdparty.fabrictransfer.api.storage.TransferVariant;
+                                                                              ^
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/HackedMachineRegistrationHelperAccessor.java:5: error: package net.swedz.tesseract.neoforge.compat.mi.hack does not exist
+  import net.swedz.tesseract.neoforge.compat.mi.hack.HackedMachineRegistrationHelper;
+                                                    ^
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/HackedMachineRegistrationHelperAccessor.java:6: error: package net.swedz.tesseract.neoforge.compat.mi.hook does not exist
+  import net.swedz.tesseract.neoforge.compat.mi.hook.MIHook;
+                                                    ^
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/MIHookContextAccessor.java:3: error: package net.swedz.tesseract.neoforge.compat.mi.hook does not exist
+  import net.swedz.tesseract.neoforge.compat.mi.hook.MIHook;
+                                                    ^
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/MIHookContextAccessor.java:4: error: package net.swedz.tesseract.neoforge.compat.mi.hook.context does not exist
+  import net.swedz.tesseract.neoforge.compat.mi.hook.context.MIHookContext;
+                                                            ^
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/MultiblockMachineBERMixin.java:6: error: package me.luligabi.yet_another_industrialization.common.misc.proxy does not exist
+  import me.luligabi.yet_another_industrialization.common.misc.proxy.YAIModSlotProxy;
+                                                                    ^
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/ItemStackMixin.java:47: error: package YAI does not exist
+              list.add(YAI.Companion.getTEXT().alwaysVisibleLifespan(
+                          ^
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/HatchFlagsMixin.java:25: error: package YAIHatchTypes does not exist
+          if (type == YAIHatchTypes.INSTANCE.getMIXED_INPUT() &&
+                                   ^
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/HatchFlagsMixin.java:30: error: package YAIHatchTypes does not exist
+          if (type == YAIHatchTypes.INSTANCE.getMIXED_OUTPUT() &&
+                                   ^
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/MultiblockMachineBERMixin.java:47: error: package YAIModSlotProxy does not exist
+          final List<ItemStack> possibleGoggles = YAIModSlotProxy.Companion.getHeadItems(
+                                                                 ^
+  23 errors
+  4 warnings
+
+* Try:
+> Check your code and dependencies to fix the compilation error(s)
+> Run with --scan to generate a Build Scan (powered by Develocity).
+
+BUILD FAILED in 18s
+2 actionable tasks: 2 executed
+Configuration cache entry stored.

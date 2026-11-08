@@ -17,8 +17,34 @@ item_ids:
 
 Harnesses the energy created by the impact of controlled explosions made by artificial explosives and a reagent fluid.
 
-<Recipe id="yet_another_industrialization:craft/pulse_detonation_generator" />
+<Row>
+    <Recipe id="yet_another_industrialization:craft/pulse_detonation_generator" />
 
-<Recipe id="yet_another_industrialization:craft/detonation_chamber_casing" />
+    <Recipe id="yet_another_industrialization:craft/detonation_chamber_casing" />
+</Row>
 
-**Industrial TNT** recipes range from 100,000 and 2,000,000 whereas **Nuke** recipes range from 200,000,000 up to 20,000,000,000+!
+
+
+<Column>
+    ## Industrial TNT Recipes
+
+    <Row>
+        <Recipe id="yet_another_industrialization:pulse_detonation_generator/industrial_tnt/8" />
+        <Recipe id="yet_another_industrialization:pulse_detonation_generator/industrial_tnt/16" />
+    </Row>
+    <Row>
+        <Recipe id="yet_another_industrialization:pulse_detonation_generator/industrial_tnt/32" />
+        <Recipe id="yet_another_industrialization:pulse_detonation_generator/industrial_tnt/64" />
+    </Row>
+
+    ## Nuke Recipes
+
+    <Row>
+        <Recipe id="yet_another_industrialization:pulse_detonation_generator/nuke/8" />
+        <Recipe id="yet_another_industrialization:pulse_detonation_generator/nuke/16" />
+    </Row>
+    <Row>
+        <Recipe id="yet_another_industrialization:pulse_detonation_generator/nuke/32" />
+        <Recipe id="yet_another_industrialization:pulse_detonation_generator/nuke/64" />
+    </Row>
+</Column>

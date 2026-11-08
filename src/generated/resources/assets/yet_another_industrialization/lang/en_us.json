@@ -175,4 +175,14 @@
   "text.yet_another_industrialization.ultradense_metal_ball_burger_tooltip": "The buns are barely capable of holding it all together",
   "yet_another_industrialization.subtitle.machine_remover_remove": "Machine Remover activates",
   "yet_another_industrialization.subtitle.storage_slot_locker_lock": "Storage Slot Locker activates"
+  ,
+  "tag.block.c.myceliums": "Mycelium Blocks",
+  "tag.block.yet_another_industrialization.grass_soils": "Grass Soils",
+  "tag.block.yet_another_industrialization.netherrack_soils": "Netherrack Soils",
+  "tag.block_entity_type.yet_another_industrialization.machine_remover_banned": "Machine Remover Banned",
+  "tag.item.c.modern_industrialization.guide_books": "MI Guide Books",
+  "tag.item.yet_another_industrialization.lifespan_durability_tooltip": "Lifespan Durability Tooltip",
+  "tag.worldgen.biome.c.otherworldly_cold_biomes": "Otherworldly Cold Biomes",
+  "tag.worldgen.biome.c.otherworldly_hot_biomes": "Otherworldly Hot Biomes",
+  "text.yet_another_industrialization.machine_remover_banned": "Sorry, can't remove this type of machine :("
 }

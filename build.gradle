@@ -74,6 +74,9 @@ dependencies {
     implementation "dev.technici4n:GrandPower:${grandpower_version}"
     implementation "aztech:Modern-Industrialization:${modern_industrialization_version}"
     implementation "net.swedz:tesseract-api-neoforge:${tesseract_version}"
+    // fleet: аннотации net.swedz.tesseract.config.annotation (ConfigComment/ConfigKey/Range/SubSection)
+    // лежат в tesseract-api:1.0.2, а НЕ в tesseract-api-neoforge — как в EI и Overdrive.
+    compileOnly "net.swedz:tesseract-api:1.0.2"
     implementation "org.appliedenergistics:guideme:${guideme_version}"
 
     compileOnly "dev.emi:emi-neoforge:${emi_version}+${emi_minecraft_version}:api"

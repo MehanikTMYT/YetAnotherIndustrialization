@@ -11,8 +11,14 @@ item_ids:
 # Cryogenic Precipitator
 ###### *brrr*
 
-The Cryogenic Precipitator is a machine that can be used to transform fluids into other resources, like ice, snow and basalt. Similar to Vacuum Freezers, your cryofluid is partly returned as **Argon** and **Helium**.
+The Cryogenic Precipitator is a machine that can be used to transform fluids into other resources, like ice, snow and basalt. 
 
 <Recipe id="yet_another_industrialization:craft/cryogenic_precipitator" />
 
-You can use Nutrient fluids to double your output!
+Similar to Vacuum Freezers, your cryofluid is partly returned as **Argon** and **Helium**.
+
+<Recipe id="yet_another_industrialization:cryogenic_precipitator/blue_ice" />
+
+You can use [nutrient fluids](../utilities/fluids.md) to double your output!
+
+<Recipe id="yet_another_industrialization:cryogenic_precipitator/blue_ice_nutrient" />

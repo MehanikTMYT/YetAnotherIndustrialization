@@ -1,0 +1,133 @@
+WARNING: A restricted method in java.lang.System has been called
+WARNING: java.lang.System::load has been called by net.rubygrapefruit.platform.internal.NativeLibraryLoader in an unnamed module (file:/root/.gradle/wrapper/dists/gradle-9.2.1-bin/2t0n5ozlw9xmuyvbp7dnzaxug/gradle-9.2.1/lib/native-platform-0.22-milestone-29.jar)
+WARNING: Use --enable-native-access=ALL-UNNAMED to avoid a warning for callers in this module
+WARNING: Restricted methods will be blocked in a future release unless native access is enabled
+
+Reusing configuration cache.
+> Task :createMinecraftArtifacts UP-TO-DATE
+
+> Task :compileJava FAILED
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/ItemStackMixin.java:47: error: cannot find symbol
+            list.add(YAI.Companion.getTEXT().alwaysVisibleLifespan(
+                        ^
+  symbol:   variable Companion
+  location: class YAI
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/MultiblockMachineBERMixin.java:47: error: cannot find symbol
+        final List<ItemStack> possibleGoggles = YAIModSlotProxy.Companion.getHeadItems(
+                                                               ^
+  symbol:   variable Companion
+  location: class YAIModSlotProxy
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/common/misc/proxy/YAIModSlotProxy.java:35: error: cannot find symbol
+        items.addAll(inventory.armor);
+                              ^
+  symbol:   variable armor
+  location: variable inventory of type Inventory
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/common/misc/proxy/YAIModSlotProxy.java:36: error: items has private access in Inventory
+        items.addAll(inventory.items);
+                              ^
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/common/misc/proxy/YAIModSlotProxy.java:37: error: cannot find symbol
+        items.addAll(inventory.offhand);
+                              ^
+  symbol:   variable offhand
+  location: variable inventory of type Inventory
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/common/misc/proxy/YAIModSlotProxy.java:45: error: cannot find symbol
+        var armorItem = inventory.armor.get(3);
+                                 ^
+  symbol:   variable armor
+  location: variable inventory of type Inventory
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/common/misc/proxy/YAIModSlotProxy.java:52: error: cannot find symbol
+        if (filter.test(player.getInventory().armor.get(3))) return true;
+                                             ^
+  symbol:   variable armor
+  location: class Inventory
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/common/YAI.java:23: error: cannot find symbol
+        ModConfigFileAccess file = new ModConfigFileAccess(net.neoforged.fml.ModList.get().getModContainer(ID).orElseThrow(), net.neoforged.fml.config.ModConfig.Type.COMMON);
+                                                                                          ^
+  symbol:   method getModContainer(String)
+  location: class ModList
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/common/compat/recipeviewer/emi/StorageSlotLockerDragDropHandler.java:31: warning: [removal] getGuiLeft() in AbstractContainerScreen has been deprecated and marked for removal
+            int x = container.getGuiLeft() + slot.x, y = container.getGuiTop() + slot.y;
+                             ^
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/common/compat/recipeviewer/emi/StorageSlotLockerDragDropHandler.java:31: warning: [removal] getGuiTop() in AbstractContainerScreen has been deprecated and marked for removal
+            int x = container.getGuiLeft() + slot.x, y = container.getGuiTop() + slot.y;
+                                                                  ^
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/common/compat/recipeviewer/emi/StorageSlotLockerDragDropHandler.java:46: warning: [removal] getGuiLeft() in AbstractContainerScreen has been deprecated and marked for removal
+            int x = container.getGuiLeft() + slot.x, y = container.getGuiTop() + slot.y;
+                             ^
+/root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/common/compat/recipeviewer/emi/StorageSlotLockerDragDropHandler.java:46: warning: [removal] getGuiTop() in AbstractContainerScreen has been deprecated and marked for removal
+            int x = container.getGuiLeft() + slot.x, y = container.getGuiTop() + slot.y;
+                                                                  ^
+Note: Some input files use or override a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+8 errors
+4 warnings
+
+[Incubating] Problems report is available at: file:///root/home/forks/yai-stack/YetAnotherIndustrialization/build/reports/problems/problems-report.html
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':compileJava'.
+> Compilation failed; see the compiler output below.
+  Note: Recompile with -Xlint:deprecation for details.
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/ItemStackMixin.java:47: error: cannot find symbol
+              list.add(YAI.Companion.getTEXT().alwaysVisibleLifespan(
+                          ^
+    symbol:   variable Companion
+    location: class YAI
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/mixin/MultiblockMachineBERMixin.java:47: error: cannot find symbol
+          final List<ItemStack> possibleGoggles = YAIModSlotProxy.Companion.getHeadItems(
+                                                                 ^
+    symbol:   variable Companion
+    location: class YAIModSlotProxy
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/common/misc/proxy/YAIModSlotProxy.java:35: error: cannot find symbol
+          items.addAll(inventory.armor);
+                                ^
+    symbol:   variable armor
+    location: variable inventory of type Inventory
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/common/misc/proxy/YAIModSlotProxy.java:37: error: cannot find symbol
+          items.addAll(inventory.offhand);
+                                ^
+    symbol:   variable offhand
+    location: variable inventory of type Inventory
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/common/misc/proxy/YAIModSlotProxy.java:45: error: cannot find symbol
+          var armorItem = inventory.armor.get(3);
+                                   ^
+    symbol:   variable armor
+    location: variable inventory of type Inventory
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/common/misc/proxy/YAIModSlotProxy.java:52: error: cannot find symbol
+          if (filter.test(player.getInventory().armor.get(3))) return true;
+                                               ^
+    symbol:   variable armor
+    location: class Inventory
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/common/misc/proxy/YAIModSlotProxy.java:36: error: items has private access in Inventory
+          items.addAll(inventory.items);
+                                ^
+  Note: Some input files use or override a deprecated API.
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/common/compat/recipeviewer/emi/StorageSlotLockerDragDropHandler.java:31: warning: [removal] getGuiLeft() in AbstractContainerScreen has been deprecated and marked for removal
+              int x = container.getGuiLeft() + slot.x, y = container.getGuiTop() + slot.y;
+                               ^
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/common/compat/recipeviewer/emi/StorageSlotLockerDragDropHandler.java:31: warning: [removal] getGuiTop() in AbstractContainerScreen has been deprecated and marked for removal
+              int x = container.getGuiLeft() + slot.x, y = container.getGuiTop() + slot.y;
+                                                                    ^
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/common/compat/recipeviewer/emi/StorageSlotLockerDragDropHandler.java:46: warning: [removal] getGuiLeft() in AbstractContainerScreen has been deprecated and marked for removal
+              int x = container.getGuiLeft() + slot.x, y = container.getGuiTop() + slot.y;
+                               ^
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/common/compat/recipeviewer/emi/StorageSlotLockerDragDropHandler.java:46: warning: [removal] getGuiTop() in AbstractContainerScreen has been deprecated and marked for removal
+              int x = container.getGuiLeft() + slot.x, y = container.getGuiTop() + slot.y;
+                                                                    ^
+  /root/home/forks/yai-stack/YetAnotherIndustrialization/src/main/java/me/luligabi/yet_another_industrialization/common/YAI.java:23: error: cannot find symbol
+          ModConfigFileAccess file = new ModConfigFileAccess(net.neoforged.fml.ModList.get().getModContainer(ID).orElseThrow(), net.neoforged.fml.config.ModConfig.Type.COMMON);
+                                                                                            ^
+    symbol:   method getModContainer(String)
+    location: class ModList
+  8 errors
+  4 warnings
+
+* Try:
+> Check your code and dependencies to fix the compilation error(s)
+> Run with --scan to generate a Build Scan (powered by Develocity).
+
+BUILD FAILED in 2s
+2 actionable tasks: 1 executed, 1 up-to-date
+Configuration cache entry reused.

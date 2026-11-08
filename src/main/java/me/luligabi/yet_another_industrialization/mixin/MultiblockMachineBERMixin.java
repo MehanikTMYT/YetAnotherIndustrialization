@@ -44,13 +44,13 @@ public abstract class MultiblockMachineBERMixin {
 
     @Unique
     private static boolean yet_another_industrialization$getResult(boolean original) {
-        final List<ItemStack> possibleGoggles = YAIModSlotProxy.Companion.getHeadItems(
+        final List<ItemStack> possibleGoggles = YAIModSlotProxy.getHeadItems(
                 Minecraft.getInstance().player,
                 stack -> stack.getItem() instanceof IndustrialistsGogglesItem
         );
         if (possibleGoggles.isEmpty()) return original;
 
-        return possibleGoggles.stream().anyMatch(stack -> stack.getOrDefault(YAIDataComponents.INSTANCE.getGOGGLES_ENABLED(), false));
+        return possibleGoggles.stream().anyMatch(stack -> stack.getOrDefault(YAIDataComponents.GOGGLES_ENABLED.get(), false));
     }
 
 }

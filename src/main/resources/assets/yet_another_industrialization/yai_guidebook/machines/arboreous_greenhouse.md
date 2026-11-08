@@ -6,17 +6,15 @@ navigation:
   parent: yet_another_industrialization:machines.md
 item_ids:
   - yet_another_industrialization:arboreous_greenhouse
-  - yet_another_industrialization:nutrient_rich_water_bucket
-  - yet_another_industrialization:nutrient_rich_lava_bucket
-  - yet_another_industrialization:dragon_breath_bucket
-  - yet_another_industrialization:nutrient_rich_dragon_breath_bucket
 ---
 
 # Arboreous Greenhouse
 ###### *letitgrowleitgrow*
 
-<GameScene zoom="2" interactive={true} fullWidth={true}>
+<GameScene zoom="1.5" interactive={true} fullWidth={true}>
     <MultiblockShape controller="yet_another_industrialization:arboreous_greenhouse" />
+    <MultiblockShape controller="yet_another_industrialization:arboreous_greenhouse" useBigShape={true} x="-14" />
+    <IsometricCamera yaw="190" pitch="15" />
 </GameScene>
 
 Arboreous Greenhouses are capable of growing trees or otherwise large plants.
@@ -25,20 +23,16 @@ Arboreous Greenhouses are capable of growing trees or otherwise large plants.
 
 ## Getting started
 
-All recipes require a single sapling (or equivalent), a fluid and the appropriate multiblock soil.
+All recipes require a single sapling (or equivalent), a fluid and the appropriate multiblock soil:
 
-Which ones? Well, different plants naturally have different needs. Some might need Water and Sand while others require Lava and Netherrack. Always check your recipe viewer for accurate info!
+<Recipe id="yet_another_industrialization:arboreous_greenhouse/minecraft/oak_sapling/regular" />
 
-Trees will always yield their Logs, Leaves and their own saplings. Some trees might have additional drops like fruits, roots, etc.
+Naturally, different plants have different needs. Some might need Water and Sand while others require Lava and Netherrack. Always check your recipe viewer for accurate info!
+
+Some also might have additional drops like fruits, roots, etc.
 
 ## Better yields
 
-All outputs can be doubled by replacing the fluid used with its nutrient variant. Using a **Centrifuge**, mix the following:
+All outputs can be doubled by replacing the fluid used with its [nutrient variant](../utilities/fluids.md):
 
-Water + Bone Meal = **Nutrient Water**
-
-Lava + Nether Wart = **Nutrient Lava**
-
-Dragon Breath + Popped Chorus Fruit = **Nutrient Dragon Breath**
-
-Dragon Breath is annoying to collect, so consider automating it through [Impure Dragon Breath purification](../generators/dragon_egg_energy_siphon.md)!
+<Recipe id="yet_another_industrialization:arboreous_greenhouse/minecraft/oak_sapling/nutrient" />

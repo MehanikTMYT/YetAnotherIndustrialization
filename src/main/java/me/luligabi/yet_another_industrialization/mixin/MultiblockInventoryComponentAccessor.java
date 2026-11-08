@@ -3,7 +3,6 @@ package me.luligabi.yet_another_industrialization.mixin;
 import aztech.modern_industrialization.inventory.AbstractConfigurableStack;
 import aztech.modern_industrialization.machines.components.MultiblockInventoryComponent;
 import aztech.modern_industrialization.machines.multiblocks.HatchBlockEntity;
-import aztech.modern_industrialization.thirdparty.fabrictransfer.api.storage.TransferVariant;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.gen.Invoker;
 
@@ -14,7 +13,7 @@ import java.util.function.BiConsumer;
 public interface MultiblockInventoryComponentAccessor {
 
     @Invoker("rebuildList")
-    <T, Stack extends AbstractConfigurableStack<T, ? extends TransferVariant<T>>> void invokeRebuildList(
+    <T, Stack extends aztech.modern_industrialization.inventory.AbstractConfigurableStack<T, ? extends net.neoforged.neoforge.transfer.resource.DataComponentHolderResource<T>>> void invokeRebuildList(
             List<HatchBlockEntity> sortedHatches, List<Stack> stacks, BiConsumer<HatchBlockEntity, List<Stack>> appender);
 
 }

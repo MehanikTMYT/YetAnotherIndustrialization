@@ -22,12 +22,12 @@ public abstract class HatchFlagsMixin {
 
     @Inject(method = "allows", at = @At("HEAD"), cancellable = true)
     public void yet_another_industrialization_allows(HatchType type, CallbackInfoReturnable<Boolean> cir) {
-        if (type == YAIHatchTypes.INSTANCE.getMIXED_INPUT() &&
+        if (type == YAIHatchTypes.MIXED_INPUT &&
                 (allowed.contains(HatchTypes.ITEM_INPUT) || allowed.contains(HatchTypes.FLUID_INPUT))) {
             cir.setReturnValue(true);
         }
 
-        if (type == YAIHatchTypes.INSTANCE.getMIXED_OUTPUT() &&
+        if (type == YAIHatchTypes.MIXED_OUTPUT &&
                 (allowed.contains(HatchTypes.ITEM_OUTPUT) || allowed.contains(HatchTypes.FLUID_OUTPUT))) {
             cir.setReturnValue(true);
         }
