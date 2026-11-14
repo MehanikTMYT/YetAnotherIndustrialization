@@ -1,0 +1,134 @@
+{
+  "ref": {
+    "a": {
+      "Name": "productivetrees:hawthorn_fruit",
+      "Properties": {
+        "age": "0",
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "productivetrees:hawthorn_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "productivetrees:hawthorn_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "productivetrees:hawthorn_leaves",
+      "Properties": {
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "productivetrees:hawthorn_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "productivetrees:hawthorn_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "productivetrees:hawthorn_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "h": {
+      "Name": "productivetrees:hawthorn_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "i": {
+      "Name": "productivetrees:hawthorn_log",
+      "Properties": {
+        "axis": "y"
+      }
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      " aadaa ",
+      " dddaa ",
+      "       ",
+      "       "
+    ],
+    [
+      "  fba  ",
+      " head  ",
+      "aaaadaa",
+      "daddaaa",
+      "       ",
+      "       "
+    ],
+    [
+      " fbgaa ",
+      " aaaaa ",
+      "ddacaaa",
+      "adaadad",
+      "       ",
+      "       "
+    ],
+    [
+      " agcgb ",
+      " acica ",
+      "hagiaad",
+      "eagiaaa",
+      "   i   ",
+      "   i   "
+    ],
+    [
+      " fbgaf ",
+      " aaaga ",
+      "afaaaad",
+      "fbgcada",
+      "       ",
+      "       "
+    ],
+    [
+      "  aaa  ",
+      "  aaad ",
+      "daaddaa",
+      "aabadaa",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "aaaaddd",
+      "aaaaaa ",
+      "       ",
+      "       "
+    ]
+  ],
+  "version": 4
+}

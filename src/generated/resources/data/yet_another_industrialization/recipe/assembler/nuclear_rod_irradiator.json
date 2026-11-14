@@ -5,25 +5,25 @@
   "item_inputs": [
     {
       "amount": 2,
-      "item": "modern_industrialization:plutonium_dust"
+      "ingredient": "modern_industrialization:plutonium_dust"
     },
     {
       "amount": 2,
-      "item": "modern_industrialization:processing_unit"
+      "ingredient": "modern_industrialization:processing_unit"
     },
     {
       "amount": 1,
-      "item": "modern_industrialization:highly_advanced_machine_hull"
+      "ingredient": "modern_industrialization:highly_advanced_machine_hull"
     },
     {
       "amount": 4,
-      "item": "modern_industrialization:nuclear_alloy_large_plate"
+      "ingredient": "modern_industrialization:nuclear_alloy_large_plate"
     }
   ],
   "item_outputs": [
     {
       "amount": 1,
-      "item": "yet_another_industrialization:nuclear_rod_irradiator"
+      "id": "yet_another_industrialization:nuclear_rod_irradiator"
     }
   ]
 }

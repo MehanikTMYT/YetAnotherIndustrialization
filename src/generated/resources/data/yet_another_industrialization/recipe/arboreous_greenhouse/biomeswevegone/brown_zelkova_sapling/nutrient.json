@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "biomeswevegone:brown_zelkova_sapling",
+      "ingredient": "biomeswevegone:brown_zelkova_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "biomeswevegone:zelkova_log"
+      "id": "biomeswevegone:zelkova_log"
     },
     {
       "amount": 64,
-      "item": "biomeswevegone:brown_zelkova_leaves"
+      "id": "biomeswevegone:brown_zelkova_leaves"
     },
     {
       "amount": 1,
-      "item": "biomeswevegone:brown_zelkova_sapling"
+      "id": "biomeswevegone:brown_zelkova_sapling"
     }
   ],
   "process_conditions": [

@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 500,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "biomesoplenty:empyreal_sapling",
+      "ingredient": "biomesoplenty:empyreal_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "biomesoplenty:empyreal_log"
+      "id": "biomesoplenty:empyreal_log"
     },
     {
       "amount": 32,
-      "item": "biomesoplenty:empyreal_leaves"
+      "id": "biomesoplenty:empyreal_leaves"
     },
     {
       "amount": 1,
-      "item": "biomesoplenty:empyreal_sapling",
+      "id": "biomesoplenty:empyreal_sapling",
       "probability": 0.5
     }
   ],

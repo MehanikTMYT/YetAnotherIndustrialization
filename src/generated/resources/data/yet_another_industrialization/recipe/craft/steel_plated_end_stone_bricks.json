@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "B": {
-      "item": "minecraft:end_stone_bricks"
-    },
-    "P": {
-      "item": "modern_industrialization:steel_plate"
-    }
+    "B": "minecraft:end_stone_bricks",
+    "P": "modern_industrialization:steel_plate"
   },
   "pattern": [
     "PPP",

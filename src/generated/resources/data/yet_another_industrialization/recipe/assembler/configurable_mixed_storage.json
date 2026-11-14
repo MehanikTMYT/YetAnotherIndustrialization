@@ -5,25 +5,25 @@
   "item_inputs": [
     {
       "amount": 4,
-      "item": "modern_industrialization:electronic_circuit"
+      "ingredient": "modern_industrialization:electronic_circuit"
     },
     {
       "amount": 1,
-      "item": "modern_industrialization:clean_stainless_steel_machine_casing"
+      "ingredient": "modern_industrialization:clean_stainless_steel_machine_casing"
     },
     {
       "amount": 2,
-      "item": "modern_industrialization:stainless_steel_tank"
+      "ingredient": "modern_industrialization:stainless_steel_tank"
     },
     {
       "amount": 2,
-      "item": "minecraft:hopper"
+      "ingredient": "minecraft:hopper"
     }
   ],
   "item_outputs": [
     {
       "amount": 4,
-      "item": "yet_another_industrialization:configurable_mixed_storage"
+      "id": "yet_another_industrialization:configurable_mixed_storage"
     }
   ]
 }

@@ -41,3 +41,7 @@ file="${mod_id}-accesstransformer.cfg"
     versionRange="${tesseract_version_range}"
     ordering="AFTER"
     side="BOTH"
+    # синк/порт 26.1.2: tesseract-api-neoforge 1.13.7-26.1.2-fleet.1 совместим с MI 2.6.0-fleet01
+    # (эталон: Industrialization-Overdrive mods.toml — type="required", smoke errors=0).
+    # Обязателен: YAIHookRegistry/YAIHookListener (@MIHookEntrypoint) регистрируют машины YAI
+    # через tesseract MI-hook; без tesseract_api в рантайме мод не загрузится.

@@ -1,0 +1,96 @@
+{
+  "ref": {
+    "a": {
+      "Name": "biomeswevegone:pine_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "biomeswevegone:pine_log",
+      "Properties": {
+        "axis": "y"
+      }
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "     ",
+      "  a  ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "  a  ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "  a  ",
+      "  aa ",
+      " aba ",
+      "     ",
+      "     ",
+      " aa  ",
+      "  aa ",
+      " aba ",
+      "     ",
+      " aa  ",
+      "  aa ",
+      "     "
+    ],
+    [
+      "  a  ",
+      "  ba ",
+      " abba",
+      " aba ",
+      " aba ",
+      " ab  ",
+      "abba ",
+      " abba",
+      " aba ",
+      " ab  ",
+      "abba ",
+      "  bba",
+      "  b  "
+    ],
+    [
+      "     ",
+      "  a  ",
+      "  aa ",
+      "  a  ",
+      " aba ",
+      "  a  ",
+      " aa  ",
+      "  aa ",
+      " aba ",
+      "     ",
+      " aa  ",
+      "  aa ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "  a  ",
+      "     ",
+      "     ",
+      "     ",
+      "  a  ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ],
+  "version": 4
+}

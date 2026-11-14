@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "M": {
-      "item": "yet_another_industrialization:battery_casing"
-    },
-    "R": {
-      "item": "modern_industrialization:redstone_battery"
-    }
+    "M": "yet_another_industrialization:battery_casing",
+    "R": "modern_industrialization:redstone_battery"
   },
   "pattern": [
     "M",

@@ -1,7 +1,13 @@
 {
-  "variants": {
-    "": {
-      "model": "yet_another_industrialization:block/fluid_trash_can_hatch"
-    }
-  }
+  "type": "modern_industrialization:machine",
+  "casing": "modern_industrialization:steel",
+  "default_overlays": {
+    "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+    "front": "yet_another_industrialization:block/machines/fluid_trash_can_hatch/overlay_front",
+    "item_auto": "modern_industrialization:block/overlays/item_auto",
+    "output": "modern_industrialization:block/overlays/output",
+    "side": "yet_another_industrialization:block/machines/fluid_trash_can_hatch/overlay_side"
+  },
+  "no_overlay_on_output_side": false,
+  "tiered_overlays": {}
 }

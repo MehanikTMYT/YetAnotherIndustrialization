@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:rosewood_sapling",
+      "ingredient": "productivetrees:rosewood_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "productivetrees:rosewood_log"
+      "id": "productivetrees:rosewood_log"
     },
     {
       "amount": 64,
-      "item": "productivetrees:rosewood_leaves"
+      "id": "productivetrees:rosewood_leaves"
     },
     {
       "amount": 1,
-      "item": "productivetrees:rosewood_sapling"
+      "id": "productivetrees:rosewood_sapling"
     }
   ],
   "process_conditions": [

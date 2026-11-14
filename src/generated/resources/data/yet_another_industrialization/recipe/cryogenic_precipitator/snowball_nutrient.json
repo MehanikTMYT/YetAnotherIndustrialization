@@ -5,23 +5,23 @@
   "fluid_inputs": [
     {
       "amount": 400,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     },
     {
       "amount": 2,
-      "fluid": "modern_industrialization:cryofluid"
+      "ingredient": "modern_industrialization:cryofluid"
     }
   ],
   "fluid_outputs": [
     {
       "amount": 1,
-      "fluid": "modern_industrialization:argon"
+      "id": "modern_industrialization:argon"
     }
   ],
   "item_outputs": [
     {
       "amount": 8,
-      "item": "minecraft:snowball"
+      "id": "minecraft:snowball"
     }
   ]
 }

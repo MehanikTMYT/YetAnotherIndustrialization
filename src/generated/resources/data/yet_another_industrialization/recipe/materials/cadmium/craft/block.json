@@ -2,9 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "#": {
-      "item": "modern_industrialization:cadmium_ingot"
-    }
+    "#": "modern_industrialization:cadmium_ingot"
   },
   "pattern": [
     "###",

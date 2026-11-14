@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:balsam_fir_sapling",
+      "ingredient": "productivetrees:balsam_fir_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "productivetrees:balsam_fir_log"
+      "id": "productivetrees:balsam_fir_log"
     },
     {
       "amount": 64,
-      "item": "productivetrees:balsam_fir_leaves"
+      "id": "productivetrees:balsam_fir_leaves"
     },
     {
       "amount": 1,
-      "item": "productivetrees:balsam_fir_sapling"
+      "id": "productivetrees:balsam_fir_sapling"
     }
   ],
   "process_conditions": [

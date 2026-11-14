@@ -1,0 +1,131 @@
+{
+  "ref": {
+    "a": {
+      "Name": "regions_unexplored:bamboo_log",
+      "Properties": {
+        "axis": "y",
+        "leaves": "true",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "regions_unexplored:bamboo_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "regions_unexplored:bamboo_log",
+      "Properties": {
+        "axis": "y",
+        "leaves": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      " bbb ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "  b  ",
+      "  b  ",
+      " bb  ",
+      " bbb ",
+      "bbbbb",
+      " bbb ",
+      "  bb ",
+      "  b  ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "  b  ",
+      "  b  ",
+      " bbb ",
+      " bbb ",
+      " bbb ",
+      " bbb ",
+      "bbcbb",
+      " bab ",
+      " bab ",
+      " bab ",
+      "  c  ",
+      "  a  ",
+      "  c  ",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      "     ",
+      "     ",
+      "  b  ",
+      "  b  ",
+      "  b  ",
+      " bbb ",
+      "bbbbb",
+      " bbb ",
+      "  b  ",
+      "  b  ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      " bbb ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ],
+  "version": 4
+}

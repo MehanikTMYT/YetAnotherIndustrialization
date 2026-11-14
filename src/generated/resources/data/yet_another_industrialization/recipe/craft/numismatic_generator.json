@@ -2,21 +2,11 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "B": {
-      "item": "minecraft:blast_furnace"
-    },
-    "C": {
-      "item": "modern_industrialization:analog_circuit"
-    },
-    "E": {
-      "item": "minecraft:emerald_block"
-    },
-    "H": {
-      "item": "modern_industrialization:steel_machine_casing"
-    },
-    "P": {
-      "item": "modern_industrialization:steel_large_plate"
-    }
+    "B": "minecraft:blast_furnace",
+    "C": "modern_industrialization:analog_circuit",
+    "E": "minecraft:emerald_block",
+    "H": "modern_industrialization:steel_machine_casing",
+    "P": "modern_industrialization:steel_large_plate"
   },
   "pattern": [
     "PCP",

@@ -5,27 +5,27 @@
   "fluid_inputs": [
     {
       "amount": 500,
-      "fluid": "yet_another_industrialization:nutrient_rich_lava"
+      "ingredient": "yet_another_industrialization:nutrient_rich_lava"
     },
     {
       "amount": 4,
-      "fluid": "modern_industrialization:cryofluid"
+      "ingredient": "modern_industrialization:cryofluid"
     }
   ],
   "fluid_outputs": [
     {
       "amount": 2,
-      "fluid": "modern_industrialization:argon"
+      "id": "modern_industrialization:argon"
     },
     {
       "amount": 2,
-      "fluid": "modern_industrialization:helium"
+      "id": "modern_industrialization:helium"
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "minecraft:basalt"
+      "id": "minecraft:basalt"
     }
   ]
 }

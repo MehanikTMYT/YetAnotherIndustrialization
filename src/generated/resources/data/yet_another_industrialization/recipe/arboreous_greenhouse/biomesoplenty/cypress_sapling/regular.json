@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "biomesoplenty:cypress_sapling",
+      "ingredient": "biomesoplenty:cypress_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "minecraft:spruce_log"
+      "id": "minecraft:spruce_log"
     },
     {
       "amount": 32,
-      "item": "biomesoplenty:cypress_leaves"
+      "id": "biomesoplenty:cypress_leaves"
     },
     {
       "amount": 1,
-      "item": "biomesoplenty:cypress_sapling",
+      "id": "biomesoplenty:cypress_sapling",
       "probability": 0.5
     }
   ],

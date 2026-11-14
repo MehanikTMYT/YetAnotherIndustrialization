@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:copper_beech_sapling",
+      "ingredient": "productivetrees:copper_beech_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "productivetrees:copper_beech_log"
+      "id": "productivetrees:copper_beech_log"
     },
     {
       "amount": 32,
-      "item": "productivetrees:copper_beech_sapling"
+      "id": "productivetrees:copper_beech_sapling"
     },
     {
       "amount": 1,
-      "item": "productivetrees:copper_beech_sapling",
+      "id": "productivetrees:copper_beech_sapling",
       "probability": 0.5
     }
   ],

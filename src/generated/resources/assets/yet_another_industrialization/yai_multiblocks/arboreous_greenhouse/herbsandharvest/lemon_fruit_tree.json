@@ -1,0 +1,126 @@
+{
+  "ref": {
+    "a": {
+      "Name": "minecraft:oak_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "b": {
+      "Name": "herbsandharvest:lemon_fruit_leaves",
+      "Properties": {
+        "age": "0",
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "herbsandharvest:fruit_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "herbsandharvest:fruit_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "herbsandharvest:fruit_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "herbsandharvest:fruit_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "herbsandharvest:lemon_fruit_leaves",
+      "Properties": {
+        "age": "0",
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "h": {
+      "Name": "herbsandharvest:lemon_fruit_leaves",
+      "Properties": {
+        "age": "0",
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "i": {
+      "Name": "herbsandharvest:lemon_fruit_leaves",
+      "Properties": {
+        "age": "0",
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      " fef ",
+      " ece ",
+      " fef ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "  b  ",
+      "gecef",
+      "ecdce",
+      "fbcef",
+      "  c  ",
+      "     ",
+      "     "
+    ],
+    [
+      " ecb ",
+      "bcdhe",
+      "hdadc",
+      "ecace",
+      " cac ",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      "  e  ",
+      "fbcbf",
+      "ecihb",
+      "fecef",
+      "  c  ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      " fef ",
+      " bhe ",
+      " fef ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ],
+  "version": 4
+}

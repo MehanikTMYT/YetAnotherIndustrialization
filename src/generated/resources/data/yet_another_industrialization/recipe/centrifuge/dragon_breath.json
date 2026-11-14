@@ -5,19 +5,19 @@
   "fluid_outputs": [
     {
       "amount": 350,
-      "fluid": "yet_another_industrialization:dragon_breath"
+      "id": "yet_another_industrialization:dragon_breath"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "minecraft:dragon_breath"
+      "ingredient": "minecraft:dragon_breath"
     }
   ],
   "item_outputs": [
     {
       "amount": 1,
-      "item": "minecraft:glass_bottle"
+      "id": "minecraft:glass_bottle"
     }
   ]
 }

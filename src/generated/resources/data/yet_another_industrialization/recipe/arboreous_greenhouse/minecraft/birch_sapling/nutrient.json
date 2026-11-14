@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "minecraft:birch_sapling",
+      "ingredient": "minecraft:birch_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "minecraft:birch_log"
+      "id": "minecraft:birch_log"
     },
     {
       "amount": 64,
-      "item": "minecraft:birch_leaves"
+      "id": "minecraft:birch_leaves"
     },
     {
       "amount": 1,
-      "item": "minecraft:birch_sapling"
+      "id": "minecraft:birch_sapling"
     }
   ],
   "process_conditions": [

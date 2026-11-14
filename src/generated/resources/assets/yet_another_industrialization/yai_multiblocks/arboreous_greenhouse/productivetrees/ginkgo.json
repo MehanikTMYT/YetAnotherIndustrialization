@@ -1,0 +1,134 @@
+{
+  "ref": {
+    "a": {
+      "Name": "productivetrees:ginkgo_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "productivetrees:ginkgo_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "productivetrees:ginkgo_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "productivetrees:ginkgo_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "productivetrees:ginkgo_fruit",
+      "Properties": {
+        "age": "0",
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "productivetrees:ginkgo_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "productivetrees:ginkgo_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "h": {
+      "Name": "productivetrees:ginkgo_leaves",
+      "Properties": {
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "i": {
+      "Name": "productivetrees:ginkgo_log",
+      "Properties": {
+        "axis": "y"
+      }
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      " eheeh ",
+      "hehehe ",
+      "       ",
+      "       "
+    ],
+    [
+      "  ehe  ",
+      " aceh  ",
+      "gfeehee",
+      "heehhge",
+      "       ",
+      "       "
+    ],
+    [
+      " heehe ",
+      " ebdee ",
+      "heceeee",
+      "eeeeege",
+      "       ",
+      "       "
+    ],
+    [
+      " ebdee ",
+      " edidb ",
+      "eeeieaf",
+      "eeeiefe",
+      "   i   ",
+      "   i   "
+    ],
+    [
+      " acbea ",
+      " ebdbc ",
+      "eaebcae",
+      "ecbbceh",
+      "       ",
+      "       "
+    ],
+    [
+      "  eca  ",
+      "  cbce ",
+      "heaeafg",
+      "eaeeeee",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "hefgefg",
+      " fehee ",
+      "       ",
+      "       "
+    ]
+  ],
+  "version": 4
+}

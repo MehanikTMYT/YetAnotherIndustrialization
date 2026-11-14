@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "allthemodium:demonic_sapling",
+      "ingredient": "allthemodium:demonic_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "allthemodium:demonic_log"
+      "id": "allthemodium:demonic_log"
     },
     {
       "amount": 64,
-      "item": "allthemodium:demonic_leaves"
+      "id": "allthemodium:demonic_leaves"
     },
     {
       "amount": 1,
-      "item": "allthemodium:demonic_sapling"
+      "id": "allthemodium:demonic_sapling"
     }
   ],
   "process_conditions": [

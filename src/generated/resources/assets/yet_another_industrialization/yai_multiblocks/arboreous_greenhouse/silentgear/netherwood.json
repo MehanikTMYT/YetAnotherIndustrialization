@@ -1,0 +1,159 @@
+{
+  "ref": {
+    "a": {
+      "Name": "silentgear:netherwood_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "silentgear:netherwood_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "silentgear:netherwood_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "silentgear:netherwood_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "e": {
+      "Name": "silentgear:netherwood_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "silentgear:netherwood_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "silentgear:netherwood_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "h": {
+      "Name": "silentgear:netherwood_leaves",
+      "Properties": {
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      " feaefg",
+      "hgfefgh",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "  eee  ",
+      " feaef ",
+      "feabaef",
+      "gfeaefg",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      " faaaf ",
+      " eabae ",
+      "eabcbae",
+      "feabaef",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      " ebcbe ",
+      " abdba ",
+      "abcdcba",
+      "eabcbae",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      " faaaf ",
+      " eabae ",
+      "eabcbae",
+      "abcdcba",
+      "       ",
+      "       ",
+      "  aca  ",
+      " eaba  "
+    ],
+    [
+      "  eee  ",
+      " feae  ",
+      "feabaef",
+      "eabcbae",
+      "   d   ",
+      "  bdb  ",
+      " bcdcb ",
+      " abdba "
+    ],
+    [
+      "       ",
+      "       ",
+      "gfeaefg",
+      "feabae ",
+      "  bcb  ",
+      "  cdc  ",
+      " aacaa ",
+      " ebbbe "
+    ],
+    [
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "   b   ",
+      "   cb  ",
+      " eebee ",
+      " faaaf "
+    ],
+    [
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "  faf  ",
+      " feee  "
+    ]
+  ],
+  "version": 4
+}

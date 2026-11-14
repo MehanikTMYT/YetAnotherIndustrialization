@@ -5,31 +5,26 @@
   "compatibilityLevel": "JAVA_17",
   "mixins": [
     "AbstractConfigurableStackAccessor",
-    "AbstractContainerScreenAccessor",
     "AbstractCraftingMultiblockBlockEntityAccessor",
     "CableTierAccessor",
     "CrafterComponentAccessor",
     "EnergyComponentAccessor",
-    "HackedMachineRegistrationHelperAccessor",
     "HatchFlagsMixin",
     "ItemMixin",
-    "ItemStackMixin",
     "LootItemAccessor",
     "MachineBlockEntityMixin",
-    "MIHookContextAccessor",
     "MIRecipeJsonAccessor",
     "MIStorageAccessor",
-    "MultiblockInventoryComponentAccessor",
     "MultiblockMachineBERMixin",
     "MultiblockMachineBlockEntityAccessor",
     "ShapeMatcherAccessor",
     "UseOnContextAccessor"
   ],
-  "server": [
-  ],
+  "server": [],
   "client": [
     "MachineScreenAccessor",
-    "ScreenAccessor"
+    "ScreenAccessor",
+    "AbstractContainerScreenAccessor"
   ],
   "injectors": {
     "defaultRequire": 1

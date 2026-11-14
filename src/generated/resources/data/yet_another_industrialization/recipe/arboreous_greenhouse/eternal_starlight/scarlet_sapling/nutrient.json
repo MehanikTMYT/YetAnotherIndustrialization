@@ -11,32 +11,32 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "eternal_starlight:scarlet_sapling",
+      "ingredient": "eternal_starlight:scarlet_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "eternal_starlight:scarlet_log"
+      "id": "eternal_starlight:scarlet_log"
     },
     {
       "amount": 64,
-      "item": "eternal_starlight:scarlet_leaves"
+      "id": "eternal_starlight:scarlet_leaves"
     },
     {
       "amount": 2,
-      "item": "minecraft:cobweb"
+      "id": "minecraft:cobweb"
     },
     {
       "amount": 1,
-      "item": "eternal_starlight:scarlet_sapling"
+      "id": "eternal_starlight:scarlet_sapling"
     }
   ],
   "process_conditions": [

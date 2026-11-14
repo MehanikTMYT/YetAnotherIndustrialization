@@ -11,32 +11,32 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "biomeswevegone:witch_hazel_sapling",
+      "ingredient": "biomeswevegone:witch_hazel_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "biomeswevegone:witch_hazel_log"
+      "id": "biomeswevegone:witch_hazel_log"
     },
     {
       "amount": 32,
-      "item": "biomeswevegone:witch_hazel_leaves"
+      "id": "biomeswevegone:witch_hazel_leaves"
     },
     {
       "amount": 1,
-      "item": "biomeswevegone:witch_hazel_branch"
+      "id": "biomeswevegone:witch_hazel_branch"
     },
     {
       "amount": 1,
-      "item": "biomeswevegone:witch_hazel_sapling",
+      "id": "biomeswevegone:witch_hazel_sapling",
       "probability": 0.5
     }
   ],

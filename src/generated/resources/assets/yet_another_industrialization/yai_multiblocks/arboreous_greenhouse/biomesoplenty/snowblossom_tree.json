@@ -1,0 +1,221 @@
+{
+  "ref": {
+    "a": {
+      "Name": "biomesoplenty:snowblossom_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "biomesoplenty:snowblossom_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "biomesoplenty:snowblossom_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "biomesoplenty:snowblossom_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "biomesoplenty:snowblossom_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "biomesoplenty:snowblossom_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "minecraft:cherry_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "h": {
+      "Name": "minecraft:cherry_log",
+      "Properties": {
+        "axis": "x"
+      }
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      " ffccf ",
+      "  cec  ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      " ffcc  ",
+      "ffceeff",
+      " ceaecf",
+      " ceae  ",
+      " f e   ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "  fec  ",
+      " fcaef ",
+      "ccedacc",
+      "ceabaee",
+      " eadaa ",
+      " e     ",
+      " c     ",
+      "       ",
+      "       "
+    ],
+    [
+      "  eae  ",
+      " cadac ",
+      "eedbdee",
+      " abgbaa",
+      " ddgdd ",
+      " a h   ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "   e   ",
+      " fcaef ",
+      "ccedacc",
+      " eabae ",
+      " eadaa ",
+      "   g   ",
+      "   g   ",
+      "   h   ",
+      "       "
+    ],
+    [
+      "       ",
+      " ffcf  ",
+      "ffcecff",
+      "fceaecf",
+      " eadae ",
+      " c  e  ",
+      "       ",
+      "   h   ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "  eaec ",
+      " ea cc ",
+      "       ",
+      "       ",
+      "   g   ",
+      "   g   ",
+      "   g   "
+    ],
+    [
+      "       ",
+      "       ",
+      " eadae ",
+      " adg   ",
+      "   g   ",
+      "   g   ",
+      "   h   ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      " ceaec ",
+      "ceadaec",
+      "eadhda ",
+      " eadae ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "  cec  ",
+      " ceaec ",
+      "ceadaec",
+      "eadhdaa",
+      " eadae ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "  eae  ",
+      " eadae ",
+      "eadbdae",
+      "adbhbd ",
+      " adbda ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "   ec  ",
+      " ceaec ",
+      "ceadaec",
+      " adbdae",
+      " eadae ",
+      " c     ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      " fcecf ",
+      " ceaecf",
+      " eadaec",
+      " ceaec ",
+      " f e   ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "  cec  ",
+      " ce ec ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ]
+  ],
+  "version": 4
+}

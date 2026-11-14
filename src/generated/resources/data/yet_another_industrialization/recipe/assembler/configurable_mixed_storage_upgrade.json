@@ -5,25 +5,25 @@
   "item_inputs": [
     {
       "amount": 1,
-      "item": "modern_industrialization:clean_stainless_steel_machine_casing"
+      "ingredient": "modern_industrialization:clean_stainless_steel_machine_casing"
     },
     {
       "amount": 1,
-      "item": "modern_industrialization:configurable_chest"
+      "ingredient": "modern_industrialization:configurable_chest"
     },
     {
       "amount": 1,
-      "item": "modern_industrialization:configurable_tank"
+      "ingredient": "modern_industrialization:configurable_tank"
     },
     {
       "amount": 1,
-      "item": "modern_industrialization:electronic_circuit"
+      "ingredient": "modern_industrialization:electronic_circuit"
     }
   ],
   "item_outputs": [
     {
       "amount": 2,
-      "item": "yet_another_industrialization:configurable_mixed_storage"
+      "id": "yet_another_industrialization:configurable_mixed_storage"
     }
   ]
 }

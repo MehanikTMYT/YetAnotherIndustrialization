@@ -1,0 +1,98 @@
+{
+  "ref": {
+    "a": {
+      "Name": "regions_unexplored:ashen_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "b": {
+      "Name": "regions_unexplored:ashen_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "regions_unexplored:ashen_log",
+      "Properties": {
+        "axis": "z"
+      }
+    },
+    "d": {
+      "Name": "regions_unexplored:ashen_log",
+      "Properties": {
+        "axis": "x"
+      }
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "  b  ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "  b  ",
+      "  b  ",
+      "     ",
+      " b   ",
+      "  b  ",
+      "     ",
+      "  b  ",
+      " bdb ",
+      "     "
+    ],
+    [
+      "  b  ",
+      "  b  ",
+      " bab ",
+      " ba  ",
+      " ba  ",
+      "bca  ",
+      "  a  ",
+      " ba  ",
+      "  a  ",
+      "  acb",
+      "  a  "
+    ],
+    [
+      "     ",
+      "     ",
+      "  b  ",
+      "  b  ",
+      " bdb ",
+      " b   ",
+      "  b  ",
+      "     ",
+      "     ",
+      "   b ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "  b  ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ],
+  "version": 4
+}

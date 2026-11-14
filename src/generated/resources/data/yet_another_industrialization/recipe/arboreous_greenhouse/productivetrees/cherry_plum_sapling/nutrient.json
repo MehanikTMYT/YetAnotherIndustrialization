@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:cherry_plum_sapling",
+      "ingredient": "productivetrees:cherry_plum_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "productivetrees:cherry_plum_log"
+      "id": "productivetrees:cherry_plum_log"
     },
     {
       "amount": 64,
-      "item": "productivetrees:cherry_plum_sapling"
+      "id": "productivetrees:cherry_plum_sapling"
     },
     {
       "amount": 1,
-      "item": "productivetrees:cherry_plum_sapling"
+      "id": "productivetrees:cherry_plum_sapling"
     }
   ],
   "process_conditions": [

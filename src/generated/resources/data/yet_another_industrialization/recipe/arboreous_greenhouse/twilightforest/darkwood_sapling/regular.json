@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "twilightforest:darkwood_sapling",
+      "ingredient": "twilightforest:darkwood_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "twilightforest:dark_log"
+      "id": "twilightforest:dark_log"
     },
     {
       "amount": 32,
-      "item": "twilightforest:dark_leaves"
+      "id": "twilightforest:dark_leaves"
     },
     {
       "amount": 1,
-      "item": "twilightforest:darkwood_sapling",
+      "id": "twilightforest:darkwood_sapling",
       "probability": 0.5
     }
   ],

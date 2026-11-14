@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:blackthorn_sapling",
+      "ingredient": "productivetrees:blackthorn_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "productivetrees:blackthorn_log"
+      "id": "productivetrees:blackthorn_log"
     },
     {
       "amount": 64,
-      "item": "productivetrees:blackthorn_leaves"
+      "id": "productivetrees:blackthorn_leaves"
     },
     {
       "amount": 1,
-      "item": "productivetrees:blackthorn_sapling"
+      "id": "productivetrees:blackthorn_sapling"
     }
   ],
   "process_conditions": [

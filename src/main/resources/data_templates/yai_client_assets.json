@@ -1,0 +1,801 @@
+{
+  "blockstates/dragon_breath.json": {
+    "variants": {
+      "": {
+        "model": "minecraft:block/air"
+      }
+    }
+  },
+  "blockstates/large_storage_unit_input_hatch.json": {
+    "casing": "yet_another_industrialization:battery_casing",
+    "default_overlays": {
+      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+      "front": "yet_another_industrialization:block/machines/large_storage_unit_hatch/overlay_front",
+      "item_auto": "modern_industrialization:block/overlays/item_auto",
+      "output": "modern_industrialization:block/overlays/output",
+      "side": "yet_another_industrialization:block/machines/large_storage_unit_hatch/overlay_side"
+    },
+    "type": "modern_industrialization:machine",
+    "tiered_overlays": {},
+    "no_overlay_on_output_side": false
+  },
+  "items/large_storage_unit_input_hatch.json": {
+    "model": {
+      "type": "modern_industrialization:machine",
+      "machine": "yet_another_industrialization:large_storage_unit_input_hatch"
+    }
+  },
+  "blockstates/highly_advanced_mixed_output_hatch.json": {
+    "casing": "modern_industrialization:ev",
+    "default_overlays": {
+      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+      "front": "yet_another_industrialization:block/machines/mixed_hatch/overlay_front",
+      "item_auto": "modern_industrialization:block/overlays/item_auto",
+      "output": "yet_another_industrialization:block/overlays/output_mixed",
+      "side": "yet_another_industrialization:block/machines/mixed_hatch/overlay_side"
+    },
+    "type": "modern_industrialization:machine",
+    "tiered_overlays": {},
+    "no_overlay_on_output_side": false
+  },
+  "items/highly_advanced_mixed_output_hatch.json": {
+    "model": {
+      "type": "modern_industrialization:machine",
+      "machine": "yet_another_industrialization:highly_advanced_mixed_output_hatch"
+    }
+  },
+  "blockstates/cryogenic_precipitator.json": {
+    "casing": "modern_industrialization:lv",
+    "default_overlays": {
+      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+      "front": "yet_another_industrialization:block/machines/cryogenic_precipitator/overlay_front",
+      "front_active": "yet_another_industrialization:block/machines/cryogenic_precipitator/overlay_front_active",
+      "item_auto": "modern_industrialization:block/overlays/item_auto",
+      "output": "modern_industrialization:block/overlays/output"
+    },
+    "type": "modern_industrialization:machine",
+    "tiered_overlays": {},
+    "no_overlay_on_output_side": false
+  },
+  "items/cryogenic_precipitator.json": {
+    "model": {
+      "type": "modern_industrialization:machine",
+      "machine": "yet_another_industrialization:cryogenic_precipitator"
+    }
+  },
+  "blockstates/scorching_liquid_air.json": {
+    "variants": {
+      "": {
+        "model": "minecraft:block/air"
+      }
+    }
+  },
+  "blockstates/steel_mixed_input_hatch.json": {
+    "casing": "modern_industrialization:steel",
+    "default_overlays": {
+      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+      "front": "yet_another_industrialization:block/machines/mixed_hatch/overlay_front",
+      "item_auto": "modern_industrialization:block/overlays/item_auto",
+      "output": "yet_another_industrialization:block/overlays/output_mixed",
+      "side": "yet_another_industrialization:block/machines/mixed_hatch/overlay_side"
+    },
+    "type": "modern_industrialization:machine",
+    "tiered_overlays": {},
+    "no_overlay_on_output_side": false
+  },
+  "items/steel_mixed_input_hatch.json": {
+    "model": {
+      "type": "modern_industrialization:machine",
+      "machine": "yet_another_industrialization:steel_mixed_input_hatch"
+    }
+  },
+  "blockstates/advanced_mixed_output_hatch.json": {
+    "casing": "modern_industrialization:mv",
+    "default_overlays": {
+      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+      "front": "yet_another_industrialization:block/machines/mixed_hatch/overlay_front",
+      "item_auto": "modern_industrialization:block/overlays/item_auto",
+      "output": "yet_another_industrialization:block/overlays/output_mixed",
+      "side": "yet_another_industrialization:block/machines/mixed_hatch/overlay_side"
+    },
+    "type": "modern_industrialization:machine",
+    "tiered_overlays": {},
+    "no_overlay_on_output_side": false
+  },
+  "items/advanced_mixed_output_hatch.json": {
+    "model": {
+      "type": "modern_industrialization:machine",
+      "machine": "yet_another_industrialization:advanced_mixed_output_hatch"
+    }
+  },
+  "blockstates/numismatic_generator.json": {
+    "casing": "modern_industrialization:steel",
+    "default_overlays": {
+      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+      "front": "yet_another_industrialization:block/machines/numismatic_generator/overlay_front",
+      "front_active": "yet_another_industrialization:block/machines/numismatic_generator/overlay_front_active",
+      "item_auto": "modern_industrialization:block/overlays/item_auto",
+      "output": "modern_industrialization:block/overlays/output"
+    },
+    "type": "modern_industrialization:machine",
+    "tiered_overlays": {},
+    "no_overlay_on_output_side": false
+  },
+  "items/numismatic_generator.json": {
+    "model": {
+      "type": "modern_industrialization:machine",
+      "machine": "yet_another_industrialization:numismatic_generator"
+    }
+  },
+  "blockstates/arboreous_greenhouse.json": {
+    "casing": "modern_industrialization:heatproof_machine_casing",
+    "default_overlays": {
+      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+      "front": "yet_another_industrialization:block/machines/arboreous_greenhouse/overlay_front",
+      "front_active": "yet_another_industrialization:block/machines/arboreous_greenhouse/overlay_front_active",
+      "item_auto": "modern_industrialization:block/overlays/item_auto",
+      "output": "modern_industrialization:block/overlays/output"
+    },
+    "type": "modern_industrialization:machine",
+    "tiered_overlays": {},
+    "no_overlay_on_output_side": false
+  },
+  "items/arboreous_greenhouse.json": {
+    "model": {
+      "type": "modern_industrialization:machine",
+      "machine": "yet_another_industrialization:arboreous_greenhouse"
+    }
+  },
+  "blockstates/highly_advanced_mixed_input_hatch.json": {
+    "casing": "modern_industrialization:ev",
+    "default_overlays": {
+      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+      "front": "yet_another_industrialization:block/machines/mixed_hatch/overlay_front",
+      "item_auto": "modern_industrialization:block/overlays/item_auto",
+      "output": "yet_another_industrialization:block/overlays/output_mixed",
+      "side": "yet_another_industrialization:block/machines/mixed_hatch/overlay_side"
+    },
+    "type": "modern_industrialization:machine",
+    "tiered_overlays": {},
+    "no_overlay_on_output_side": false
+  },
+  "items/highly_advanced_mixed_input_hatch.json": {
+    "model": {
+      "type": "modern_industrialization:machine",
+      "machine": "yet_another_industrialization:highly_advanced_mixed_input_hatch"
+    }
+  },
+  "blockstates/detonation_chamber_casing.json": {
+    "casing": "yet_another_industrialization:detonation_chamber_casing",
+    "default_overlays": {
+      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+      "item_auto": "modern_industrialization:block/overlays/item_auto",
+      "output": "modern_industrialization:block/overlays/output"
+    },
+    "type": "modern_industrialization:machine",
+    "tiered_overlays": {},
+    "no_overlay_on_output_side": false
+  },
+  "items/detonation_chamber_casing.json": {
+    "model": {
+      "type": "modern_industrialization:machine",
+      "machine": "yet_another_industrialization:detonation_chamber_casing"
+    }
+  },
+  "blockstates/bronze_mixed_output_hatch.json": {
+    "casing": "modern_industrialization:bronze",
+    "default_overlays": {
+      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+      "front": "yet_another_industrialization:block/machines/mixed_hatch/overlay_front",
+      "item_auto": "modern_industrialization:block/overlays/item_auto",
+      "output": "yet_another_industrialization:block/overlays/output_mixed",
+      "side": "yet_another_industrialization:block/machines/mixed_hatch/overlay_side"
+    },
+    "type": "modern_industrialization:machine",
+    "tiered_overlays": {},
+    "no_overlay_on_output_side": false
+  },
+  "items/bronze_mixed_output_hatch.json": {
+    "model": {
+      "type": "modern_industrialization:machine",
+      "machine": "yet_another_industrialization:bronze_mixed_output_hatch"
+    }
+  },
+  "blockstates/item_trash_can_hatch.json": {
+    "casing": "modern_industrialization:steel",
+    "default_overlays": {
+      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+      "front": "yet_another_industrialization:block/machines/item_trash_can_hatch/overlay_front",
+      "item_auto": "modern_industrialization:block/overlays/item_auto",
+      "output": "modern_industrialization:block/overlays/output",
+      "side": "yet_another_industrialization:block/machines/item_trash_can_hatch/overlay_side"
+    },
+    "type": "modern_industrialization:machine",
+    "tiered_overlays": {},
+    "no_overlay_on_output_side": false
+  },
+  "items/item_trash_can_hatch.json": {
+    "model": {
+      "type": "modern_industrialization:machine",
+      "machine": "yet_another_industrialization:item_trash_can_hatch"
+    }
+  },
+  "blockstates/impure_dragon_breath.json": {
+    "variants": {
+      "": {
+        "model": "minecraft:block/air"
+      }
+    }
+  },
+  "blockstates/nutrient_rich_dragon_breath.json": {
+    "variants": {
+      "": {
+        "model": "minecraft:block/air"
+      }
+    }
+  },
+  "blockstates/configurable_mixed_storage.json": {
+    "casing": "yet_another_industrialization:configurable_mixed_storage",
+    "default_overlays": {
+      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+      "item_auto": "modern_industrialization:block/overlays/item_auto",
+      "output": "modern_industrialization:block/overlays/output"
+    },
+    "type": "modern_industrialization:machine",
+    "tiered_overlays": {},
+    "no_overlay_on_output_side": false
+  },
+  "items/configurable_mixed_storage.json": {
+    "model": {
+      "type": "modern_industrialization:machine",
+      "machine": "yet_another_industrialization:configurable_mixed_storage"
+    }
+  },
+  "blockstates/pulse_detonation_generator.json": {
+    "casing": "modern_industrialization:titanium_machine_casing_pipe",
+    "default_overlays": {
+      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+      "front": "yet_another_industrialization:block/machines/pulse_detonation_generator/overlay_front",
+      "front_active": "yet_another_industrialization:block/machines/pulse_detonation_generator/overlay_front_active",
+      "item_auto": "modern_industrialization:block/overlays/item_auto",
+      "output": "modern_industrialization:block/overlays/output"
+    },
+    "type": "modern_industrialization:machine",
+    "tiered_overlays": {},
+    "no_overlay_on_output_side": false
+  },
+  "items/pulse_detonation_generator.json": {
+    "model": {
+      "type": "modern_industrialization:machine",
+      "machine": "yet_another_industrialization:pulse_detonation_generator"
+    }
+  },
+  "blockstates/steel_mixed_output_hatch.json": {
+    "casing": "modern_industrialization:steel",
+    "default_overlays": {
+      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+      "front": "yet_another_industrialization:block/machines/mixed_hatch/overlay_front",
+      "item_auto": "modern_industrialization:block/overlays/item_auto",
+      "output": "yet_another_industrialization:block/overlays/output_mixed",
+      "side": "yet_another_industrialization:block/machines/mixed_hatch/overlay_side"
+    },
+    "type": "modern_industrialization:machine",
+    "tiered_overlays": {},
+    "no_overlay_on_output_side": false
+  },
+  "items/steel_mixed_output_hatch.json": {
+    "model": {
+      "type": "modern_industrialization:machine",
+      "machine": "yet_another_industrialization:steel_mixed_output_hatch"
+    }
+  },
+  "blockstates/nutrient_rich_lava.json": {
+    "variants": {
+      "": {
+        "model": "minecraft:block/air"
+      }
+    }
+  },
+  "blockstates/turbo_mixed_input_hatch.json": {
+    "casing": "modern_industrialization:hv",
+    "default_overlays": {
+      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+      "front": "yet_another_industrialization:block/machines/mixed_hatch/overlay_front",
+      "item_auto": "modern_industrialization:block/overlays/item_auto",
+      "output": "yet_another_industrialization:block/overlays/output_mixed",
+      "side": "yet_another_industrialization:block/machines/mixed_hatch/overlay_side"
+    },
+    "type": "modern_industrialization:machine",
+    "tiered_overlays": {},
+    "no_overlay_on_output_side": false
+  },
+  "items/turbo_mixed_input_hatch.json": {
+    "model": {
+      "type": "modern_industrialization:machine",
+      "machine": "yet_another_industrialization:turbo_mixed_input_hatch"
+    }
+  },
+  "blockstates/bronze_mixed_input_hatch.json": {
+    "casing": "modern_industrialization:bronze",
+    "default_overlays": {
+      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+      "front": "yet_another_industrialization:block/machines/mixed_hatch/overlay_front",
+      "item_auto": "modern_industrialization:block/overlays/item_auto",
+      "output": "yet_another_industrialization:block/overlays/output_mixed",
+      "side": "yet_another_industrialization:block/machines/mixed_hatch/overlay_side"
+    },
+    "type": "modern_industrialization:machine",
+    "tiered_overlays": {},
+    "no_overlay_on_output_side": false
+  },
+  "items/bronze_mixed_input_hatch.json": {
+    "model": {
+      "type": "modern_industrialization:machine",
+      "machine": "yet_another_industrialization:bronze_mixed_input_hatch"
+    }
+  },
+  "blockstates/advanced_mixed_input_hatch.json": {
+    "casing": "modern_industrialization:mv",
+    "default_overlays": {
+      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+      "front": "yet_another_industrialization:block/machines/mixed_hatch/overlay_front",
+      "item_auto": "modern_industrialization:block/overlays/item_auto",
+      "output": "yet_another_industrialization:block/overlays/output_mixed",
+      "side": "yet_another_industrialization:block/machines/mixed_hatch/overlay_side"
+    },
+    "type": "modern_industrialization:machine",
+    "tiered_overlays": {},
+    "no_overlay_on_output_side": false
+  },
+  "items/advanced_mixed_input_hatch.json": {
+    "model": {
+      "type": "modern_industrialization:machine",
+      "machine": "yet_another_industrialization:advanced_mixed_input_hatch"
+    }
+  },
+  "blockstates/steel_plated_end_stone_bricks.json": {
+    "variants": {
+      "": {
+        "model": "yet_another_industrialization:block/steel_plated_end_stone_bricks"
+      }
+    }
+  },
+  "blockstates/gelid_liquid_air.json": {
+    "variants": {
+      "": {
+        "model": "minecraft:block/air"
+      }
+    }
+  },
+  "blockstates/item_charger.json": {
+    "casing": "modern_industrialization:lv",
+    "default_overlays": {
+      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+      "front": "yet_another_industrialization:block/machines/item_charger/overlay_front",
+      "front_active": "yet_another_industrialization:block/machines/item_charger/overlay_front_active",
+      "item_auto": "modern_industrialization:block/overlays/item_auto",
+      "output": "modern_industrialization:block/overlays/output"
+    },
+    "type": "modern_industrialization:machine",
+    "tiered_overlays": {},
+    "no_overlay_on_output_side": false
+  },
+  "items/item_charger.json": {
+    "model": {
+      "type": "modern_industrialization:machine",
+      "machine": "yet_another_industrialization:item_charger"
+    }
+  },
+  "blockstates/flight_pylon.json": {
+    "casing": "modern_industrialization:steel",
+    "default_overlays": {
+      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+      "front": "yet_another_industrialization:block/machines/flight_pylon/overlay_front",
+      "front_active": "yet_another_industrialization:block/machines/flight_pylon/overlay_front_active",
+      "item_auto": "modern_industrialization:block/overlays/item_auto",
+      "output": "modern_industrialization:block/overlays/output"
+    },
+    "type": "modern_industrialization:machine",
+    "tiered_overlays": {},
+    "no_overlay_on_output_side": false
+  },
+  "items/flight_pylon.json": {
+    "model": {
+      "type": "modern_industrialization:machine",
+      "machine": "yet_another_industrialization:flight_pylon"
+    }
+  },
+  "blockstates/nuclear_rod_irradiator.json": {
+    "casing": "modern_industrialization:nuclear_casing",
+    "default_overlays": {
+      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+      "front": "yet_another_industrialization:block/machines/nuclear_rod_irradiator/overlay_front",
+      "front_active": "yet_another_industrialization:block/machines/nuclear_rod_irradiator/overlay_front_active",
+      "item_auto": "modern_industrialization:block/overlays/item_auto",
+      "output": "modern_industrialization:block/overlays/output"
+    },
+    "type": "modern_industrialization:machine",
+    "tiered_overlays": {},
+    "no_overlay_on_output_side": false
+  },
+  "items/nuclear_rod_irradiator.json": {
+    "model": {
+      "type": "modern_industrialization:machine",
+      "machine": "yet_another_industrialization:nuclear_rod_irradiator"
+    }
+  },
+  "blockstates/turbo_mixed_output_hatch.json": {
+    "casing": "modern_industrialization:hv",
+    "default_overlays": {
+      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+      "front": "yet_another_industrialization:block/machines/mixed_hatch/overlay_front",
+      "item_auto": "modern_industrialization:block/overlays/item_auto",
+      "output": "yet_another_industrialization:block/overlays/output_mixed",
+      "side": "yet_another_industrialization:block/machines/mixed_hatch/overlay_side"
+    },
+    "type": "modern_industrialization:machine",
+    "tiered_overlays": {},
+    "no_overlay_on_output_side": false
+  },
+  "items/turbo_mixed_output_hatch.json": {
+    "model": {
+      "type": "modern_industrialization:machine",
+      "machine": "yet_another_industrialization:turbo_mixed_output_hatch"
+    }
+  },
+  "blockstates/battery_casing.json": {
+    "variants": {
+      "": {
+        "model": "yet_another_industrialization:block/battery_casing"
+      }
+    }
+  },
+  "blockstates/nutrient_rich_water.json": {
+    "variants": {
+      "": {
+        "model": "minecraft:block/air"
+      }
+    }
+  },
+  "blockstates/dragon_egg_energy_siphon.json": {
+    "casing": "modern_industrialization:steel",
+    "default_overlays": {
+      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+      "front": "yet_another_industrialization:block/machines/dragon_egg_energy_siphon/overlay_front",
+      "front_active": "yet_another_industrialization:block/machines/dragon_egg_energy_siphon/overlay_front_active",
+      "item_auto": "modern_industrialization:block/overlays/item_auto",
+      "output": "modern_industrialization:block/overlays/output"
+    },
+    "type": "modern_industrialization:machine",
+    "tiered_overlays": {},
+    "no_overlay_on_output_side": false
+  },
+  "items/dragon_egg_energy_siphon.json": {
+    "model": {
+      "type": "modern_industrialization:machine",
+      "machine": "yet_another_industrialization:dragon_egg_energy_siphon"
+    }
+  },
+  "blockstates/large_storage_unit.json": {
+    "casing": "yet_another_industrialization:battery_casing",
+    "default_overlays": {
+      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+      "front": "yet_another_industrialization:block/machines/large_storage_unit/overlay_front",
+      "front_active": "yet_another_industrialization:block/machines/large_storage_unit/overlay_front_active",
+      "item_auto": "modern_industrialization:block/overlays/item_auto",
+      "output": "modern_industrialization:block/overlays/output"
+    },
+    "type": "modern_industrialization:machine",
+    "tiered_overlays": {},
+    "no_overlay_on_output_side": false
+  },
+  "items/large_storage_unit.json": {
+    "model": {
+      "type": "modern_industrialization:machine",
+      "machine": "yet_another_industrialization:large_storage_unit"
+    }
+  },
+  "blockstates/cadmium_block.json": {
+    "variants": {
+      "": {
+        "model": "yet_another_industrialization:block/cadmium_block"
+      }
+    }
+  },
+  "blockstates/fluid_trash_can_hatch.json": {
+    "casing": "modern_industrialization:steel",
+    "default_overlays": {
+      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+      "front": "yet_another_industrialization:block/machines/fluid_trash_can_hatch/overlay_front",
+      "item_auto": "modern_industrialization:block/overlays/item_auto",
+      "output": "modern_industrialization:block/overlays/output",
+      "side": "yet_another_industrialization:block/machines/fluid_trash_can_hatch/overlay_side"
+    },
+    "type": "modern_industrialization:machine",
+    "tiered_overlays": {},
+    "no_overlay_on_output_side": false
+  },
+  "items/fluid_trash_can_hatch.json": {
+    "model": {
+      "type": "modern_industrialization:machine",
+      "machine": "yet_another_industrialization:fluid_trash_can_hatch"
+    }
+  },
+  "blockstates/singularity_block.json": {
+    "variants": {
+      "": {
+        "model": "yet_another_industrialization:block/singularity_block"
+      }
+    }
+  },
+  "blockstates/large_storage_unit_output_hatch.json": {
+    "casing": "yet_another_industrialization:battery_casing",
+    "default_overlays": {
+      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+      "front": "yet_another_industrialization:block/machines/large_storage_unit_hatch/overlay_front",
+      "item_auto": "modern_industrialization:block/overlays/item_auto",
+      "output": "modern_industrialization:block/overlays/output",
+      "side": "yet_another_industrialization:block/machines/large_storage_unit_hatch/overlay_side"
+    },
+    "type": "modern_industrialization:machine",
+    "tiered_overlays": {},
+    "no_overlay_on_output_side": false
+  },
+  "items/large_storage_unit_output_hatch.json": {
+    "model": {
+      "type": "modern_industrialization:machine",
+      "machine": "yet_another_industrialization:large_storage_unit_output_hatch"
+    }
+  },
+  "items/nutrient_rich_lava_bucket.json": {
+    "model": {
+      "type": "minecraft:model",
+      "model": "yet_another_industrialization:item/nutrient_rich_lava_bucket"
+    }
+  },
+  "items/nutrient_rich_water_bucket.json": {
+    "model": {
+      "type": "minecraft:model",
+      "model": "yet_another_industrialization:item/nutrient_rich_water_bucket"
+    }
+  },
+  "items/energy_zap.json": {
+    "model": {
+      "type": "minecraft:model",
+      "model": "yet_another_industrialization:item/energy_zap"
+    }
+  },
+  "items/storage_slot_locker.json": {
+    "model": {
+      "type": "minecraft:model",
+      "model": "yet_another_industrialization:item/storage_slot_locker"
+    }
+  },
+  "items/guidebook.json": {
+    "model": {
+      "type": "minecraft:model",
+      "model": "yet_another_industrialization:item/guidebook"
+    }
+  },
+  "items/tempproof_air_intake.json": {
+    "model": {
+      "type": "minecraft:model",
+      "model": "yet_another_industrialization:item/tempproof_air_intake"
+    }
+  },
+  "items/dragon_egg_siphon_catalyst.json": {
+    "model": {
+      "type": "minecraft:model",
+      "model": "yet_another_industrialization:item/dragon_egg_siphon_catalyst"
+    }
+  },
+  "items/dragon_breath_bucket.json": {
+    "model": {
+      "type": "minecraft:model",
+      "model": "yet_another_industrialization:item/dragon_breath_bucket"
+    }
+  },
+  "items/beryllium_large_plate.json": {
+    "model": {
+      "type": "minecraft:model",
+      "model": "yet_another_industrialization:item/beryllium_large_plate"
+    }
+  },
+  "items/steel_plated_end_stone_bricks.json": {
+    "model": {
+      "type": "minecraft:model",
+      "model": "yet_another_industrialization:item/steel_plated_end_stone_bricks"
+    }
+  },
+  "items/battery_casing.json": {
+    "model": {
+      "type": "minecraft:model",
+      "model": "yet_another_industrialization:item/battery_casing"
+    }
+  },
+  "items/impure_dragon_breath_bucket.json": {
+    "model": {
+      "type": "minecraft:model",
+      "model": "yet_another_industrialization:item/impure_dragon_breath_bucket"
+    }
+  },
+  "items/nutrient_rich_dragon_breath_bucket.json": {
+    "model": {
+      "type": "minecraft:model",
+      "model": "yet_another_industrialization:item/nutrient_rich_dragon_breath_bucket"
+    }
+  },
+  "items/gelid_liquid_air_bucket.json": {
+    "model": {
+      "type": "minecraft:model",
+      "model": "yet_another_industrialization:item/gelid_liquid_air_bucket"
+    }
+  },
+  "items/machine_diagnoser.json": {
+    "model": {
+      "type": "minecraft:model",
+      "model": "yet_another_industrialization:item/machine_diagnoser"
+    }
+  },
+  "items/demon_core.json": {
+    "model": {
+      "type": "minecraft:model",
+      "model": "yet_another_industrialization:item/demon_core"
+    }
+  },
+  "items/scorching_liquid_air_bucket.json": {
+    "model": {
+      "type": "minecraft:model",
+      "model": "yet_another_industrialization:item/scorching_liquid_air_bucket"
+    }
+  },
+  "items/cadmium_block.json": {
+    "model": {
+      "type": "minecraft:model",
+      "model": "yet_another_industrialization:item/cadmium_block"
+    }
+  },
+  "items/ultradense_metal_ball_burger.json": {
+    "model": {
+      "type": "minecraft:model",
+      "model": "yet_another_industrialization:item/ultradense_metal_ball_burger"
+    }
+  },
+  "items/singularity_block.json": {
+    "model": {
+      "type": "minecraft:model",
+      "model": "yet_another_industrialization:item/singularity_block"
+    }
+  },
+  "items/ai_slop.json": {
+    "model": {
+      "type": "minecraft:model",
+      "model": "yet_another_industrialization:item/ai_slop"
+    }
+  },
+  "items/cachaca.json": {
+    "model": {
+      "type": "minecraft:model",
+      "model": "yet_another_industrialization:item/cachaca"
+    }
+  },
+  "modern_industrialization/machine_casings/detonation_chamber_casing.json": {
+    "model": "yet_another_industrialization:machine_casing/detonation_chamber_casing"
+  },
+  "modern_industrialization/machine_casings/configurable_mixed_storage.json": {
+    "model": "yet_another_industrialization:machine_casing/configurable_mixed_storage"
+  },
+  "modern_industrialization/machine_casings/steel_plated_end_stone_bricks.json": {
+    "block": "yet_another_industrialization:steel_plated_end_stone_bricks",
+    "type": "modern_industrialization:use_block_model"
+  },
+  "models/machine_casing/steel_plated_end_stone_bricks.json": {
+    "parent": "yet_another_industrialization:block/steel_plated_end_stone_bricks"
+  },
+  "modern_industrialization/machine_casings/battery_casing.json": {
+    "model": "yet_another_industrialization:machine_casing/battery_casing"
+  },
+  "items/industrialists_goggles.json": {
+    "model": {
+      "type": "minecraft:model",
+      "model": "yet_another_industrialization:item/industrialists_goggles"
+    }
+  },
+  "items/machine_remover.json": {
+    "model": {
+      "type": "minecraft:model",
+      "model": "yet_another_industrialization:item/machine_remover"
+    }
+  },
+  "blockstates/deepsoil.json": {
+    "variants": {
+      "": {
+        "model": "minecraft:block/dirt"
+      }
+    }
+  },
+  "items/deepsoil.json": {
+    "model": {
+      "type": "minecraft:model",
+      "model": "minecraft:block/dirt"
+    }
+  },
+  "blockstates/echo_soil.json": {
+    "variants": {
+      "": {
+        "model": "minecraft:block/dirt"
+      }
+    }
+  },
+  "items/echo_soil.json": {
+    "model": {
+      "type": "minecraft:model",
+      "model": "minecraft:block/dirt"
+    }
+  },
+  "blockstates/grass_block.json": {
+    "variants": {
+      "": {
+        "model": "minecraft:block/grass_block"
+      }
+    }
+  },
+  "items/grass_block.json": {
+    "model": {
+      "type": "minecraft:model",
+      "model": "minecraft:block/grass_block"
+    }
+  },
+  "blockstates/mycelium.json": {
+    "variants": {
+      "": {
+        "model": "minecraft:block/mycelium"
+      }
+    }
+  },
+  "items/mycelium.json": {
+    "model": {
+      "type": "minecraft:model",
+      "model": "minecraft:block/mycelium"
+    }
+  },
+  "blockstates/netherrack.json": {
+    "variants": {
+      "": {
+        "model": "minecraft:block/netherrack"
+      }
+    }
+  },
+  "items/netherrack.json": {
+    "model": {
+      "type": "minecraft:model",
+      "model": "minecraft:block/netherrack"
+    }
+  },
+  "blockstates/sand.json": {
+    "variants": {
+      "": {
+        "model": "minecraft:block/sand"
+      }
+    }
+  },
+  "items/sand.json": {
+    "model": {
+      "type": "minecraft:model",
+      "model": "minecraft:block/sand"
+    }
+  },
+  "blockstates/end_stone.json": {
+    "variants": {
+      "": {
+        "model": "minecraft:block/end_stone"
+      }
+    }
+  },
+  "items/end_stone.json": {
+    "model": {
+      "type": "minecraft:model",
+      "model": "minecraft:block/end_stone"
+    }
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "ref": {
+    "a": {
+      "Name": "biomeswevegone:sakura_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "b": {
+      "Name": "biomeswevegone:white_sakura_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "biomeswevegone:white_sakura_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "biomeswevegone:white_sakura_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "biomeswevegone:white_sakura_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "biomeswevegone:white_sakura_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "biomeswevegone:white_sakura_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "                 ",
+      "             d   ",
+      "            dbd  ",
+      "             d   ",
+      "                 ",
+      "                 ",
+      "                 ",
+      "                 ",
+      "                 ",
+      "                 ",
+      "                 ",
+      "                 ",
+      "                 "
+    ],
+    [
+      "                 ",
+      "            dbd  ",
+      "           dbfb  ",
+      "            b d  ",
+      "           ed    ",
+      "            e    ",
+      "                 ",
+      "                 ",
+      "                 ",
+      "                 ",
+      "                 ",
+      "                 ",
+      "                 "
+    ],
+    [
+      "             b   ",
+      "          e bfb  ",
+      "          dbfcfb ",
+      "          d ff   ",
+      "           g bd  ",
+      "        e     e  ",
+      "       ee        ",
+      "                 ",
+      "                 ",
+      "                 ",
+      "                 ",
+      "                 ",
+      "                 "
+    ],
+    [
+      "            bfb  ",
+      "          dbfcfb ",
+      "  ed      bfcacf ",
+      "  d dd   dbfccfb ",
+      "    e  db d f b  ",
+      "       bde    d  ",
+      "      ddd     e  ",
+      "       ee        ",
+      "                 ",
+      "                 ",
+      "                 ",
+      "                 ",
+      "                 "
+    ],
+    [
+      "            bb   ",
+      "   de    e bffb  ",
+      "  db de b bfccfbd",
+      " dbfbb b bfca bde",
+      "   b  bbfb fcf   ",
+      "  e  bffb        ",
+      "  g   bbbb       ",
+      "      d          ",
+      "                 ",
+      "                 ",
+      "                 ",
+      "                 ",
+      "                 "
+    ],
+    [
+      "   de    eg  d   ",
+      "  dbdd dbde fbde ",
+      "edbfbbd fb fcfbde",
+      " bfcffbfcfb ac e ",
+      " dbfc  fc   cfb  ",
+      "  db fccfbb      ",
+      "  e bbf ff       ",
+      "     d  f        ",
+      "                 ",
+      "                 ",
+      "                 ",
+      "                 ",
+      "                 "
+    ],
+    [
+      "   b d  bdeg     ",
+      " dbfbbdbf d b eg ",
+      "dbfcff fcfbb bd  ",
+      "bfcaccfca bfcfb  ",
+      "d f aaccacfcac   ",
+      " db ccaacffccf   ",
+      " ed f caccc f    ",
+      "  e  bfccf       ",
+      "                 ",
+      "                 ",
+      "                 ",
+      "        a        ",
+      "        a        "
+    ],
+    [
+      "         e       ",
+      "   b d dbd bd    ",
+      " dbfb dbfbbf     ",
+      "dbfcffbfcffcf    ",
+      " dbf  fcaccacf   ",
+      " ed ffccaccac    ",
+      "  e   fcaaacfb   ",
+      "  g  db a        ",
+      "        a        ",
+      "        a        ",
+      "       aaa       ",
+      "       aaa       ",
+      "       aaa       "
+    ],
+    [
+      "                 ",
+      "       e e d     ",
+      " e  d e bdd      ",
+      "  bfb  b   fb    ",
+      " e b dbfcffc     ",
+      "  ed  ffcffcf    ",
+      "       fcccf     ",
+      "      d cf       ",
+      "                 ",
+      "                 ",
+      "                 ",
+      "        a        ",
+      "        a        "
+    ],
+    [
+      "                 ",
+      "                 ",
+      "         ee      ",
+      "    d   eddb     ",
+      "      db bbfb    ",
+      "     dbbfb       ",
+      "      d f  b     ",
+      "         b d     ",
+      "                 ",
+      "                 ",
+      "                 ",
+      "                 ",
+      "                 "
+    ],
+    [
+      "                 ",
+      "                 ",
+      "          g      ",
+      "         e d     ",
+      "         dd      ",
+      "       d d       ",
+      "      ee         ",
+      "                 ",
+      "                 ",
+      "                 ",
+      "                 ",
+      "                 ",
+      "                 "
+    ]
+  ],
+  "version": 4
+}

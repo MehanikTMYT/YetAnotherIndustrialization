@@ -43,7 +43,7 @@ neoForge {
         }
 
         data {
-            data()
+            clientData()
             gameDirectory = project.file('run-data')
             programArguments.addAll '--mod', project.mod_id, '--all', '--output', file('src/generated/resources/').getAbsolutePath(), '--existing', file('src/main/resources/').getAbsolutePath()
         }
@@ -71,8 +71,14 @@ configurations {
 }
 
 dependencies {
-    implementation "dev.technici4n:GrandPower:${grandpower_version}"
+    // синк/порт 26.1.2: GrandPower 3.0.2 из modmaven — для MC 1.21.x (NoClassDefFoundError ResourceLocation на 26).
+    // Подключаем портированный jar из дерева (видение другого агента, smoke grandpower STARTED).
+    implementation files("libs/grandpower-3.0.2-port26.1.2.jar")
     implementation "aztech:Modern-Industrialization:${modern_industrialization_version}"
+    // синк/порт 26.1.2: tesseract-api-neoforge 1.13.7-26.1.2-fleet.1 совместим с MI 2.6.0-fleet01
+    // (эталон: EI build.gradle `implementation`, Industrialization-Overdrive — то же, smoke errors=0).
+    // Нужен в рантайме: @MIHookEntrypoint-реестры YAIHookRegistry/YAIHookListener регистрируют
+    // машины/кейсины через tesseract MI-hook (вариант А, по образцу IOMIHookRegistry/IOMIHookListener).
     implementation "net.swedz:tesseract-api-neoforge:${tesseract_version}"
     // fleet: аннотации net.swedz.tesseract.config.annotation (ConfigComment/ConfigKey/Range/SubSection)
     // лежат в tesseract-api:1.0.2, а НЕ в tesseract-api-neoforge — как в EI и Overdrive.

@@ -11,32 +11,32 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "biomeswevegone:aspen_sapling",
+      "ingredient": "biomeswevegone:aspen_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "biomeswevegone:aspen_log"
+      "id": "biomeswevegone:aspen_log"
     },
     {
       "amount": 64,
-      "item": "biomeswevegone:aspen_leaves"
+      "id": "biomeswevegone:aspen_leaves"
     },
     {
       "amount": 2,
-      "item": "biomeswevegone:shelf_fungi"
+      "id": "biomeswevegone:shelf_fungi"
     },
     {
       "amount": 1,
-      "item": "biomeswevegone:aspen_sapling"
+      "id": "biomeswevegone:aspen_sapling"
     }
   ],
   "process_conditions": [

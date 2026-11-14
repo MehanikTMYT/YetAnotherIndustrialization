@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:firecracker_sapling",
+      "ingredient": "productivetrees:firecracker_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "productivetrees:firecracker_log"
+      "id": "productivetrees:firecracker_log"
     },
     {
       "amount": 64,
-      "item": "productivetrees:firecracker_leaves"
+      "id": "productivetrees:firecracker_leaves"
     },
     {
       "amount": 1,
-      "item": "productivetrees:firecracker_sapling"
+      "id": "productivetrees:firecracker_sapling"
     }
   ],
   "process_conditions": [

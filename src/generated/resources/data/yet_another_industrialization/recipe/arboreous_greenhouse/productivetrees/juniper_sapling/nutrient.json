@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:juniper_sapling",
+      "ingredient": "productivetrees:juniper_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "productivetrees:juniper_log"
+      "id": "productivetrees:juniper_log"
     },
     {
       "amount": 64,
-      "item": "productivetrees:juniper_leaves"
+      "id": "productivetrees:juniper_leaves"
     },
     {
       "amount": 1,
-      "item": "productivetrees:juniper_sapling"
+      "id": "productivetrees:juniper_sapling"
     }
   ],
   "process_conditions": [

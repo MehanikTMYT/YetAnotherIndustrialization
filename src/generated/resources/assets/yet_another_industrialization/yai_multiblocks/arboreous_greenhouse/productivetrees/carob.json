@@ -1,0 +1,134 @@
+{
+  "ref": {
+    "a": {
+      "Name": "productivetrees:carob_fruit",
+      "Properties": {
+        "age": "0",
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "productivetrees:carob_leaves",
+      "Properties": {
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "productivetrees:carob_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "productivetrees:carob_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "productivetrees:carob_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "productivetrees:carob_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "g": {
+      "Name": "productivetrees:carob_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "h": {
+      "Name": "productivetrees:carob_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "i": {
+      "Name": "productivetrees:carob_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      " aaaaab",
+      "aaabbab",
+      "       ",
+      "       "
+    ],
+    [
+      "  baa  ",
+      " abaea ",
+      "aahigab",
+      "aaahaab",
+      "       ",
+      "       "
+    ],
+    [
+      " abaaa ",
+      " aacda ",
+      "bbbaaaa",
+      "babaaaa",
+      "       ",
+      "       "
+    ],
+    [
+      " aacde ",
+      " dcfcd ",
+      "aaafdaa",
+      "aaafdaa",
+      "   f   ",
+      "   f   "
+    ],
+    [
+      " aadaa ",
+      " aacde ",
+      "baaaaab",
+      "abaadaa",
+      "       ",
+      "       "
+    ],
+    [
+      "  aaa  ",
+      " aaae  ",
+      "baaaaaa",
+      "aaageaa",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      " aaabab",
+      " baaaba",
+      "       ",
+      "       "
+    ]
+  ],
+  "version": 4
+}

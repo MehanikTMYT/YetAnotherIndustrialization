@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "sushigocrafting:avocado_sapling",
+      "ingredient": "sushigocrafting:avocado_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "sushigocrafting:avocado_log"
+      "id": "sushigocrafting:avocado_log"
     },
     {
       "amount": 32,
-      "item": "sushigocrafting:avocado_leaves"
+      "id": "sushigocrafting:avocado_leaves"
     },
     {
       "amount": 1,
-      "item": "sushigocrafting:avocado_sapling",
+      "id": "sushigocrafting:avocado_sapling",
       "probability": 0.5
     }
   ],

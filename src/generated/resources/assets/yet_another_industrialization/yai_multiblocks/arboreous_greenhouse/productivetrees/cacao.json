@@ -1,0 +1,117 @@
+{
+  "ref": {
+    "a": {
+      "Name": "productivetrees:cacao_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "productivetrees:cacao_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "productivetrees:cacao_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "productivetrees:cacao_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "productivetrees:cacao_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "productivetrees:cacao_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "productivetrees:cacao_log",
+      "Properties": {
+        "axis": "y"
+      }
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      "ffeaeff",
+      "feeaef ",
+      "       ",
+      "       "
+    ],
+    [
+      "  aca  ",
+      "  cbce ",
+      "feacaef",
+      "eaacaef",
+      "       ",
+      "       "
+    ],
+    [
+      " ecbce ",
+      " abdba ",
+      "eacbcae",
+      "accbcae",
+      "       ",
+      "       "
+    ],
+    [
+      " cbdbc ",
+      " bdgdb ",
+      "acbgbca",
+      "cbbgbca",
+      "   g   ",
+      "   g   "
+    ],
+    [
+      " ecbce ",
+      " abdba ",
+      "eacbcae",
+      "acbbcca",
+      "       ",
+      "       "
+    ],
+    [
+      "  aca  ",
+      " ecbc  ",
+      "feacaef",
+      "eacbcae",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "ffeaef ",
+      "feacae ",
+      "       ",
+      "       "
+    ]
+  ],
+  "version": 4
+}

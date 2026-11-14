@@ -1,0 +1,238 @@
+{
+  "ref": {
+    "a": {
+      "Name": "deeperdarker:sculk_gleam"
+    },
+    "b": {
+      "Name": "deeperdarker:echo_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "c": {
+      "Name": "deeperdarker:echo_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "deeperdarker:echo_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "deeperdarker:echo_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "deeperdarker:echo_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "deeperdarker:echo_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "h": {
+      "Name": "deeperdarker:echo_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "i": {
+      "Name": "deeperdarker:echo_log",
+      "Properties": {
+        "axis": "x"
+      }
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      "  ecee ",
+      "  chc  ",
+      "  cgc  ",
+      "  c    ",
+      "  a    ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      " eecee ",
+      " cchcc ",
+      "cchghc ",
+      "achfhc ",
+      " ch  c ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "   h   ",
+      " ccgcc ",
+      "chhfhhe",
+      " hgfghc",
+      " hgdghh",
+      " h    c",
+      " c     ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "  hgc  ",
+      " hhfhh ",
+      "hggdggh",
+      " gfbfgg",
+      " gfifg ",
+      "     h ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "  cce  ",
+      " echce ",
+      "echghce",
+      "chgfghh",
+      "hgfifg ",
+      " g   g ",
+      " h   a ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      " chghc ",
+      "chgfgh ",
+      "hhfdfg ",
+      "ggdbdf ",
+      " ffbf  ",
+      "  dbd  ",
+      "   i   ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      " chgh  ",
+      "  g gh ",
+      "    fg ",
+      "    a  ",
+      "       ",
+      "   b   ",
+      "   b   ",
+      "   b   "
+    ],
+    [
+      "       ",
+      "       ",
+      " eehee ",
+      "   gc  ",
+      "    h  ",
+      "    c  ",
+      "       ",
+      "       ",
+      "   i   ",
+      "       "
+    ],
+    [
+      "       ",
+      " eehee ",
+      "eccgcce",
+      "echfhca",
+      "chgdgh ",
+      "ahg  c ",
+      "  db a ",
+      "  ab   ",
+      "   i   ",
+      "       "
+    ],
+    [
+      "  che  ",
+      " ccgcc ",
+      "ehhfhhe",
+      "chgdgh ",
+      "hgfbfg ",
+      " h b h ",
+      " h i   ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "  cgc  ",
+      " hhfhh ",
+      "cggdggc",
+      "hgfbfgh",
+      "gfdidfg",
+      "hg   gh",
+      "     h ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "  ehe  ",
+      " ccgcc ",
+      "cchfhhc",
+      " hgfgh ",
+      " gfdfg ",
+      "  a  h ",
+      "     a ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      " eece  ",
+      " echcce",
+      " chghcc",
+      " hgfgha",
+      "  hg c ",
+      "  c    ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "  ecee ",
+      " echce ",
+      " chghc ",
+      "  c    ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ]
+  ],
+  "version": 4
+}

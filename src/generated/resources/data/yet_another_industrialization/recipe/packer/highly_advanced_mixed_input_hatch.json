@@ -5,17 +5,17 @@
   "item_inputs": [
     {
       "amount": 1,
-      "item": "modern_industrialization:highly_advanced_item_input_hatch"
+      "ingredient": "modern_industrialization:highly_advanced_item_input_hatch"
     },
     {
       "amount": 1,
-      "item": "modern_industrialization:highly_advanced_fluid_input_hatch"
+      "ingredient": "modern_industrialization:highly_advanced_fluid_input_hatch"
     }
   ],
   "item_outputs": [
     {
       "amount": 1,
-      "item": "yet_another_industrialization:highly_advanced_mixed_input_hatch"
+      "id": "yet_another_industrialization:highly_advanced_mixed_input_hatch"
     }
   ]
 }

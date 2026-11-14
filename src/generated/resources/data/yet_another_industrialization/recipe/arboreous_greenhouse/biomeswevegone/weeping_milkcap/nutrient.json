@@ -11,24 +11,24 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "biomeswevegone:weeping_milkcap",
+      "ingredient": "biomeswevegone:weeping_milkcap",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 2,
-      "item": "biomeswevegone:weeping_milkcap_mushroom_block"
+      "id": "biomeswevegone:weeping_milkcap_mushroom_block"
     },
     {
       "amount": 1,
-      "item": "biomeswevegone:weeping_milkcap"
+      "id": "biomeswevegone:weeping_milkcap"
     }
   ],
   "process_conditions": [

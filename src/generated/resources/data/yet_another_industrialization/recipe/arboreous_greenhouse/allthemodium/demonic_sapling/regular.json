@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "allthemodium:demonic_sapling",
+      "ingredient": "allthemodium:demonic_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "allthemodium:demonic_log"
+      "id": "allthemodium:demonic_log"
     },
     {
       "amount": 32,
-      "item": "allthemodium:demonic_leaves"
+      "id": "allthemodium:demonic_leaves"
     },
     {
       "amount": 1,
-      "item": "allthemodium:demonic_sapling",
+      "id": "allthemodium:demonic_sapling",
       "probability": 0.5
     }
   ],

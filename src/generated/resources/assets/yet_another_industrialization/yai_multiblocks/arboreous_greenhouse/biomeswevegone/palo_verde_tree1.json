@@ -1,0 +1,149 @@
+{
+  "ref": {
+    "a": {
+      "Name": "biomeswevegone:palo_verde_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "biomeswevegone:palo_verde_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "c": {
+      "Name": "biomeswevegone:palo_verde_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "biomeswevegone:palo_verde_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "biomeswevegone:palo_verde_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "biomeswevegone:flowering_palo_verde_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "biomeswevegone:palo_verde_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "h": {
+      "Name": "biomeswevegone:flowering_palo_verde_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "i": {
+      "Name": "biomeswevegone:flowering_palo_verde_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "        ",
+      "  edcde ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        "
+    ],
+    [
+      "    c   ",
+      " edcacfe",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        "
+    ],
+    [
+      "   cac  ",
+      "hdcagacd",
+      "    b   ",
+      "        ",
+      "        ",
+      "        ",
+      "        "
+    ],
+    [
+      "  cccde ",
+      "dcaaacde",
+      "        ",
+      "    b   ",
+      "    b   ",
+      "        ",
+      "        "
+    ],
+    [
+      " caacd  ",
+      "caggaide",
+      "  bb    ",
+      "        ",
+      "        ",
+      "     b  ",
+      "        "
+    ],
+    [
+      "  cac   ",
+      "fcagacfe",
+      "   b    ",
+      "        ",
+      "        ",
+      "     b  ",
+      "        "
+    ],
+    [
+      "   c    ",
+      "edcacde ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "      b "
+    ],
+    [
+      "        ",
+      " edcde  ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        "
+    ]
+  ],
+  "version": 4
+}

@@ -1,0 +1,179 @@
+{
+  "ref": {
+    "a": {
+      "Name": "biomesoplenty:willow_leaves",
+      "Properties": {
+        "distance": "5",
+        "mossy": "false",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "biomesoplenty:willow_leaves",
+      "Properties": {
+        "distance": "3",
+        "mossy": "false",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "biomesoplenty:willow_leaves",
+      "Properties": {
+        "distance": "4",
+        "mossy": "false",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "biomesoplenty:willow_leaves",
+      "Properties": {
+        "distance": "2",
+        "mossy": "false",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "biomesoplenty:willow_vine",
+      "Properties": {
+        "east": "true",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "f": {
+      "Name": "biomesoplenty:willow_vine",
+      "Properties": {
+        "east": "false",
+        "north": "false",
+        "south": "true",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "g": {
+      "Name": "biomesoplenty:willow_leaves",
+      "Properties": {
+        "distance": "6",
+        "mossy": "false",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "h": {
+      "Name": "biomesoplenty:willow_vine",
+      "Properties": {
+        "east": "false",
+        "north": "true",
+        "south": "false",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "i": {
+      "Name": "biomesoplenty:willow_vine",
+      "Properties": {
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "true"
+      }
+    },
+    "j": {
+      "Name": "biomesoplenty:willow_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "k": {
+      "Name": "biomesoplenty:willow_leaves",
+      "Properties": {
+        "distance": "1",
+        "mossy": "false",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "   i i   ",
+      "  ii i   ",
+      " ggacagi ",
+      " ggacagg ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "  iaba   ",
+      "  ccdcc  ",
+      " gacbcagh",
+      " aacbcagh",
+      "        h",
+      "        h",
+      "        h"
+    ],
+    [
+      " fcbdbc  ",
+      " fbdkdb  ",
+      "facbdbca ",
+      "fccbdbcc ",
+      "f        ",
+      "f        ",
+      "f        "
+    ],
+    [
+      "  bdkdb  ",
+      "  dkjkdh ",
+      " cbdjdbc ",
+      " bddjdbb ",
+      "    j    ",
+      "    j    ",
+      "    j    "
+    ],
+    [
+      "  cbdbch ",
+      "  bdkdbh ",
+      " acbdbcah",
+      " cbddbcch",
+      "        h",
+      "        h",
+      "        h"
+    ],
+    [
+      "  faba   ",
+      " fccdcc  ",
+      "fgacbcag ",
+      "facbdbca ",
+      "f        ",
+      "f        ",
+      "f        "
+    ],
+    [
+      "         ",
+      "         ",
+      " ggacag  ",
+      " gacbca  ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "      e  ",
+      " e  e e  ",
+      " e  e e  ",
+      " e  e e  ",
+      " e  e e  "
+    ]
+  ],
+  "version": 4
+}

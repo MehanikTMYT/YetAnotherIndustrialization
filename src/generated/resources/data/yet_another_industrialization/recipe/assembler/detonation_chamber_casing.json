@@ -5,17 +5,17 @@
   "item_inputs": [
     {
       "amount": 8,
-      "item": "modern_industrialization:blastproof_alloy_plate"
+      "ingredient": "modern_industrialization:blastproof_alloy_plate"
     },
     {
       "amount": 1,
-      "item": "modern_industrialization:industrial_tnt"
+      "ingredient": "modern_industrialization:industrial_tnt"
     }
   ],
   "item_outputs": [
     {
       "amount": 1,
-      "item": "yet_another_industrialization:detonation_chamber_casing"
+      "id": "yet_another_industrialization:detonation_chamber_casing"
     }
   ]
 }

@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:candlenut_sapling",
+      "ingredient": "productivetrees:candlenut_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "productivetrees:candlenut_log"
+      "id": "productivetrees:candlenut_log"
     },
     {
       "amount": 64,
-      "item": "productivetrees:candlenut_leaves"
+      "id": "productivetrees:candlenut_leaves"
     },
     {
       "amount": 1,
-      "item": "productivetrees:candlenut_sapling"
+      "id": "productivetrees:candlenut_sapling"
     }
   ],
   "process_conditions": [

@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:dogwood_sapling",
+      "ingredient": "productivetrees:dogwood_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "productivetrees:dogwood_log"
+      "id": "productivetrees:dogwood_log"
     },
     {
       "amount": 32,
-      "item": "productivetrees:dogwood_leaves"
+      "id": "productivetrees:dogwood_leaves"
     },
     {
       "amount": 1,
-      "item": "productivetrees:dogwood_sapling",
+      "id": "productivetrees:dogwood_sapling",
       "probability": 0.5
     }
   ],

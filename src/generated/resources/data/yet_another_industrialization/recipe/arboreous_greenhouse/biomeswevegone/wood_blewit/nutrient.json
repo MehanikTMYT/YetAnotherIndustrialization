@@ -11,24 +11,24 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "biomeswevegone:wood_blewit",
+      "ingredient": "biomeswevegone:wood_blewit",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 2,
-      "item": "biomeswevegone:brown_mushroom_stem"
+      "id": "biomeswevegone:brown_mushroom_stem"
     },
     {
       "amount": 1,
-      "item": "biomeswevegone:wood_blewit"
+      "id": "biomeswevegone:wood_blewit"
     }
   ],
   "process_conditions": [

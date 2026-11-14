@@ -5,33 +5,33 @@
   "item_inputs": [
     {
       "amount": 2,
-      "item": "modern_industrialization:large_advanced_pump"
+      "ingredient": "modern_industrialization:large_advanced_pump"
     },
     {
       "amount": 2,
-      "item": "modern_industrialization:blastproof_alloy_large_plate"
+      "ingredient": "modern_industrialization:blastproof_alloy_large_plate"
     },
     {
       "amount": 1,
-      "item": "modern_industrialization:highly_advanced_machine_hull"
+      "ingredient": "modern_industrialization:highly_advanced_machine_hull"
     },
     {
       "amount": 1,
-      "item": "modern_industrialization:industrial_tnt"
+      "ingredient": "modern_industrialization:industrial_tnt"
     },
     {
       "amount": 1,
-      "item": "modern_industrialization:processing_unit"
+      "ingredient": "modern_industrialization:processing_unit"
     },
     {
       "amount": 2,
-      "item": "modern_industrialization:large_advanced_motor"
+      "ingredient": "modern_industrialization:large_advanced_motor"
     }
   ],
   "item_outputs": [
     {
       "amount": 1,
-      "item": "yet_another_industrialization:pulse_detonation_generator"
+      "id": "yet_another_industrialization:pulse_detonation_generator"
     }
   ]
 }

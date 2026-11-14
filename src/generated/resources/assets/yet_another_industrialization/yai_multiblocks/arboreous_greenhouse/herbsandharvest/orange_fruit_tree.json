@@ -1,0 +1,121 @@
+{
+  "ref": {
+    "a": {
+      "Name": "herbsandharvest:orange_fruit_leaves",
+      "Properties": {
+        "age": "0",
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "herbsandharvest:orange_fruit_leaves",
+      "Properties": {
+        "age": "0",
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "herbsandharvest:fruit_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "herbsandharvest:orange_fruit_leaves",
+      "Properties": {
+        "age": "0",
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "herbsandharvest:fruit_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "herbsandharvest:fruit_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "minecraft:oak_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "h": {
+      "Name": "herbsandharvest:orange_fruit_leaves",
+      "Properties": {
+        "age": "0",
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "i": {
+      "Name": "herbsandharvest:fruit_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      " hfc ",
+      " fdf ",
+      " cfh ",
+      "     ",
+      "     "
+    ],
+    [
+      "  f  ",
+      "cfefc",
+      "feief",
+      "cfefc",
+      "  e  ",
+      "     "
+    ],
+    [
+      " fdf ",
+      "febdf",
+      "dbgie",
+      "fdgef",
+      " ege ",
+      "  g  "
+    ],
+    [
+      "  a  ",
+      "hfdfc",
+      "feief",
+      "caefc",
+      "  e  ",
+      "     "
+    ],
+    [
+      "     ",
+      " cfc ",
+      " fdf ",
+      " cfc ",
+      "     ",
+      "     "
+    ]
+  ],
+  "version": 4
+}

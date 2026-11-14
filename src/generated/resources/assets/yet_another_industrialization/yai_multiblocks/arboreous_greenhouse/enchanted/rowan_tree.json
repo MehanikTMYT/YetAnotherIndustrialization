@@ -1,0 +1,88 @@
+{
+  "ref": {
+    "a": {
+      "Name": "enchanted:rowan_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "enchanted:rowan_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "enchanted:rowan_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "enchanted:rowan_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "enchanted:rowan_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "f": {
+      "Name": "enchanted:rowan_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "fcac ",
+      "fcacf",
+      "     "
+    ],
+    [
+      "  d  ",
+      "  bd ",
+      "cadac",
+      "aadac",
+      "     "
+    ],
+    [
+      " dbd ",
+      " beb ",
+      "adeda",
+      "ddeda",
+      "  e  "
+    ],
+    [
+      "  d  ",
+      " db  ",
+      "cadac",
+      "addac",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "ccacf",
+      " ada ",
+      "     "
+    ]
+  ],
+  "version": 4
+}

@@ -5,29 +5,29 @@
   "item_inputs": [
     {
       "amount": 4,
-      "item": "modern_industrialization:steel_large_plate"
+      "ingredient": "modern_industrialization:steel_large_plate"
     },
     {
       "amount": 1,
-      "item": "minecraft:blast_furnace"
+      "ingredient": "minecraft:blast_furnace"
     },
     {
       "amount": 1,
-      "item": "modern_industrialization:analog_circuit"
+      "ingredient": "modern_industrialization:analog_circuit"
     },
     {
       "amount": 2,
-      "item": "minecraft:emerald_block"
+      "ingredient": "minecraft:emerald_block"
     },
     {
       "amount": 1,
-      "item": "modern_industrialization:steel_machine_casing"
+      "ingredient": "modern_industrialization:steel_machine_casing"
     }
   ],
   "item_outputs": [
     {
       "amount": 1,
-      "item": "yet_another_industrialization:numismatic_generator"
+      "id": "yet_another_industrialization:numismatic_generator"
     }
   ]
 }

@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:white_poplar_sapling",
+      "ingredient": "productivetrees:white_poplar_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "productivetrees:white_poplar_log"
+      "id": "productivetrees:white_poplar_log"
     },
     {
       "amount": 64,
-      "item": "productivetrees:white_poplar_leaves"
+      "id": "productivetrees:white_poplar_leaves"
     },
     {
       "amount": 1,
-      "item": "productivetrees:white_poplar_sapling"
+      "id": "productivetrees:white_poplar_sapling"
     }
   ],
   "process_conditions": [

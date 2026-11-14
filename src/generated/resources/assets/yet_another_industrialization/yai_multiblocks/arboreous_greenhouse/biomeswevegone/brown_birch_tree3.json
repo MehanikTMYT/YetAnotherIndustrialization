@@ -1,0 +1,194 @@
+{
+  "ref": {
+    "a": {
+      "Name": "biomeswevegone:brown_birch_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "minecraft:birch_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "c": {
+      "Name": "biomeswevegone:brown_birch_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "biomeswevegone:brown_birch_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "biomeswevegone:brown_birch_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "biomeswevegone:brown_birch_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "biomeswevegone:brown_birch_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "    e  ",
+      "   a   ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "  ca   ",
+      "       ",
+      "   ce  ",
+      " ecac  ",
+      "  ad   ",
+      "   a   ",
+      "       ",
+      "    c  ",
+      "   a   ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "   a   ",
+      "   d   ",
+      "       ",
+      "  c c  ",
+      " cada  ",
+      "   b   ",
+      "   d   ",
+      "       ",
+      "   da  ",
+      "   da  ",
+      "ec bda ",
+      " ca    ",
+      "   d   ",
+      "       ",
+      "    ac ",
+      "   d   ",
+      "       "
+    ],
+    [
+      "   d   ",
+      "   b   ",
+      "  ada  ",
+      " cad   ",
+      "cadbdac",
+      "  db c ",
+      " adb   ",
+      "cadb   ",
+      " adbda ",
+      "  dbd  ",
+      " adbdac",
+      "  dbd  ",
+      "   bd  ",
+      "  db   ",
+      "   bda ",
+      "  db   ",
+      "   b   "
+    ],
+    [
+      "       ",
+      "       ",
+      "       ",
+      " e d   ",
+      "  dbd  ",
+      "  a ac ",
+      " cada  ",
+      "   da  ",
+      "  ada  ",
+      " e da  ",
+      " c b ce",
+      "   d e ",
+      "  ad   ",
+      "   da  ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "  ece  ",
+      "   a   ",
+      "   d   ",
+      "  ca   ",
+      " e ac  ",
+      " g a   ",
+      "    ce ",
+      " gf  g ",
+      "       ",
+      "       ",
+      "    e  ",
+      "   ac  ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "   ac  ",
+      "       ",
+      " g     ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ]
+  ],
+  "version": 4
+}

@@ -5,25 +5,25 @@
   "item_inputs": [
     {
       "amount": 4,
-      "item": "modern_industrialization:large_pump"
+      "ingredient": "modern_industrialization:large_pump"
     },
     {
       "amount": 2,
-      "item": "minecraft:dragon_breath"
+      "ingredient": "minecraft:dragon_breath"
     },
     {
       "amount": 2,
-      "item": "modern_industrialization:steel_gear"
+      "ingredient": "modern_industrialization:steel_gear"
     },
     {
       "amount": 1,
-      "item": "modern_industrialization:advanced_machine_hull"
+      "ingredient": "modern_industrialization:advanced_machine_hull"
     }
   ],
   "item_outputs": [
     {
       "amount": 1,
-      "item": "yet_another_industrialization:dragon_egg_energy_siphon"
+      "id": "yet_another_industrialization:dragon_egg_energy_siphon"
     }
   ]
 }

@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:elm_sapling",
+      "ingredient": "productivetrees:elm_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "productivetrees:elm_log"
+      "id": "productivetrees:elm_log"
     },
     {
       "amount": 32,
-      "item": "productivetrees:elm_leaves"
+      "id": "productivetrees:elm_leaves"
     },
     {
       "amount": 1,
-      "item": "productivetrees:elm_sapling",
+      "id": "productivetrees:elm_sapling",
       "probability": 0.5
     }
   ],

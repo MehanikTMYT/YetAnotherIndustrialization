@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "biomeswevegone:indigo_jacaranda_sapling",
+      "ingredient": "biomeswevegone:indigo_jacaranda_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "biomeswevegone:jacaranda_log"
+      "id": "biomeswevegone:jacaranda_log"
     },
     {
       "amount": 64,
-      "item": "biomeswevegone:flowering_indigo_jacaranda_leaves"
+      "id": "biomeswevegone:flowering_indigo_jacaranda_leaves"
     },
     {
       "amount": 1,
-      "item": "biomeswevegone:indigo_jacaranda_sapling"
+      "id": "biomeswevegone:indigo_jacaranda_sapling"
     }
   ],
   "process_conditions": [

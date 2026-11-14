@@ -1,0 +1,134 @@
+{
+  "ref": {
+    "a": {
+      "Name": "productivetrees:lemon_leaves",
+      "Properties": {
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "productivetrees:lemon_fruit",
+      "Properties": {
+        "age": "0",
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "productivetrees:lemon_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "productivetrees:lemon_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "productivetrees:lemon_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "productivetrees:lemon_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "productivetrees:lemon_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "h": {
+      "Name": "productivetrees:lemon_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "i": {
+      "Name": "productivetrees:lemon_log",
+      "Properties": {
+        "axis": "y"
+      }
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      " ddbbbb",
+      " bbbdf ",
+      "       ",
+      "       "
+    ],
+    [
+      "  ded  ",
+      "  bhba ",
+      "bbegbab",
+      "bdbhebb",
+      "       ",
+      "       "
+    ],
+    [
+      " bbbbb ",
+      " hbbbb ",
+      "fbhcbbb",
+      "deebbab",
+      "       ",
+      "       "
+    ],
+    [
+      " bgcba ",
+      " gciba ",
+      "abgibab",
+      "fbbicba",
+      "   i   ",
+      "   i   "
+    ],
+    [
+      " bbgba ",
+      " bbcgb ",
+      "aabghbb",
+      "bbbgheb",
+      "       ",
+      "       "
+    ],
+    [
+      "  bbb  ",
+      "  bbbf ",
+      "bbabbdb",
+      "babgbeb",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      " ababbb",
+      " bbbfdf",
+      "       ",
+      "       "
+    ]
+  ],
+  "version": 4
+}

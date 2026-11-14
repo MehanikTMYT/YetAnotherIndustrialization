@@ -5,20 +5,20 @@
   "fluid_inputs": [
     {
       "amount": 16000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "modern_industrialization:quantum_circuit",
+      "ingredient": "modern_industrialization:quantum_circuit",
       "probability": 0.02
     }
   ],
   "item_outputs": [
     {
       "amount": 1,
-      "item": "yet_another_industrialization:ai_slop"
+      "id": "yet_another_industrialization:ai_slop"
     }
   ]
 }

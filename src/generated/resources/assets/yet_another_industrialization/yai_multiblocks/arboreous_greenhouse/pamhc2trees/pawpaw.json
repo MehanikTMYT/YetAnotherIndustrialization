@@ -1,0 +1,99 @@
+{
+  "ref": {
+    "a": {
+      "Name": "minecraft:oak_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "minecraft:oak_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "minecraft:oak_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "pamhc2trees:pampawpaw",
+      "Properties": {
+        "age": "0"
+      }
+    },
+    "e": {
+      "Name": "minecraft:oak_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "f": {
+      "Name": "minecraft:oak_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "minecraft:oak_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "ffafg",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      " cbc ",
+      " aca ",
+      "aacaf",
+      " ddd "
+    ],
+    [
+      "  c  ",
+      "  b  ",
+      " beb ",
+      " cec ",
+      "cceca",
+      " ded "
+    ],
+    [
+      "     ",
+      "     ",
+      " cbc ",
+      " aca ",
+      "accaf",
+      " ddd "
+    ],
+    [
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "facaf",
+      "     "
+    ]
+  ],
+  "version": 4
+}

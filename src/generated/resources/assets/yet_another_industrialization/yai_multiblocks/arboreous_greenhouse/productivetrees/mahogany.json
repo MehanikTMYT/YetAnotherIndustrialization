@@ -1,0 +1,117 @@
+{
+  "ref": {
+    "a": {
+      "Name": "productivetrees:mahogany_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "productivetrees:mahogany_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "productivetrees:mahogany_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "productivetrees:mahogany_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "productivetrees:mahogany_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "productivetrees:mahogany_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "productivetrees:mahogany_log",
+      "Properties": {
+        "axis": "y"
+      }
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      " aacae ",
+      "eeacae ",
+      "       ",
+      "       "
+    ],
+    [
+      "  ccc  ",
+      " acbca ",
+      "eccbcae",
+      "eacbcae",
+      "       ",
+      "       "
+    ],
+    [
+      " abfba ",
+      " cbdbc ",
+      "abbfbca",
+      "ccbfbcc",
+      "       ",
+      "       "
+    ],
+    [
+      " cfdfc ",
+      " bdgdb ",
+      "cffgfbc",
+      "bbfgfbb",
+      "   g   ",
+      "   g   "
+    ],
+    [
+      " abfba ",
+      " cbdbc ",
+      "abffbba",
+      "ccbfbcc",
+      "       ",
+      "       "
+    ],
+    [
+      "  ccc  ",
+      " acbc  ",
+      "accfcca",
+      "eabbbae",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "eaabaee",
+      "eecccee",
+      "       ",
+      "       "
+    ]
+  ],
+  "version": 4
+}

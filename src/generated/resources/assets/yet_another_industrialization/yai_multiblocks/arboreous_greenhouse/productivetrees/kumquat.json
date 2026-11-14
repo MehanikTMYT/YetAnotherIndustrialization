@@ -1,0 +1,134 @@
+{
+  "ref": {
+    "a": {
+      "Name": "productivetrees:kumquat_fruit",
+      "Properties": {
+        "age": "0",
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "productivetrees:kumquat_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "productivetrees:kumquat_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "productivetrees:kumquat_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "productivetrees:kumquat_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "productivetrees:kumquat_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "productivetrees:kumquat_leaves",
+      "Properties": {
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "h": {
+      "Name": "productivetrees:kumquat_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "i": {
+      "Name": "productivetrees:kumquat_log",
+      "Properties": {
+        "axis": "y"
+      }
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      "dedaaaa",
+      " aedcea",
+      "       ",
+      "       "
+    ],
+    [
+      "  aac  ",
+      " edaea ",
+      "ecaaaed",
+      "aecafce",
+      "       ",
+      "       "
+    ],
+    [
+      " aaafc ",
+      " aaaae ",
+      "afbhaca",
+      "ccfabfc",
+      "       ",
+      "       "
+    ],
+    [
+      " aaabf ",
+      " aaiha ",
+      "acaiaea",
+      "eahihae",
+      "   i   ",
+      "   i   "
+    ],
+    [
+      " aaaac ",
+      " fbhaa ",
+      "aafbada",
+      "dafbaaa",
+      "       ",
+      "       "
+    ],
+    [
+      "  afc  ",
+      " afbag ",
+      "aaaaaga",
+      "aafagag",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "agaaag ",
+      " aceaa ",
+      "       ",
+      "       "
+    ]
+  ],
+  "version": 4
+}

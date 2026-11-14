@@ -1,0 +1,116 @@
+{
+  "ref": {
+    "a": {
+      "Name": "allthemodium:ancient_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "allthemodium:ancient_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "allthemodium:ancient_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "allthemodium:ancient_log_0",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "e": {
+      "Name": "allthemodium:ancient_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "allthemodium:ancient_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "         ",
+      "   febef ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "     b   ",
+      "  febcbef",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "    bcb  ",
+      "  ebcacbe",
+      "         ",
+      " bcb     ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "   bcacb ",
+      "  bcadacb",
+      " bcb d   ",
+      "bcacad   ",
+      "     d   ",
+      "         ",
+      "         "
+    ],
+    [
+      "    bcb  ",
+      "  cbcacbe",
+      " cac     ",
+      "cadac    ",
+      "   d     ",
+      "    dd   ",
+      "     d   "
+    ],
+    [
+      "     b   ",
+      "  bebcbef",
+      " bcb     ",
+      "bcacb    ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "   febef ",
+      "         ",
+      " bcb     ",
+      "         ",
+      "         ",
+      "         "
+    ]
+  ],
+  "version": 4
+}

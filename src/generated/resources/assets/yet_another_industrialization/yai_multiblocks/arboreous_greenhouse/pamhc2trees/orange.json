@@ -1,0 +1,104 @@
+{
+  "ref": {
+    "a": {
+      "Name": "minecraft:oak_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "minecraft:oak_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "c": {
+      "Name": "minecraft:oak_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "minecraft:oak_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "minecraft:oak_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "pamhc2trees:pamorange",
+      "Properties": {
+        "age": "0"
+      }
+    },
+    "g": {
+      "Name": "minecraft:oak_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "eeaeg",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      " ada ",
+      " aca ",
+      "aacae",
+      " fff ",
+      "     "
+    ],
+    [
+      "  c  ",
+      "  d  ",
+      " dbd ",
+      " cbc ",
+      "ccbca",
+      " fbf ",
+      "  b  "
+    ],
+    [
+      "     ",
+      "     ",
+      " ada ",
+      " cca ",
+      "aacae",
+      " fff ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "eacae",
+      "     ",
+      "     "
+    ]
+  ],
+  "version": 4
+}

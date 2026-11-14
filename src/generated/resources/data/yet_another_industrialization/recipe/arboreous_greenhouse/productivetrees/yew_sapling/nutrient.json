@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:yew_sapling",
+      "ingredient": "productivetrees:yew_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "productivetrees:yew_log"
+      "id": "productivetrees:yew_log"
     },
     {
       "amount": 64,
-      "item": "productivetrees:yew_leaves"
+      "id": "productivetrees:yew_leaves"
     },
     {
       "amount": 1,
-      "item": "productivetrees:yew_sapling"
+      "id": "productivetrees:yew_sapling"
     }
   ],
   "process_conditions": [

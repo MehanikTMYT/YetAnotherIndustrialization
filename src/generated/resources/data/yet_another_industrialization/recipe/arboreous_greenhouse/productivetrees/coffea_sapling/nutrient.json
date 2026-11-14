@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:coffea_sapling",
+      "ingredient": "productivetrees:coffea_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "productivetrees:coffea_log"
+      "id": "productivetrees:coffea_log"
     },
     {
       "amount": 64,
-      "item": "productivetrees:coffea_leaves"
+      "id": "productivetrees:coffea_leaves"
     },
     {
       "amount": 1,
-      "item": "productivetrees:coffea_sapling"
+      "id": "productivetrees:coffea_sapling"
     }
   ],
   "process_conditions": [

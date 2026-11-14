@@ -1,0 +1,60 @@
+{
+  "ref": {
+    "a": {
+      "Name": "sushigocrafting:avocado_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "stage": "0"
+      }
+    },
+    "b": {
+      "Name": "sushigocrafting:avocado_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "stage": "1"
+      }
+    },
+    "c": {
+      "Name": "sushigocrafting:avocado_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "d": {
+      "Name": "sushigocrafting:avocado_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "stage": "0"
+      }
+    },
+    "e": {
+      "Name": "sushigocrafting:avocado_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "stage": "2"
+      }
+    }
+  },
+  "shape": [
+    [
+      " e ",
+      " ad",
+      "   "
+    ],
+    [
+      "dad",
+      "aca",
+      " c "
+    ],
+    [
+      " d ",
+      " ab",
+      "   "
+    ]
+  ],
+  "version": 4
+}

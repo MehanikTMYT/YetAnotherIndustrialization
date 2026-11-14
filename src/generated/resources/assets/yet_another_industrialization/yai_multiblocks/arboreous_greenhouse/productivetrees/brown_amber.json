@@ -1,0 +1,217 @@
+{
+  "ref": {
+    "a": {
+      "Name": "productivetrees:brown_amber_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "productivetrees:brown_amber_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "productivetrees:brown_amber_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "productivetrees:brown_amber_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "productivetrees:brown_amber_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "productivetrees:brown_amber_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "productivetrees:brown_amber_fruit",
+      "Properties": {
+        "age": "1",
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "h": {
+      "Name": "productivetrees:brown_amber_log",
+      "Properties": {
+        "axis": "z"
+      }
+    },
+    "i": {
+      "Name": "productivetrees:brown_amber_log",
+      "Properties": {
+        "axis": "x"
+      }
+    },
+    "j": {
+      "Name": "productivetrees:brown_amber_log",
+      "Properties": {
+        "axis": "y"
+      }
+    }
+  },
+  "shape": [
+    [
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "   fff      ",
+      "   faf      ",
+      "   aca      ",
+      "   g        ",
+      "            ",
+      "            ",
+      "            ",
+      "            "
+    ],
+    [
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "    f       ",
+      "  ffafc     ",
+      " ffacaf     ",
+      " facbcaff   ",
+      " cbbe caf   ",
+      "      abc   ",
+      "      ggg   ",
+      "            ",
+      "            "
+    ],
+    [
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "   faf      ",
+      "  facab     ",
+      "ffacbcac    ",
+      "facbdbcaaa  ",
+      "cbddidbcaa  ",
+      "  e  dcdbc  ",
+      "       e    ",
+      "       g    ",
+      "            "
+    ],
+    [
+      "            ",
+      "            ",
+      "      fff   ",
+      "      aaa   ",
+      "    a ccc   ",
+      " faaccdbb   ",
+      "facbdccbc   ",
+      "acbdebcccc  ",
+      "bdedidbbcc  ",
+      "geie ebedb  ",
+      "     geie   ",
+      "            ",
+      "            "
+    ],
+    [
+      "            ",
+      "    ffff    ",
+      "    acaaaf  ",
+      "    cbcccf  ",
+      "     bbbbaf ",
+      "  fabdeddca ",
+      "ffaccb dbca ",
+      "facbbdbbbb  ",
+      "cbdbedbbcb  ",
+      "  e gidbcc  ",
+      "  gi   eg   ",
+      "      i     ",
+      "            "
+    ],
+    [
+      "     f      ",
+      "   ffaaaa   ",
+      "   acbcbcf  ",
+      "   cbdbdba  ",
+      "     ddddcaf",
+      "     eihebca",
+      " ffa  ihdbcc",
+      " fac  edddg ",
+      " cbc  ddd   ",
+      "   g iedb   ",
+      "    i g g   ",
+      "      i     ",
+      "            "
+    ],
+    [
+      "    aca     ",
+      "   acbcf    ",
+      "   cbdcafa  ",
+      "   bdebcacf ",
+      "    ejdbbcaa",
+      "     jeddbcc",
+      "     jgdddbb",
+      "     j  hhe ",
+      "     jhh  g ",
+      "     j      ",
+      "     j      ",
+      "     j      ",
+      "     j      "
+    ],
+    [
+      "     a      ",
+      "   facaf    ",
+      "   acbaff   ",
+      "   cbdcafa  ",
+      "     ebccaaf",
+      "      dbbcca",
+      "      gdbdbc",
+      "       g eg ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            "
+    ],
+    [
+      "            ",
+      "    faf     ",
+      "    aca     ",
+      "    cbc     ",
+      "        aff ",
+      "        caa ",
+      "        cbc ",
+      "        ggg ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            "
+    ]
+  ],
+  "version": 4
+}

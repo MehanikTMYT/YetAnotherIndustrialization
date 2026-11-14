@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:asai_palm_sapling",
+      "ingredient": "productivetrees:asai_palm_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "productivetrees:asai_palm_log"
+      "id": "productivetrees:asai_palm_log"
     },
     {
       "amount": 64,
-      "item": "productivetrees:asai_palm_leaves"
+      "id": "productivetrees:asai_palm_leaves"
     },
     {
       "amount": 1,
-      "item": "productivetrees:asai_palm_sapling"
+      "id": "productivetrees:asai_palm_sapling"
     }
   ],
   "process_conditions": [

@@ -5,29 +5,29 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     },
     {
       "amount": 4,
-      "fluid": "modern_industrialization:cryofluid"
+      "ingredient": "modern_industrialization:cryofluid"
     }
   ],
   "fluid_outputs": [
     {
       "amount": 2,
-      "fluid": "modern_industrialization:argon"
+      "id": "modern_industrialization:argon"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "minecraft:bucket"
+      "ingredient": "minecraft:bucket"
     }
   ],
   "item_outputs": [
     {
       "amount": 1,
-      "item": "minecraft:powder_snow_bucket"
+      "id": "minecraft:powder_snow_bucket"
     }
   ]
 }

@@ -11,32 +11,32 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "biomeswevegone:white_mangrove_sapling",
+      "ingredient": "biomeswevegone:white_mangrove_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "biomeswevegone:white_mangrove_log"
+      "id": "biomeswevegone:white_mangrove_log"
     },
     {
       "amount": 32,
-      "item": "biomeswevegone:white_mangrove_leaves"
+      "id": "biomeswevegone:white_mangrove_leaves"
     },
     {
       "amount": 1,
-      "item": "minecraft:vine"
+      "id": "minecraft:vine"
     },
     {
       "amount": 1,
-      "item": "biomeswevegone:white_mangrove_sapling",
+      "id": "biomeswevegone:white_mangrove_sapling",
       "probability": 0.5
     }
   ],

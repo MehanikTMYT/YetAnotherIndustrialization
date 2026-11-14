@@ -1,0 +1,580 @@
+{
+  "ref": {
+    "A": {
+      "Name": "malum:soulwood_leaves",
+      "Properties": {
+        "color": "4",
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "B": {
+      "Name": "malum:hanging_soulwood_leaves",
+      "Properties": {
+        "color": "4",
+        "waterlogged": "false"
+      }
+    },
+    "C": {
+      "Name": "malum:soulwood_leaves",
+      "Properties": {
+        "color": "0",
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "D": {
+      "Name": "malum:soulwood_leaves",
+      "Properties": {
+        "color": "0",
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "E": {
+      "Name": "malum:hanging_soulwood_leaves",
+      "Properties": {
+        "color": "0",
+        "waterlogged": "false"
+      }
+    },
+    "F": {
+      "Name": "malum:soulwood_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "G": {
+      "Name": "malum:soulwood_leaves",
+      "Properties": {
+        "color": "3",
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "H": {
+      "Name": "malum:soulwood_leaves",
+      "Properties": {
+        "color": "0",
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "I": {
+      "Name": "malum:soulwood_leaves",
+      "Properties": {
+        "color": "4",
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "J": {
+      "Name": "malum:soulwood_log",
+      "Properties": {
+        "axis": "z"
+      }
+    },
+    "K": {
+      "Name": "malum:clinging_blight",
+      "Properties": {
+        "blight_type": "soulwood_spike",
+        "facing": "east"
+      }
+    },
+    "L": {
+      "Name": "malum:clinging_blight",
+      "Properties": {
+        "blight_type": "hanging_blight",
+        "facing": "east"
+      }
+    },
+    "M": {
+      "Name": "malum:clinging_blight",
+      "Properties": {
+        "blight_type": "hanging_blight",
+        "facing": "west"
+      }
+    },
+    "N": {
+      "Name": "malum:soulwood_log",
+      "Properties": {
+        "axis": "x"
+      }
+    },
+    "O": {
+      "Name": "malum:exposed_soulwood_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "P": {
+      "Name": "malum:soulwood_leaves",
+      "Properties": {
+        "color": "4",
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "Q": {
+      "Name": "malum:soulwood_leaves",
+      "Properties": {
+        "color": "4",
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "R": {
+      "Name": "malum:soulwood_leaves",
+      "Properties": {
+        "color": "2",
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "S": {
+      "Name": "malum:soulwood_leaves",
+      "Properties": {
+        "color": "1",
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "T": {
+      "Name": "malum:exposed_soulwood_log",
+      "Properties": {
+        "axis": "z"
+      }
+    },
+    "U": {
+      "Name": "malum:clinging_blight",
+      "Properties": {
+        "blight_type": "hanging_blight",
+        "facing": "north"
+      }
+    },
+    "V": {
+      "Name": "malum:clinging_blight",
+      "Properties": {
+        "blight_type": "hanging_blight",
+        "facing": "south"
+      }
+    },
+    "a": {
+      "Name": "malum:soulwood_leaves",
+      "Properties": {
+        "color": "2",
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "malum:hanging_soulwood_leaves",
+      "Properties": {
+        "color": "3",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "malum:soulwood_leaves",
+      "Properties": {
+        "color": "2",
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "malum:soulwood_leaves",
+      "Properties": {
+        "color": "4",
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "malum:soulwood_leaves",
+      "Properties": {
+        "color": "4",
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "malum:soulwood_leaves",
+      "Properties": {
+        "color": "2",
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "malum:soulwood_leaves",
+      "Properties": {
+        "color": "2",
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "h": {
+      "Name": "malum:soulwood_leaves",
+      "Properties": {
+        "color": "1",
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "i": {
+      "Name": "malum:soulwood_leaves",
+      "Properties": {
+        "color": "3",
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "j": {
+      "Name": "malum:soulwood_leaves",
+      "Properties": {
+        "color": "1",
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "k": {
+      "Name": "malum:soulwood_leaves",
+      "Properties": {
+        "color": "1",
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "l": {
+      "Name": "malum:soulwood_leaves",
+      "Properties": {
+        "color": "3",
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "m": {
+      "Name": "malum:soulwood_leaves",
+      "Properties": {
+        "color": "3",
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "n": {
+      "Name": "malum:hanging_soulwood_leaves",
+      "Properties": {
+        "color": "1",
+        "waterlogged": "false"
+      }
+    },
+    "o": {
+      "Name": "malum:soulwood_leaves",
+      "Properties": {
+        "color": "3",
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "p": {
+      "Name": "malum:soulwood_leaves",
+      "Properties": {
+        "color": "1",
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "q": {
+      "Name": "malum:soulwood_leaves",
+      "Properties": {
+        "color": "1",
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "r": {
+      "Name": "malum:soulwood_leaves",
+      "Properties": {
+        "color": "1",
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "s": {
+      "Name": "malum:soulwood_leaves",
+      "Properties": {
+        "color": "2",
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "t": {
+      "Name": "malum:soulwood_leaves",
+      "Properties": {
+        "color": "3",
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "u": {
+      "Name": "malum:soulwood_leaves",
+      "Properties": {
+        "color": "0",
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "v": {
+      "Name": "malum:soulwood_leaves",
+      "Properties": {
+        "color": "0",
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "w": {
+      "Name": "malum:soulwood_leaves",
+      "Properties": {
+        "color": "0",
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "x": {
+      "Name": "malum:soulwood_leaves",
+      "Properties": {
+        "color": "2",
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "y": {
+      "Name": "malum:hanging_soulwood_leaves",
+      "Properties": {
+        "color": "2",
+        "waterlogged": "false"
+      }
+    },
+    "z": {
+      "Name": "malum:soulwood_leaves",
+      "Properties": {
+        "color": "3",
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "             ",
+      "             ",
+      "             ",
+      "   wvuvw     ",
+      "   zomoz     ",
+      "   wgmoz     ",
+      "   wvuvw     ",
+      "   pvuvw     ",
+      "   pvrqE     ",
+      "   ypnp      ",
+      "    h y      ",
+      "    y        ",
+      "             ",
+      "             "
+    ],
+    [
+      "             ",
+      "             ",
+      "    omo      ",
+      "  wvuDuvw    ",
+      "  zomtmoz    ",
+      "  xvfDugx    ",
+      "  wvuDuvw    ",
+      "  wvujuvw    ",
+      "  pqrj vw    ",
+      "  hnq  qn    ",
+      "  y x  n     ",
+      "    y        ",
+      "             ",
+      "             "
+    ],
+    [
+      "             ",
+      "     d       ",
+      " Cwomtmo     ",
+      " xomtHDuvqph ",
+      " zgfaltmomoz ",
+      " bvfacafvrqw ",
+      "  vuDHDuvuvE ",
+      "  vuDHDunuv  ",
+      "  nujljr rq  ",
+      "   oberm qp  ",
+      "   B B B ys  ",
+      "          y  ",
+      "             ",
+      "             "
+    ],
+    [
+      "             ",
+      "  wvded      ",
+      "Cwvmtltmggx  ",
+      "pqmtlFltmrqph",
+      "zoracOcaftmoz",
+      "zomtcFctuDuvp",
+      "zomtlOltujuvw",
+      "BAdtlFle jrEC",
+      " Q tIFIe j  S",
+      " B me et r  S",
+      "   bB db g  R",
+      "      B  y  y",
+      "             ",
+      "             "
+    ],
+    [
+      "   A         ",
+      " zomod   A   ",
+      "zoutmtmoqrqp ",
+      "qrtltltmmtmoz",
+      "omjkjkjrjltmo",
+      "omtlaltmaHDuv",
+      "z tltltmtHDuv",
+      "B tltltttHjrE",
+      "   IlNlllk   ",
+      "   teMbl j   ",
+      "   Bd    f   ",
+      "    B        ",
+      "             ",
+      "             "
+    ],
+    [
+      "  AdA        ",
+      " omtmmo AdA  ",
+      "omtlttmomDuv ",
+      "rjlFltmmtltmo",
+      "mtkFkjrjkFltm",
+      "mtcFccaacFHDu",
+      "BtlFlFltlFlDu",
+      " tlFlFlllFkDu",
+      "  lJJFlJTFkDn",
+      "  e VFJJ   r ",
+      "  B  FU      ",
+      "     F       ",
+      "     F       ",
+      "    FF       "
+    ],
+    [
+      "   A d       ",
+      " zommtmo A   ",
+      "zomttltmouvw ",
+      "qrjltltmrtmoz",
+      "omtkjkjrjltmo",
+      "bmtcactftlDmv",
+      " d caltmtltmo",
+      "   ctltt ltmo",
+      "   llNll le z",
+      "   BBL I  d B",
+      "     K B  A  ",
+      "          B  ",
+      "             ",
+      "             "
+    ],
+    [
+      "    ded      ",
+      "  omtltm     ",
+      "zomtlFltmvw  ",
+      "pqrjkFkjrmozG",
+      "zofacFcjrafgx",
+      "zomtlOltmafoz",
+      "BBmtlFltmamoz",
+      "  melFItm uoz",
+      "  deINIed uAQ",
+      "  bde b   vBB",
+      "   BB     n  ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "     d       ",
+      "   omtmo     ",
+      " xgmtltmo    ",
+      " pqrjkjrqozG ",
+      " xgfacafvfgx ",
+      " xgfactfgfgx ",
+      " syf ctmgfgx ",
+      " i f lt ogoy ",
+      " i    t  bb  ",
+      " P    b      ",
+      " B           ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "             ",
+      "    omo      ",
+      "  xomtmoz    ",
+      "  pqrjrqp    ",
+      "  zofafgx    ",
+      "  xgfafgx    ",
+      "  xgfafoz    ",
+      "  sbmt zb    ",
+      "  i    B     ",
+      "  b          ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "             ",
+      "             ",
+      "   xgfgx     ",
+      "   pqrqp     ",
+      "   xgfgx     ",
+      "   ygfyx     ",
+      "    gb x     ",
+      "    b  y     ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ]
+  ],
+  "version": 4
+}

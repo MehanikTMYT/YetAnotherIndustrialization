@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:pomegranate_sapling",
+      "ingredient": "productivetrees:pomegranate_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "productivetrees:pomegranate_log"
+      "id": "productivetrees:pomegranate_log"
     },
     {
       "amount": 64,
-      "item": "productivetrees:pomegranate_sapling"
+      "id": "productivetrees:pomegranate_sapling"
     },
     {
       "amount": 1,
-      "item": "productivetrees:pomegranate_sapling"
+      "id": "productivetrees:pomegranate_sapling"
     }
   ],
   "process_conditions": [

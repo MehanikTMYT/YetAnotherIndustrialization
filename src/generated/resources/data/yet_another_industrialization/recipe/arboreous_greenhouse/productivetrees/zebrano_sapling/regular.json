@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:zebrano_sapling",
+      "ingredient": "productivetrees:zebrano_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "productivetrees:zebrano_log"
+      "id": "productivetrees:zebrano_log"
     },
     {
       "amount": 32,
-      "item": "productivetrees:zebrano_leaves"
+      "id": "productivetrees:zebrano_leaves"
     },
     {
       "amount": 1,
-      "item": "productivetrees:zebrano_sapling",
+      "id": "productivetrees:zebrano_sapling",
       "probability": 0.5
     }
   ],

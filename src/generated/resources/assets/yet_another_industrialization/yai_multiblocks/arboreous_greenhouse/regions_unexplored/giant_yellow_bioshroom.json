@@ -1,0 +1,64 @@
+{
+  "ref": {
+    "a": {
+      "Name": "regions_unexplored:yellow_bioshroom_stem",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "b": {
+      "Name": "regions_unexplored:yellow_bioshroom_block"
+    },
+    "c": {
+      "Name": "regions_unexplored:glowing_yellow_bioshroom_block"
+    }
+  },
+  "shape": [
+    [
+      " bbb ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "bbbbb",
+      "     ",
+      "  cc ",
+      "     ",
+      "     ",
+      "     ",
+      "  a  "
+    ],
+    [
+      "bbbbb",
+      "  a  ",
+      "  ac ",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  aa "
+    ],
+    [
+      "bbbbb",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      " bbb ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ],
+  "version": 4
+}

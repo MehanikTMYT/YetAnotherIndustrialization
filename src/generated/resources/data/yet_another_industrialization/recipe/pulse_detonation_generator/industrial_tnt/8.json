@@ -5,19 +5,19 @@
   "fluid_inputs": [
     {
       "amount": 10000,
-      "fluid": "modern_industrialization:hydrogen"
+      "ingredient": "modern_industrialization:hydrogen"
     }
   ],
   "fluid_outputs": [
     {
       "amount": 350,
-      "fluid": "modern_industrialization:steam"
+      "id": "modern_industrialization:steam"
     }
   ],
   "item_inputs": [
     {
       "amount": 8,
-      "item": "modern_industrialization:industrial_tnt"
+      "ingredient": "modern_industrialization:industrial_tnt"
     }
   ],
   "process_conditions": [

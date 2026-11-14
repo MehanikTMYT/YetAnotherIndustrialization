@@ -1,0 +1,107 @@
+{
+  "ref": {
+    "a": {
+      "Name": "regions_unexplored:enchanted_birch_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "regions_unexplored:silver_birch_log",
+      "Properties": {
+        "axis": "y",
+        "is_base": "false"
+      }
+    },
+    "c": {
+      "Name": "regions_unexplored:silver_birch_log",
+      "Properties": {
+        "axis": "z",
+        "is_base": "false"
+      }
+    },
+    "d": {
+      "Name": "regions_unexplored:silver_birch_log",
+      "Properties": {
+        "axis": "y",
+        "is_base": "true"
+      }
+    },
+    "e": {
+      "Name": "regions_unexplored:silver_birch_branch",
+      "Properties": {
+        "facing": "north"
+      }
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      "       ",
+      "    a  ",
+      "       ",
+      "  a    ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "    a  ",
+      "  aaaa ",
+      "  aaaa ",
+      " aaa   ",
+      " aaa   ",
+      "       ",
+      "  a    ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "    a  ",
+      "   aaa ",
+      " aaaaa ",
+      " aaabaa",
+      " aaab  ",
+      "aacba  ",
+      "  ab   ",
+      " aeb   ",
+      "   b   ",
+      "   b   ",
+      "   d   "
+    ],
+    [
+      "    a  ",
+      "    a  ",
+      "  aaaa ",
+      "  aaaa ",
+      " aaa   ",
+      " aaa   ",
+      "       ",
+      "  a    ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "       ",
+      "    a  ",
+      "       ",
+      "  a    ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ]
+  ],
+  "version": 4
+}

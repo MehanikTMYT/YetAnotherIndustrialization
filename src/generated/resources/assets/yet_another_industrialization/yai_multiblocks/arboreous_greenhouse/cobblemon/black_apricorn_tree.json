@@ -1,0 +1,106 @@
+{
+  "ref": {
+    "a": {
+      "Name": "cobblemon:apricorn_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "cobblemon:apricorn_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "cobblemon:apricorn_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "cobblemon:apricorn_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "e": {
+      "Name": "cobblemon:black_apricorn",
+      "Properties": {
+        "age": "0",
+        "facing": "north"
+      }
+    },
+    "f": {
+      "Name": "cobblemon:black_apricorn",
+      "Properties": {
+        "age": "0",
+        "facing": "east"
+      }
+    },
+    "g": {
+      "Name": "cobblemon:black_apricorn",
+      "Properties": {
+        "age": "0",
+        "facing": "south"
+      }
+    }
+  },
+  "shape": [
+    [
+      "      ",
+      "      ",
+      " acae ",
+      "gaca  ",
+      "      ",
+      "      "
+    ],
+    [
+      "  c   ",
+      " cbca ",
+      "acbcae",
+      "acbca ",
+      " cbc  ",
+      "      "
+    ],
+    [
+      " cbc  ",
+      " bdbc ",
+      "cbdbc ",
+      "cbdbce",
+      " bdb  ",
+      "  d   "
+    ],
+    [
+      "  c   ",
+      " cbc  ",
+      "acbcae",
+      "acbca ",
+      " cbc  ",
+      "      "
+    ],
+    [
+      "      ",
+      "      ",
+      " aca  ",
+      "facae ",
+      "  ca  ",
+      "      "
+    ],
+    [
+      "      ",
+      "      ",
+      "  f   ",
+      "      ",
+      "      ",
+      "      "
+    ]
+  ],
+  "version": 4
+}

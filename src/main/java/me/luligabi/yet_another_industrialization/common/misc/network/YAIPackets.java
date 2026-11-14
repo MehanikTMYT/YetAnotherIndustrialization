@@ -8,6 +8,8 @@ public final class YAIPackets {
     public static void init(IEventBus bus) { bus.addListener(YAIPackets::register); }
     private static void register(RegisterPayloadHandlersEvent event) {
         var registrar = event.registrar("2");
+        registrar.playToServer(ToggleCheckboxPacket.TYPE, ToggleCheckboxPacket.STREAM_CODEC,
+            (packet, context) -> { if (context.player() instanceof ServerPlayer player) packet.apply(player); });
         registrar.playToServer(SlotLockerChangeModePacket.TYPE, SlotLockerChangeModePacket.STREAM_CODEC,
             (packet, context) -> { if (context.player() instanceof ServerPlayer player) packet.apply(player); });
         registrar.playToServer(SlotLockerDragPacket.TYPE, SlotLockerDragPacket.STREAM_CODEC,

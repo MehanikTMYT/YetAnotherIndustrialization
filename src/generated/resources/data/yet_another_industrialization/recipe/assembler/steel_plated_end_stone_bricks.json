@@ -5,17 +5,17 @@
   "item_inputs": [
     {
       "amount": 8,
-      "item": "modern_industrialization:steel_plate"
+      "ingredient": "modern_industrialization:steel_plate"
     },
     {
       "amount": 1,
-      "item": "minecraft:end_stone_bricks"
+      "ingredient": "minecraft:end_stone_bricks"
     }
   ],
   "item_outputs": [
     {
       "amount": 1,
-      "item": "yet_another_industrialization:steel_plated_end_stone_bricks"
+      "id": "yet_another_industrialization:steel_plated_end_stone_bricks"
     }
   ]
 }

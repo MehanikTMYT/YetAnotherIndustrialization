@@ -2,24 +2,12 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "B": {
-      "item": "modern_industrialization:blastproof_alloy_large_plate"
-    },
-    "C": {
-      "item": "modern_industrialization:highly_advanced_machine_hull"
-    },
-    "M": {
-      "item": "modern_industrialization:large_advanced_motor"
-    },
-    "P": {
-      "item": "modern_industrialization:large_advanced_pump"
-    },
-    "T": {
-      "item": "modern_industrialization:industrial_tnt"
-    },
-    "U": {
-      "item": "modern_industrialization:processing_unit"
-    }
+    "B": "modern_industrialization:blastproof_alloy_large_plate",
+    "C": "modern_industrialization:highly_advanced_machine_hull",
+    "M": "modern_industrialization:large_advanced_motor",
+    "P": "modern_industrialization:large_advanced_pump",
+    "T": "modern_industrialization:industrial_tnt",
+    "U": "modern_industrialization:processing_unit"
   },
   "pattern": [
     "PUP",

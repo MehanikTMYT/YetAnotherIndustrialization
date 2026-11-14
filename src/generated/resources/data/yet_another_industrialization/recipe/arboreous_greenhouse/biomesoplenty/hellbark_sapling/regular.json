@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "biomesoplenty:hellbark_sapling",
+      "ingredient": "biomesoplenty:hellbark_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "biomesoplenty:hellbark_log"
+      "id": "biomesoplenty:hellbark_log"
     },
     {
       "amount": 32,
-      "item": "biomesoplenty:hellbark_leaves"
+      "id": "biomesoplenty:hellbark_leaves"
     },
     {
       "amount": 1,
-      "item": "biomesoplenty:hellbark_sapling",
+      "id": "biomesoplenty:hellbark_sapling",
       "probability": 0.5
     }
   ],

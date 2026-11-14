@@ -1,0 +1,134 @@
+{
+  "ref": {
+    "a": {
+      "Name": "productivetrees:key_lime_fruit",
+      "Properties": {
+        "age": "0",
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "productivetrees:key_lime_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "productivetrees:key_lime_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "productivetrees:key_lime_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "productivetrees:key_lime_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "productivetrees:key_lime_leaves",
+      "Properties": {
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "productivetrees:key_lime_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "h": {
+      "Name": "productivetrees:key_lime_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "i": {
+      "Name": "productivetrees:key_lime_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      "ffaaafa",
+      "affaaf ",
+      "       ",
+      "       "
+    ],
+    [
+      "  aih  ",
+      "  ecaf ",
+      "faaiaff",
+      "aaaaafa",
+      "       ",
+      "       "
+    ],
+    [
+      " caaaf ",
+      " ebaaf ",
+      "acaabaa",
+      "aabdeaf",
+      "       ",
+      "       "
+    ],
+    [
+      " ebaaa ",
+      " adgaa ",
+      "abbgdba",
+      "ceagaaa",
+      "   g   ",
+      "   g   "
+    ],
+    [
+      " cebaa ",
+      " ebdbe ",
+      "faeaaaa",
+      "acadafa",
+      "       ",
+      "       "
+    ],
+    [
+      "  cec  ",
+      "  aaaa ",
+      "aaafaaf",
+      "faaafff",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      " afafaa",
+      "fffffa ",
+      "       ",
+      "       "
+    ]
+  ],
+  "version": 4
+}

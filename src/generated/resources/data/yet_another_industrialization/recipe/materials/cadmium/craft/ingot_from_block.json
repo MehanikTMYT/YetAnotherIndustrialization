@@ -2,9 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    {
-      "item": "yet_another_industrialization:cadmium_block"
-    }
+    "yet_another_industrialization:cadmium_block"
   ],
   "result": {
     "count": 9,

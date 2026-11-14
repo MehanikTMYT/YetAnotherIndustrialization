@@ -1,0 +1,245 @@
+{
+  "ref": {
+    "a": {
+      "Name": "minecraft:mushroom_stem",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "true",
+        "south": "true",
+        "up": "false",
+        "west": "true"
+      }
+    },
+    "b": {
+      "Name": "roots:bafflecap_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "true",
+        "up": "false",
+        "west": "true"
+      }
+    },
+    "c": {
+      "Name": "roots:bafflecap_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "true",
+        "up": "true",
+        "west": "true"
+      }
+    },
+    "d": {
+      "Name": "roots:bafflecap_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "true",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "e": {
+      "Name": "roots:bafflecap_block",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "false",
+        "south": "false",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "f": {
+      "Name": "roots:bafflecap_block",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "true",
+        "south": "false",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "g": {
+      "Name": "roots:bafflecap_block",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "false",
+        "south": "true",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "h": {
+      "Name": "roots:bafflecap_block",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "false",
+        "south": "true",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "i": {
+      "Name": "roots:bafflecap_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "true",
+        "south": "false",
+        "up": "false",
+        "west": "true"
+      }
+    },
+    "j": {
+      "Name": "roots:bafflecap_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "true",
+        "west": "true"
+      }
+    },
+    "k": {
+      "Name": "roots:bafflecap_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "l": {
+      "Name": "roots:bafflecap_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "true",
+        "south": "false",
+        "up": "true",
+        "west": "true"
+      }
+    },
+    "m": {
+      "Name": "roots:bafflecap_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "true"
+      }
+    },
+    "n": {
+      "Name": "roots:bafflecap_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "true",
+        "south": "false",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "o": {
+      "Name": "roots:bafflecap_block",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "true",
+        "south": "false",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "p": {
+      "Name": "roots:bafflecap_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "true",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "q": {
+      "Name": "roots:bafflecap_block",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "r": {
+      "Name": "roots:bafflecap_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "true",
+        "south": "false",
+        "up": "true",
+        "west": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      " oeg ",
+      " fqh ",
+      " fqh ",
+      "     ",
+      "     "
+    ],
+    [
+      " oeg ",
+      "o   g",
+      "f   h",
+      "f   h",
+      "     ",
+      "     "
+    ],
+    [
+      " rkd ",
+      "r a d",
+      "n a p",
+      "n a p",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      " ljc ",
+      "l   c",
+      "i   b",
+      "i   b",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      " ljc ",
+      " imb ",
+      " imb ",
+      "     ",
+      "     "
+    ]
+  ],
+  "version": 4
+}

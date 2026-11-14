@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:elderberry_sapling",
+      "ingredient": "productivetrees:elderberry_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "productivetrees:elderberry_log"
+      "id": "productivetrees:elderberry_log"
     },
     {
       "amount": 64,
-      "item": "productivetrees:elderberry_sapling"
+      "id": "productivetrees:elderberry_sapling"
     },
     {
       "amount": 1,
-      "item": "productivetrees:elderberry_sapling"
+      "id": "productivetrees:elderberry_sapling"
     }
   ],
   "process_conditions": [

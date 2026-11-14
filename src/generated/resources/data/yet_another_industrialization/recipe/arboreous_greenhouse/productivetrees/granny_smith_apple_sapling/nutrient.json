@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:granny_smith_apple_sapling",
+      "ingredient": "productivetrees:granny_smith_apple_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "productivetrees:granny_smith_apple_log"
+      "id": "productivetrees:granny_smith_apple_log"
     },
     {
       "amount": 64,
-      "item": "productivetrees:granny_smith_apple_leaves"
+      "id": "productivetrees:granny_smith_apple_leaves"
     },
     {
       "amount": 1,
-      "item": "productivetrees:granny_smith_apple_sapling"
+      "id": "productivetrees:granny_smith_apple_sapling"
     }
   ],
   "process_conditions": [

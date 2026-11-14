@@ -1,0 +1,164 @@
+{
+  "ref": {
+    "a": {
+      "Name": "eternal_starlight:scarlet_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "eternal_starlight:scarlet_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "eternal_starlight:scarlet_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "eternal_starlight:scarlet_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "eternal_starlight:scarlet_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "f": {
+      "Name": "eternal_starlight:scarlet_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "eternal_starlight:scarlet_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "h": {
+      "Name": "minecraft:cobweb"
+    }
+  },
+  "shape": [
+    [
+      "          ",
+      "          ",
+      "          ",
+      "          ",
+      "          ",
+      "     f    ",
+      "          ",
+      "          "
+    ],
+    [
+      "          ",
+      "          ",
+      "          ",
+      "          ",
+      "          ",
+      "   f af   ",
+      "          ",
+      "          "
+    ],
+    [
+      "          ",
+      "          ",
+      "          ",
+      "     ba   ",
+      "     ba   ",
+      "   fabaf  ",
+      "   f bff  ",
+      "          "
+    ],
+    [
+      "     a    ",
+      "     bb   ",
+      "    bc    ",
+      "   bbcbb  ",
+      "  fabcba  ",
+      "  aabcbaff",
+      "       ff ",
+      "          "
+    ],
+    [
+      "          ",
+      "   acdca  ",
+      "    cgc   ",
+      "   ccdcc  ",
+      "  abcdcba ",
+      " abbcdcbb ",
+      "      b   ",
+      "          "
+    ],
+    [
+      "   a  c   ",
+      "  bbdgdb  ",
+      "  bcgegcb ",
+      "  bddeddb ",
+      " abcdedcba",
+      "abccdedccb",
+      " ab he    ",
+      "     e    "
+    ],
+    [
+      "          ",
+      "    cdca  ",
+      "    cgcb  ",
+      "  accdcc  ",
+      "  abcdcb  ",
+      " abcdddcb ",
+      "    cd  a ",
+      "          "
+    ],
+    [
+      "     a    ",
+      "    bb    ",
+      "     cba  ",
+      "   bbdbb  ",
+      "   abcba  ",
+      "  abcdcba ",
+      "   a      ",
+      "          "
+    ],
+    [
+      "          ",
+      "          ",
+      "     b    ",
+      "     c a  ",
+      "    aba   ",
+      "  fabcbaf ",
+      "          ",
+      "          "
+    ],
+    [
+      "          ",
+      "          ",
+      "          ",
+      "          ",
+      "          ",
+      "     b    ",
+      "          ",
+      "          "
+    ]
+  ],
+  "version": 4
+}

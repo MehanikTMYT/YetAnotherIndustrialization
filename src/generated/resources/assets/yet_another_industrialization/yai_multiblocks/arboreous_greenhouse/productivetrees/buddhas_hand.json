@@ -1,0 +1,134 @@
+{
+  "ref": {
+    "a": {
+      "Name": "productivetrees:buddhas_hand_leaves",
+      "Properties": {
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "productivetrees:buddhas_hand_fruit",
+      "Properties": {
+        "age": "0",
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "productivetrees:buddhas_hand_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "productivetrees:buddhas_hand_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "productivetrees:buddhas_hand_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "productivetrees:buddhas_hand_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "g": {
+      "Name": "productivetrees:buddhas_hand_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "h": {
+      "Name": "productivetrees:buddhas_hand_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "i": {
+      "Name": "productivetrees:buddhas_hand_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      " bbaab ",
+      "baaaaa ",
+      "       ",
+      "       "
+    ],
+    [
+      "  aab  ",
+      "  bbba ",
+      "babbbba",
+      "aabbbab",
+      "       ",
+      "       "
+    ],
+    [
+      " babbb ",
+      " abbab ",
+      "aabbbbb",
+      "abababa",
+      "       ",
+      "       "
+    ],
+    [
+      " babba ",
+      " bbfba ",
+      "abhfhbb",
+      "bbbfbaa",
+      "   f   ",
+      "   f   "
+    ],
+    [
+      " gcbbb ",
+      " ebbba ",
+      "bdihbbb",
+      "bbbibab",
+      "       ",
+      "       "
+    ],
+    [
+      "  bbb  ",
+      "  abab ",
+      "abbibaa",
+      "baababb",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      " abdba ",
+      " bbbaba",
+      "       ",
+      "       "
+    ]
+  ],
+  "version": 4
+}

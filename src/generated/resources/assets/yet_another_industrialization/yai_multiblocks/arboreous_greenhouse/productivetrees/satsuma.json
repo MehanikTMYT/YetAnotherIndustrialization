@@ -1,0 +1,134 @@
+{
+  "ref": {
+    "a": {
+      "Name": "productivetrees:satsuma_fruit",
+      "Properties": {
+        "age": "0",
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "productivetrees:satsuma_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "productivetrees:satsuma_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "productivetrees:satsuma_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "productivetrees:satsuma_leaves",
+      "Properties": {
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "productivetrees:satsuma_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "productivetrees:satsuma_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "h": {
+      "Name": "productivetrees:satsuma_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "i": {
+      "Name": "productivetrees:satsuma_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      " aaeeaa",
+      " aaeaee",
+      "       ",
+      "       "
+    ],
+    [
+      "  afd  ",
+      "  aba  ",
+      "aaaaaaa",
+      "aaaaeaa",
+      "       ",
+      "       "
+    ],
+    [
+      " eaaaa ",
+      " aahaa ",
+      "dfabaae",
+      "caabaaa",
+      "       ",
+      "       "
+    ],
+    [
+      " aeaac ",
+      " aagad ",
+      "fbhghaa",
+      "daagaae",
+      "   g   ",
+      "   g   "
+    ],
+    [
+      " eaaaa ",
+      " abhbf ",
+      "daaaaaa",
+      "caahbai",
+      "       ",
+      "       "
+    ],
+    [
+      "  daa  ",
+      " dfafa ",
+      "aaaaaci",
+      "aaaafdc",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "eeaeeaa",
+      " aaeaca",
+      "       ",
+      "       "
+    ]
+  ],
+  "version": 4
+}

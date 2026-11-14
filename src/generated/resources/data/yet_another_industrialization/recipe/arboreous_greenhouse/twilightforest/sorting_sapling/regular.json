@@ -11,32 +11,32 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "twilightforest:sorting_sapling",
+      "ingredient": "twilightforest:sorting_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "twilightforest:sorting_log"
+      "id": "twilightforest:sorting_log"
     },
     {
       "amount": 32,
-      "item": "twilightforest:sorting_leaves"
+      "id": "twilightforest:sorting_leaves"
     },
     {
       "amount": 1,
-      "item": "twilightforest:sorting_log"
+      "id": "twilightforest:sorting_log"
     },
     {
       "amount": 1,
-      "item": "twilightforest:sorting_sapling",
+      "id": "twilightforest:sorting_sapling",
       "probability": 0.5
     }
   ],

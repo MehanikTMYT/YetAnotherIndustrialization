@@ -1,0 +1,193 @@
+{
+  "ref": {
+    "a": {
+      "Name": "productivetrees:rippling_willow_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "productivetrees:rippling_willow_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "productivetrees:rippling_willow_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "productivetrees:rippling_willow_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "productivetrees:rippling_willow_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "productivetrees:rippling_willow_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "productivetrees:rippling_willow_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "h": {
+      "Name": "productivetrees:rippling_willow_log",
+      "Properties": {
+        "axis": "x"
+      }
+    },
+    "i": {
+      "Name": "productivetrees:rippling_willow_log",
+      "Properties": {
+        "axis": "z"
+      }
+    }
+  },
+  "shape": [
+    [
+      "         ",
+      "         ",
+      "     eee ",
+      "     ebe ",
+      "     bcb ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "      e  ",
+      "    eebee",
+      " ebeebcbe",
+      " bcebcacb",
+      " cab  f  ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "    eebe ",
+      "  b ebcbe",
+      "ebcbbaacb",
+      "bcabcadac",
+      "cadcadhf ",
+      "  f      ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "     e   ",
+      "   ebbbe ",
+      " bcbbacbe",
+      "bcaccdacb",
+      "cadcaddaa",
+      "adfadfh  ",
+      " fifadd  ",
+      "   ifda  ",
+      "         ",
+      "         "
+    ],
+    [
+      "    bce  ",
+      "   bcabe ",
+      "  bccdcc ",
+      "ebcaafaa ",
+      "bcaadgda ",
+      "cadafgfa ",
+      "  fddgda ",
+      "   figfd ",
+      "     g   ",
+      "     g   "
+    ],
+    [
+      "     b   ",
+      "   ebcbe ",
+      "   bbabb ",
+      " ebccdcc ",
+      " bccada  ",
+      " cacdfdc ",
+      "  daadac ",
+      "   dddaa ",
+      "    hhf  ",
+      "         "
+    ],
+    [
+      "         ",
+      "    ebe  ",
+      "    ecb  ",
+      "   bbac  ",
+      " ebbca   ",
+      " bcccaab ",
+      " cadaacb ",
+      "   fdacc ",
+      "    hf   ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "         ",
+      "  bce    ",
+      " bcabc   ",
+      " cadacc  ",
+      " adfdab  ",
+      "  fhfda  ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "         ",
+      "   b     ",
+      " ebceb   ",
+      " bcabb   ",
+      " cadac   ",
+      "   f     ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "  ebe    ",
+      "  bcb    ",
+      "  cac    ",
+      "         ",
+      "         ",
+      "         "
+    ]
+  ],
+  "version": 4
+}

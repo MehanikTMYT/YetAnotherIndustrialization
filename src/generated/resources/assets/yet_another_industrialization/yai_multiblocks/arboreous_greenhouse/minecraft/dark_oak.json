@@ -1,0 +1,125 @@
+{
+  "ref": {
+    "a": {
+      "Name": "minecraft:dark_oak_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "minecraft:dark_oak_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "minecraft:dark_oak_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "minecraft:dark_oak_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "minecraft:dark_oak_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "minecraft:dark_oak_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "g": {
+      "Name": "minecraft:dark_oak_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "        ",
+      " cdddc  ",
+      " ebe    ",
+      "        ",
+      "        ",
+      "        "
+    ],
+    [
+      "   dd   ",
+      " deeed  ",
+      "ebabedc ",
+      "        ",
+      "        ",
+      "        "
+    ],
+    [
+      "  eeed  ",
+      "debbbedc",
+      "bafabed ",
+      "  f     ",
+      "  f     ",
+      "        "
+    ],
+    [
+      " debbed ",
+      "debffbed",
+      "deaffbe ",
+      "   ff   ",
+      "   ff   ",
+      "   ff   "
+    ],
+    [
+      " deabee ",
+      "debffbee",
+      "ebfffab ",
+      "  fff   ",
+      "   ff   ",
+      "   ff   "
+    ],
+    [
+      "  bebd  ",
+      "ebabbedc",
+      "baffabe ",
+      "  ff    ",
+      "        ",
+      "        "
+    ],
+    [
+      "   de   ",
+      "deeeedcg",
+      "ebabeed ",
+      "        ",
+      "        ",
+      "        "
+    ],
+    [
+      "        ",
+      " ddedc  ",
+      " eebe   ",
+      "        ",
+      "        ",
+      "        "
+    ]
+  ],
+  "version": 4
+}

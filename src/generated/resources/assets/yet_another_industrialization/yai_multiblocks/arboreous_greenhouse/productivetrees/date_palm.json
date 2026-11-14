@@ -1,0 +1,150 @@
+{
+  "ref": {
+    "a": {
+      "Name": "productivetrees:date_palm_fruit",
+      "Properties": {
+        "age": "0",
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "productivetrees:date_palm_leaves",
+      "Properties": {
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "productivetrees:date_palm_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "d": {
+      "Name": "productivetrees:date_palm_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "productivetrees:date_palm_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "productivetrees:date_palm_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "productivetrees:date_palm_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "h": {
+      "Name": "productivetrees:date_palm_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "i": {
+      "Name": "productivetrees:date_palm_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "         ",
+      "         ",
+      "aaaaieeb ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "  bbabb  ",
+      "  aaaaaa ",
+      "aaaihaaaa",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      " aaaabab ",
+      " abaaaaa ",
+      "bbahgaaaa",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      " bbaabaa ",
+      " bafdaab ",
+      "aaagfabba",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      " aababba ",
+      " baacaaa ",
+      "bbaacdaab",
+      "    c    ",
+      "    c    ",
+      "    c    "
+    ],
+    [
+      " aaaabab ",
+      " aabaaaa ",
+      "bbaaaabaa",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      " baabbab ",
+      " baabaaa ",
+      "baabbabaa",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "  bbaab  ",
+      " babbbab ",
+      "ababaaaba",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      " ababaab ",
+      "         ",
+      "         ",
+      "         "
+    ]
+  ],
+  "version": 4
+}

@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:slimy_delight_sapling",
+      "ingredient": "productivetrees:slimy_delight_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "productivetrees:slimy_delight_log"
+      "id": "productivetrees:slimy_delight_log"
     },
     {
       "amount": 64,
-      "item": "productivetrees:slimy_delight_leaves"
+      "id": "productivetrees:slimy_delight_leaves"
     },
     {
       "amount": 1,
-      "item": "productivetrees:slimy_delight_sapling"
+      "id": "productivetrees:slimy_delight_sapling"
     }
   ],
   "process_conditions": [

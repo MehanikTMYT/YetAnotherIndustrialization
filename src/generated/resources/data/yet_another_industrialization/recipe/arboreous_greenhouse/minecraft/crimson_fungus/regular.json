@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:lava"
+      "ingredient": "minecraft:lava"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "minecraft:crimson_fungus",
+      "ingredient": "minecraft:crimson_fungus",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "minecraft:crimson_stem"
+      "id": "minecraft:crimson_stem"
     },
     {
       "amount": 1,
-      "item": "minecraft:weeping_vines"
+      "id": "minecraft:weeping_vines"
     },
     {
       "amount": 1,
-      "item": "minecraft:crimson_fungus",
+      "id": "minecraft:crimson_fungus",
       "probability": 0.5
     }
   ],

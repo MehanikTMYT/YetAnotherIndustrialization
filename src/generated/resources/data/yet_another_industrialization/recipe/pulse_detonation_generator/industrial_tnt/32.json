@@ -5,19 +5,19 @@
   "fluid_inputs": [
     {
       "amount": 4000,
-      "fluid": "modern_industrialization:acetylene"
+      "ingredient": "modern_industrialization:acetylene"
     }
   ],
   "fluid_outputs": [
     {
       "amount": 4000,
-      "fluid": "modern_industrialization:steam"
+      "id": "modern_industrialization:steam"
     }
   ],
   "item_inputs": [
     {
       "amount": 32,
-      "item": "modern_industrialization:industrial_tnt"
+      "ingredient": "modern_industrialization:industrial_tnt"
     }
   ],
   "process_conditions": [

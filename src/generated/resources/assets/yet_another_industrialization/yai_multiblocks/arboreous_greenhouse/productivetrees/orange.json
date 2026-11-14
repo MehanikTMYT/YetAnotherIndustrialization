@@ -1,0 +1,126 @@
+{
+  "ref": {
+    "a": {
+      "Name": "productivetrees:orange_fruit",
+      "Properties": {
+        "age": "0",
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "productivetrees:orange_leaves",
+      "Properties": {
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "productivetrees:orange_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "productivetrees:orange_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "productivetrees:orange_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "f": {
+      "Name": "productivetrees:orange_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "productivetrees:orange_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "h": {
+      "Name": "productivetrees:orange_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      " aaada ",
+      " aaaaa ",
+      "       ",
+      "       "
+    ],
+    [
+      "  baa  ",
+      "  aaa  ",
+      "abacfda",
+      "abaaaab",
+      "       ",
+      "       "
+    ],
+    [
+      " aahca ",
+      " bagab ",
+      "aahhaab",
+      "bachcab",
+      "       ",
+      "       "
+    ],
+    [
+      " bbaab ",
+      " aaeab ",
+      "bbaeaba",
+      "bageaaa",
+      "   e   ",
+      "   e   "
+    ],
+    [
+      " bbaab ",
+      " bbaba ",
+      "aaaabba",
+      "achgaba",
+      "       ",
+      "       "
+    ],
+    [
+      "  bab  ",
+      " aabbb ",
+      "aaabaab",
+      "bacaaaa",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      " aabba ",
+      "aaabba ",
+      "       ",
+      "       "
+    ]
+  ],
+  "version": 4
+}

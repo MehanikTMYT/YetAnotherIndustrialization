@@ -5,17 +5,17 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     },
     {
       "amount": 1,
-      "fluid": "modern_industrialization:cryofluid"
+      "ingredient": "modern_industrialization:cryofluid"
     }
   ],
   "item_outputs": [
     {
       "amount": 1,
-      "item": "minecraft:ice"
+      "id": "minecraft:ice"
     }
   ]
 }

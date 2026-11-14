@@ -1,0 +1,101 @@
+{
+  "ref": {
+    "a": {
+      "Name": "minecraft:jungle_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "minecraft:jungle_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "c": {
+      "Name": "minecraft:jungle_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "pamhc2trees:pampaperbark",
+      "Properties": {
+        "age": "0"
+      }
+    },
+    "e": {
+      "Name": "minecraft:jungle_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "minecraft:jungle_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "eeaee",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      " cfc ",
+      " aca ",
+      "aacae",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "  c  ",
+      "  f  ",
+      " fbf ",
+      " cbc ",
+      "ccbca",
+      "  d  ",
+      "  d  ",
+      "  d  "
+    ],
+    [
+      "     ",
+      "     ",
+      " cfc ",
+      " aca ",
+      "accae",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "eacae",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ],
+  "version": 4
+}

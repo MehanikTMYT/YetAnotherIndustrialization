@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:ceylon_ebony_sapling",
+      "ingredient": "productivetrees:ceylon_ebony_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "productivetrees:ceylon_ebony_log"
+      "id": "productivetrees:ceylon_ebony_log"
     },
     {
       "amount": 64,
-      "item": "productivetrees:ceylon_ebony_leaves"
+      "id": "productivetrees:ceylon_ebony_leaves"
     },
     {
       "amount": 1,
-      "item": "productivetrees:ceylon_ebony_sapling"
+      "id": "productivetrees:ceylon_ebony_sapling"
     }
   ],
   "process_conditions": [

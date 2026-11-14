@@ -1,0 +1,159 @@
+{
+  "ref": {
+    "a": {
+      "Name": "biomesoplenty:umbran_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "biomesoplenty:umbran_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "c": {
+      "Name": "biomesoplenty:umbran_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "biomesoplenty:umbran_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "biomesoplenty:umbran_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "biomesoplenty:umbran_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "biomesoplenty:umbran_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "  fa   ",
+      "  g    ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "  cdc  ",
+      "   c   ",
+      "       ",
+      " aaca  ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "       ",
+      "   e   ",
+      "   d   ",
+      "       ",
+      " cdedc ",
+      " a   a ",
+      "   e   ",
+      " ccdcaf",
+      "      g",
+      "       "
+    ],
+    [
+      "   d   ",
+      "   e   ",
+      "   b   ",
+      "  ebe  ",
+      "  dbd  ",
+      "   b   ",
+      " debed ",
+      " c b c ",
+      "  ebe  ",
+      "cddbdca",
+      "   b  f",
+      "   b   "
+    ],
+    [
+      "       ",
+      "       ",
+      "       ",
+      "   e   ",
+      "   d   ",
+      "       ",
+      " cdedc ",
+      "     a ",
+      "   e   ",
+      "acddca ",
+      "f      ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "  cdc  ",
+      "   ca  ",
+      "       ",
+      " acdc  ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "   c   ",
+      "   a   ",
+      "       "
+    ]
+  ],
+  "version": 4
+}

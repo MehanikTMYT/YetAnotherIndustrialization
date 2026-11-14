@@ -11,32 +11,32 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "biomeswevegone:aspen_sapling",
+      "ingredient": "biomeswevegone:aspen_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "biomeswevegone:aspen_log"
+      "id": "biomeswevegone:aspen_log"
     },
     {
       "amount": 32,
-      "item": "biomeswevegone:aspen_leaves"
+      "id": "biomeswevegone:aspen_leaves"
     },
     {
       "amount": 1,
-      "item": "biomeswevegone:shelf_fungi"
+      "id": "biomeswevegone:shelf_fungi"
     },
     {
       "amount": 1,
-      "item": "biomeswevegone:aspen_sapling",
+      "id": "biomeswevegone:aspen_sapling",
       "probability": 0.5
     }
   ],

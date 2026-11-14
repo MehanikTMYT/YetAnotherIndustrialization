@@ -1,0 +1,77 @@
+{
+  "ref": {
+    "a": {
+      "Name": "biomeswevegone:yucca_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "minecraft:oak_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "c": {
+      "Name": "biomeswevegone:flowering_yucca_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "      ",
+      "      ",
+      "   a  ",
+      "      ",
+      "      ",
+      "      "
+    ],
+    [
+      "   a  ",
+      " a b  ",
+      "   bc ",
+      "      ",
+      "      ",
+      "      "
+    ],
+    [
+      " a  a ",
+      "ab cba",
+      "cbbbba",
+      "   b  ",
+      "   b  ",
+      "   b  "
+    ],
+    [
+      "      ",
+      " a    ",
+      "      ",
+      "   b  ",
+      "      ",
+      "      "
+    ],
+    [
+      "      ",
+      "   a  ",
+      "  abc ",
+      "      ",
+      "      ",
+      "      "
+    ],
+    [
+      "      ",
+      "      ",
+      "   a  ",
+      "      ",
+      "      ",
+      "      "
+    ]
+  ],
+  "version": 4
+}

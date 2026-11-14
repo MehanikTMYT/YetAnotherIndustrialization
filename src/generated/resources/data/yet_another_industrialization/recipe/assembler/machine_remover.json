@@ -5,31 +5,31 @@
   "fluid_inputs": [
     {
       "amount": 1980,
-      "fluid": "modern_industrialization:molten_redstone"
+      "ingredient": "modern_industrialization:molten_redstone"
     },
     {
       "amount": 500,
-      "fluid": "modern_industrialization:polyethylene"
+      "ingredient": "modern_industrialization:polyethylene"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "modern_industrialization:wrench"
+      "ingredient": "modern_industrialization:wrench"
     },
     {
       "amount": 4,
-      "item": "modern_industrialization:robot_arm"
+      "ingredient": "modern_industrialization:robot_arm"
     },
     {
       "amount": 2,
-      "item": "modern_industrialization:electronic_circuit"
+      "ingredient": "modern_industrialization:electronic_circuit"
     }
   ],
   "item_outputs": [
     {
       "amount": 1,
-      "item": "yet_another_industrialization:machine_remover"
+      "id": "yet_another_industrialization:machine_remover"
     }
   ]
 }

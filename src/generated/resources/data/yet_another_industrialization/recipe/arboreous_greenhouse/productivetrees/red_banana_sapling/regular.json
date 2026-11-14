@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:red_banana_sapling",
+      "ingredient": "productivetrees:red_banana_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "productivetrees:red_banana_log"
+      "id": "productivetrees:red_banana_log"
     },
     {
       "amount": 32,
-      "item": "productivetrees:red_banana_sapling"
+      "id": "productivetrees:red_banana_sapling"
     },
     {
       "amount": 1,
-      "item": "productivetrees:red_banana_sapling",
+      "id": "productivetrees:red_banana_sapling",
       "probability": 0.5
     }
   ],

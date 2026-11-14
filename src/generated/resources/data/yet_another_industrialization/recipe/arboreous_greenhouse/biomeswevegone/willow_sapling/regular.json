@@ -11,32 +11,32 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "biomeswevegone:willow_sapling",
+      "ingredient": "biomeswevegone:willow_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "biomeswevegone:willow_log"
+      "id": "biomeswevegone:willow_log"
     },
     {
       "amount": 32,
-      "item": "biomeswevegone:willow_leaves"
+      "id": "biomeswevegone:willow_leaves"
     },
     {
       "amount": 1,
-      "item": "minecraft:vine"
+      "id": "minecraft:vine"
     },
     {
       "amount": 1,
-      "item": "biomeswevegone:willow_sapling",
+      "id": "biomeswevegone:willow_sapling",
       "probability": 0.5
     }
   ],

@@ -1,0 +1,277 @@
+{
+  "ref": {
+    "a": {
+      "Name": "productivetrees:soul_tree_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "productivetrees:soul_tree_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "productivetrees:soul_tree_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "d": {
+      "Name": "productivetrees:soul_tree_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "productivetrees:soul_tree_log",
+      "Properties": {
+        "axis": "z"
+      }
+    },
+    "f": {
+      "Name": "productivetrees:soul_tree_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "productivetrees:soul_tree_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "h": {
+      "Name": "productivetrees:soul_tree_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "i": {
+      "Name": "productivetrees:soul_tree_log",
+      "Properties": {
+        "axis": "x"
+      }
+    }
+  },
+  "shape": [
+    [
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "       gfg   ",
+      "       gdf   ",
+      "       fbd   ",
+      "             ",
+      "   ggg       ",
+      "   fdg       ",
+      "   dbf       ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "        f    ",
+      "      ggdfg  ",
+      "      gfbdf  ",
+      "      fdhbd  ",
+      "    ffdba    ",
+      "  ggffdh     ",
+      "  fdbfdb     ",
+      "  dbhdh      ",
+      "    a        ",
+      "             ",
+      "             "
+    ],
+    [
+      "             ",
+      "             ",
+      " gfg         ",
+      " fdg         ",
+      " dbf   gdf   ",
+      "      gfbdf  ",
+      "      fdhbd  ",
+      "      dbahb  ",
+      "   gddbhia   ",
+      "  gfddbah    ",
+      "  dbhdbhb    ",
+      "  bhaba      ",
+      "  haia       ",
+      "             ",
+      "             "
+    ],
+    [
+      "             ",
+      "  f gfg      ",
+      "gfdgfdf      ",
+      "fdbfdbd      ",
+      "dbhdb   g    ",
+      "  a   fffgg  ",
+      "      dddfg  ",
+      "     ddbbdf  ",
+      "    bbbhhbd  ",
+      "  gfdbhih    ",
+      " ggddbhah    ",
+      " gfdbhih     ",
+      " dbbhb       ",
+      "   ai        ",
+      "             "
+    ],
+    [
+      "     f       ",
+      " fdggdfg     ",
+      "fdbfdbdf     ",
+      "dbhdbhbd     ",
+      "bhabha       ",
+      " aea   ffg   ",
+      "   e  bddfg  ",
+      "      bdhbd  ",
+      "    hhhbahb  ",
+      "  fdbhiaea   ",
+      " gfbbahea    ",
+      " fdbbhi      ",
+      " bhhhh       ",
+      "  aeii       ",
+      "             "
+    ],
+    [
+      "    fdf      ",
+      "  gfdbdf     ",
+      "gfdfbhbd     ",
+      "fdbdhahb     ",
+      "dbbhaca      ",
+      "  a  c  f    ",
+      "    echbdfg  ",
+      "     chbdff  ",
+      "     cabbdd  ",
+      "   b chha    ",
+      " fdhhcea     ",
+      " fdbhc       ",
+      " dbhac       ",
+      "   a c       ",
+      "     c       "
+    ],
+    [
+      "     f       ",
+      "   gfdfg     ",
+      " gfgdbdg     ",
+      " fdfbhbf     ",
+      " ddb a       ",
+      "             ",
+      "       bdd   ",
+      "      ihbd   ",
+      "      iahb   ",
+      "             ",
+      "  fbb        ",
+      "  fdb        ",
+      "  dbh i      ",
+      "             ",
+      "             "
+    ],
+    [
+      "             ",
+      "    gfg      ",
+      "    fdg      ",
+      "    dbffgg   ",
+      "       bff   ",
+      "       hdd   ",
+      "       abb   ",
+      "       i dfg ",
+      "       i fdf ",
+      "         dbd ",
+      "             ",
+      "        e    ",
+      "       i     ",
+      "             ",
+      "             "
+    ],
+    [
+      "             ",
+      "             ",
+      "        g    ",
+      "      dbffg  ",
+      "      bhddf  ",
+      "      habbf  ",
+      "      aihhd  ",
+      "       iabdfg",
+      "        hdbdf",
+      "        dbhbd",
+      "          a  ",
+      "         e   ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "             ",
+      "             ",
+      "       fdf   ",
+      "      fdbdf  ",
+      "      dbhbd  ",
+      "      bhahd  ",
+      "      haiabd ",
+      "       hihbdf",
+      "        abhbd",
+      "        bhahb",
+      "         aea ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "             ",
+      "             ",
+      "        g    ",
+      "      ggffg  ",
+      "      gfddf  ",
+      "      fdbbf  ",
+      "      dbhhd  ",
+      "        abdfg",
+      "        hdbdf",
+      "        dbhbd",
+      "          a  ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "             ",
+      "             ",
+      "             ",
+      "       gfg   ",
+      "       fdf   ",
+      "       dbd   ",
+      "       bhb   ",
+      "         dfg ",
+      "         fdf ",
+      "         dbd ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ]
+  ],
+  "version": 4
+}

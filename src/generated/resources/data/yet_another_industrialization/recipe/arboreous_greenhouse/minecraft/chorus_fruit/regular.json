@@ -5,28 +5,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:dragon_breath"
+      "ingredient": "yet_another_industrialization:dragon_breath"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "minecraft:chorus_fruit",
+      "ingredient": "minecraft:chorus_fruit",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 8,
-      "item": "minecraft:chorus_fruit"
+      "id": "minecraft:chorus_fruit"
     },
     {
       "amount": 1,
-      "item": "minecraft:chorus_flower"
+      "id": "minecraft:chorus_flower"
     },
     {
       "amount": 1,
-      "item": "minecraft:chorus_fruit",
+      "id": "minecraft:chorus_fruit",
       "probability": 0.5
     }
   ],

@@ -1,0 +1,88 @@
+{
+  "ref": {
+    "a": {
+      "Name": "biomesoplenty:rainbow_birch_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "biomesoplenty:rainbow_birch_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "biomesoplenty:rainbow_birch_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "biomesoplenty:rainbow_birch_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "minecraft:birch_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "f": {
+      "Name": "biomesoplenty:rainbow_birch_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "fcacf",
+      " cac ",
+      "     "
+    ],
+    [
+      "  d  ",
+      " dbd ",
+      "cadac",
+      "aadac",
+      "     "
+    ],
+    [
+      " dbd ",
+      " beb ",
+      "adeda",
+      "ddeda",
+      "  e  "
+    ],
+    [
+      "  d  ",
+      "  bd ",
+      "cadac",
+      "addac",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      " cac ",
+      " adac",
+      "     "
+    ]
+  ],
+  "version": 4
+}

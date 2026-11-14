@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "biomeswevegone:holly_sapling",
+      "ingredient": "biomeswevegone:holly_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "biomeswevegone:holly_log"
+      "id": "biomeswevegone:holly_log"
     },
     {
       "amount": 32,
-      "item": "biomeswevegone:holly_leaves"
+      "id": "biomeswevegone:holly_leaves"
     },
     {
       "amount": 1,
-      "item": "biomeswevegone:holly_sapling",
+      "id": "biomeswevegone:holly_sapling",
       "probability": 0.5
     }
   ],

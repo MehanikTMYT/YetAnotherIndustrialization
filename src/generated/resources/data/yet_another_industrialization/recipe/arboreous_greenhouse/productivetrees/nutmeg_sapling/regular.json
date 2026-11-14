@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:nutmeg_sapling",
+      "ingredient": "productivetrees:nutmeg_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "productivetrees:nutmeg_log"
+      "id": "productivetrees:nutmeg_log"
     },
     {
       "amount": 32,
-      "item": "productivetrees:nutmeg_sapling"
+      "id": "productivetrees:nutmeg_sapling"
     },
     {
       "amount": 1,
-      "item": "productivetrees:nutmeg_sapling",
+      "id": "productivetrees:nutmeg_sapling",
       "probability": 0.5
     }
   ],

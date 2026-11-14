@@ -1,0 +1,597 @@
+{
+  "ref": {
+    "A": {
+      "Name": "biomeswevegone:weeping_milkcap_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "true",
+        "south": "true",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "B": {
+      "Name": "biomeswevegone:weeping_milkcap_mushroom_block",
+      "Properties": {
+        "down": "true",
+        "east": "true",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "true"
+      }
+    },
+    "C": {
+      "Name": "biomeswevegone:weeping_milkcap_mushroom_block",
+      "Properties": {
+        "down": "true",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "D": {
+      "Name": "biomeswevegone:weeping_milkcap_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "false",
+        "south": "true",
+        "up": "true",
+        "west": "true"
+      }
+    },
+    "E": {
+      "Name": "biomeswevegone:brown_mushroom_stem",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "true",
+        "south": "true",
+        "up": "false",
+        "west": "true"
+      }
+    },
+    "F": {
+      "Name": "biomeswevegone:brown_mushroom_stem",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "G": {
+      "Name": "biomeswevegone:brown_mushroom_stem",
+      "Properties": {
+        "down": "true",
+        "east": "true",
+        "north": "true",
+        "south": "false",
+        "up": "false",
+        "west": "true"
+      }
+    },
+    "H": {
+      "Name": "biomeswevegone:brown_mushroom_stem",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "true",
+        "south": "true",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "I": {
+      "Name": "biomeswevegone:brown_mushroom_stem",
+      "Properties": {
+        "down": "true",
+        "east": "true",
+        "north": "false",
+        "south": "true",
+        "up": "false",
+        "west": "true"
+      }
+    },
+    "J": {
+      "Name": "biomeswevegone:weeping_milkcap_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "true",
+        "west": "true"
+      }
+    },
+    "K": {
+      "Name": "biomeswevegone:weeping_milkcap_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "L": {
+      "Name": "biomeswevegone:weeping_milkcap_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "false",
+        "south": "false",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "M": {
+      "Name": "biomeswevegone:brown_mushroom_stem",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "true",
+        "south": "true",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "N": {
+      "Name": "biomeswevegone:weeping_milkcap_mushroom_block",
+      "Properties": {
+        "down": "true",
+        "east": "false",
+        "north": "true",
+        "south": "false",
+        "up": "false",
+        "west": "true"
+      }
+    },
+    "O": {
+      "Name": "biomeswevegone:weeping_milkcap_mushroom_block",
+      "Properties": {
+        "down": "true",
+        "east": "false",
+        "north": "true",
+        "south": "true",
+        "up": "true",
+        "west": "true"
+      }
+    },
+    "P": {
+      "Name": "biomeswevegone:weeping_milkcap_mushroom_block",
+      "Properties": {
+        "down": "true",
+        "east": "true",
+        "north": "true",
+        "south": "false",
+        "up": "true",
+        "west": "true"
+      }
+    },
+    "Q": {
+      "Name": "biomeswevegone:weeping_milkcap_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "false",
+        "south": "false",
+        "up": "true",
+        "west": "true"
+      }
+    },
+    "a": {
+      "Name": "biomeswevegone:brown_mushroom_stem",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "true",
+        "south": "true",
+        "up": "false",
+        "west": "true"
+      }
+    },
+    "b": {
+      "Name": "biomeswevegone:weeping_milkcap_mushroom_block",
+      "Properties": {
+        "down": "true",
+        "east": "false",
+        "north": "false",
+        "south": "true",
+        "up": "false",
+        "west": "true"
+      }
+    },
+    "c": {
+      "Name": "biomeswevegone:weeping_milkcap_mushroom_block",
+      "Properties": {
+        "down": "true",
+        "east": "true",
+        "north": "true",
+        "south": "false",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "d": {
+      "Name": "biomeswevegone:weeping_milkcap_mushroom_block",
+      "Properties": {
+        "down": "true",
+        "east": "false",
+        "north": "true",
+        "south": "true",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "e": {
+      "Name": "biomeswevegone:weeping_milkcap_mushroom_block",
+      "Properties": {
+        "down": "true",
+        "east": "true",
+        "north": "false",
+        "south": "true",
+        "up": "true",
+        "west": "true"
+      }
+    },
+    "f": {
+      "Name": "biomeswevegone:weeping_milkcap_mushroom_block",
+      "Properties": {
+        "down": "true",
+        "east": "true",
+        "north": "false",
+        "south": "true",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "g": {
+      "Name": "biomeswevegone:weeping_milkcap_mushroom_block",
+      "Properties": {
+        "down": "true",
+        "east": "true",
+        "north": "true",
+        "south": "true",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "h": {
+      "Name": "biomeswevegone:brown_mushroom_stem",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "true",
+        "south": "false",
+        "up": "true",
+        "west": "true"
+      }
+    },
+    "i": {
+      "Name": "biomeswevegone:brown_mushroom_stem",
+      "Properties": {
+        "down": "true",
+        "east": "false",
+        "north": "true",
+        "south": "true",
+        "up": "false",
+        "west": "true"
+      }
+    },
+    "j": {
+      "Name": "biomeswevegone:brown_mushroom_stem",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "false",
+        "south": "true",
+        "up": "true",
+        "west": "true"
+      }
+    },
+    "k": {
+      "Name": "biomeswevegone:brown_mushroom_stem",
+      "Properties": {
+        "down": "true",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "l": {
+      "Name": "biomeswevegone:brown_mushroom_stem",
+      "Properties": {
+        "down": "true",
+        "east": "true",
+        "north": "true",
+        "south": "true",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "m": {
+      "Name": "biomeswevegone:weeping_milkcap_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "true",
+        "south": "false",
+        "up": "true",
+        "west": "true"
+      }
+    },
+    "n": {
+      "Name": "biomeswevegone:weeping_milkcap_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "true",
+        "south": "true",
+        "up": "true",
+        "west": "true"
+      }
+    },
+    "o": {
+      "Name": "biomeswevegone:weeping_milkcap_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "true",
+        "south": "false",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "p": {
+      "Name": "biomeswevegone:weeping_milkcap_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "q": {
+      "Name": "biomeswevegone:weeping_milkcap_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "true",
+        "up": "true",
+        "west": "true"
+      }
+    },
+    "r": {
+      "Name": "biomeswevegone:brown_mushroom_stem",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "true",
+        "south": "true",
+        "up": "true",
+        "west": "true"
+      }
+    },
+    "s": {
+      "Name": "biomeswevegone:weeping_milkcap_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "true",
+        "south": "false",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "t": {
+      "Name": "biomeswevegone:weeping_milkcap_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "true",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "u": {
+      "Name": "biomeswevegone:weeping_milkcap_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "true",
+        "south": "true",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "v": {
+      "Name": "biomeswevegone:weeping_milkcap_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "false",
+        "south": "true",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "w": {
+      "Name": "biomeswevegone:brown_mushroom_stem",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "true",
+        "south": "true",
+        "up": "true",
+        "west": "true"
+      }
+    },
+    "x": {
+      "Name": "biomeswevegone:brown_mushroom_stem",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "y": {
+      "Name": "biomeswevegone:brown_mushroom_stem",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "true",
+        "south": "true",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "z": {
+      "Name": "biomeswevegone:weeping_milkcap_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "true",
+        "south": "false",
+        "up": "true",
+        "west": "true"
+      }
+    }
+  },
+  "shape": [
+    [
+      "         ",
+      "         ",
+      "    g    ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "    u    ",
+      "    d    ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "    u    ",
+      "  sLpLv  ",
+      "  c   f  ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "    A    ",
+      "  oK Kt  ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "    y    ",
+      "    H    ",
+      "    y    ",
+      "    l    "
+    ],
+    [
+      "  zQCQD  ",
+      " zp r pD ",
+      "PB  a  Be",
+      "    r    ",
+      "    a    ",
+      "    a    ",
+      "    a    ",
+      "    M    ",
+      "   hFj   ",
+      "   hxj   ",
+      "   GkI   "
+    ],
+    [
+      "    A    ",
+      "  oK Kt  ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "    w    ",
+      "    E    ",
+      "    w    ",
+      "    i    "
+    ],
+    [
+      "    n    ",
+      "  mJpJq  ",
+      "  N   b  ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "    n    ",
+      "    d    ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "    O    ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ]
+  ],
+  "version": 4
+}

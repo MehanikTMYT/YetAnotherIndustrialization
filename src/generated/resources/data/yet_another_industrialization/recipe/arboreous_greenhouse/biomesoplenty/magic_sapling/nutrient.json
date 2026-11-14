@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "biomesoplenty:magic_sapling",
+      "ingredient": "biomesoplenty:magic_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "biomesoplenty:magic_log"
+      "id": "biomesoplenty:magic_log"
     },
     {
       "amount": 64,
-      "item": "biomesoplenty:magic_leaves"
+      "id": "biomesoplenty:magic_leaves"
     },
     {
       "amount": 1,
-      "item": "biomesoplenty:magic_sapling"
+      "id": "biomesoplenty:magic_sapling"
     }
   ],
   "process_conditions": [

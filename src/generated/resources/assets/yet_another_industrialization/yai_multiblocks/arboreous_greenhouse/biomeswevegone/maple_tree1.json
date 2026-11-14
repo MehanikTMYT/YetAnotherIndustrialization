@@ -1,0 +1,183 @@
+{
+  "ref": {
+    "a": {
+      "Name": "biomeswevegone:maple_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "biomeswevegone:maple_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "biomeswevegone:maple_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "biomeswevegone:maple_log",
+      "Properties": {
+        "axis": "x"
+      }
+    },
+    "e": {
+      "Name": "biomeswevegone:maple_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "biomeswevegone:maple_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "g": {
+      "Name": "biomeswevegone:maple_log",
+      "Properties": {
+        "axis": "z"
+      }
+    },
+    "h": {
+      "Name": "biomeswevegone:maple_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "i": {
+      "Name": "biomeswevegone:maple_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "           ",
+      "           ",
+      "           ",
+      "       e   ",
+      "           ",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ],
+    [
+      "           ",
+      "       c   ",
+      "    a cee  ",
+      "     cebbe ",
+      "           ",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ],
+    [
+      "           ",
+      "   caac ec ",
+      "    ccebbec",
+      "     ebdgbe",
+      "      b b  ",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ],
+    [
+      "   c  i    ",
+      "   ec  eb  ",
+      "  ebecebdb ",
+      "    cebbb c",
+      "      g    ",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ],
+    [
+      "   ec ha   ",
+      "  eb aacec ",
+      " ebdb  eb  ",
+      "  ebece    ",
+      "           ",
+      "     f     ",
+      "     f     ",
+      "     f     ",
+      "     f     "
+    ],
+    [
+      "    a      ",
+      "ha ecc cc  ",
+      " ceb eb ec ",
+      "  bg   c   ",
+      "    f      ",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ],
+    [
+      "  ca ce    ",
+      " ceca bec  ",
+      "c b  bdb   ",
+      "ebgbb bec  ",
+      "  b db     ",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ],
+    [
+      "   h c     ",
+      "hac ceec   ",
+      "acecebbe   ",
+      " ebe ggb   ",
+      " c  bb     ",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ],
+    [
+      "           ",
+      " hahac a   ",
+      "hacac e    ",
+      "  e  b     ",
+      "           ",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ],
+    [
+      "           ",
+      "  h h      ",
+      " hah       ",
+      "           ",
+      "           ",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ]
+  ],
+  "version": 4
+}

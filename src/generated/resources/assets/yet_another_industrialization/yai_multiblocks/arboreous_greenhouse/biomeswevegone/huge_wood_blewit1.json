@@ -1,0 +1,344 @@
+{
+  "ref": {
+    "a": {
+      "Name": "biomeswevegone:brown_mushroom_stem",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "true",
+        "south": "true",
+        "up": "false",
+        "west": "true"
+      }
+    },
+    "b": {
+      "Name": "biomeswevegone:brown_mushroom_stem",
+      "Properties": {
+        "down": "true",
+        "east": "true",
+        "north": "true",
+        "south": "true",
+        "up": "false",
+        "west": "true"
+      }
+    },
+    "c": {
+      "Name": "biomeswevegone:wood_blewit_mushroom_block",
+      "Properties": {
+        "down": "true",
+        "east": "false",
+        "north": "true",
+        "south": "false",
+        "up": "true",
+        "west": "true"
+      }
+    },
+    "d": {
+      "Name": "biomeswevegone:wood_blewit_mushroom_block",
+      "Properties": {
+        "down": "true",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "true",
+        "west": "true"
+      }
+    },
+    "e": {
+      "Name": "biomeswevegone:wood_blewit_mushroom_block",
+      "Properties": {
+        "down": "true",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "f": {
+      "Name": "biomeswevegone:wood_blewit_mushroom_block",
+      "Properties": {
+        "down": "true",
+        "east": "false",
+        "north": "true",
+        "south": "false",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "g": {
+      "Name": "biomeswevegone:wood_blewit_mushroom_block",
+      "Properties": {
+        "down": "true",
+        "east": "false",
+        "north": "false",
+        "south": "true",
+        "up": "true",
+        "west": "true"
+      }
+    },
+    "h": {
+      "Name": "biomeswevegone:wood_blewit_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "true",
+        "south": "true",
+        "up": "true",
+        "west": "true"
+      }
+    },
+    "i": {
+      "Name": "biomeswevegone:brown_mushroom_stem",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "true",
+        "south": "true",
+        "up": "true",
+        "west": "true"
+      }
+    },
+    "j": {
+      "Name": "biomeswevegone:wood_blewit_mushroom_block",
+      "Properties": {
+        "down": "true",
+        "east": "true",
+        "north": "true",
+        "south": "false",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "k": {
+      "Name": "biomeswevegone:wood_blewit_mushroom_block",
+      "Properties": {
+        "down": "true",
+        "east": "false",
+        "north": "false",
+        "south": "true",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "l": {
+      "Name": "biomeswevegone:wood_blewit_mushroom_block",
+      "Properties": {
+        "down": "true",
+        "east": "true",
+        "north": "false",
+        "south": "false",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "m": {
+      "Name": "biomeswevegone:wood_blewit_mushroom_block",
+      "Properties": {
+        "down": "true",
+        "east": "true",
+        "north": "false",
+        "south": "true",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "n": {
+      "Name": "biomeswevegone:wood_blewit_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "true",
+        "south": "false",
+        "up": "true",
+        "west": "true"
+      }
+    },
+    "o": {
+      "Name": "biomeswevegone:wood_blewit_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "true",
+        "south": "true",
+        "up": "true",
+        "west": "true"
+      }
+    },
+    "p": {
+      "Name": "biomeswevegone:wood_blewit_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "true",
+        "south": "false",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "q": {
+      "Name": "biomeswevegone:wood_blewit_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "r": {
+      "Name": "biomeswevegone:wood_blewit_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "true",
+        "up": "true",
+        "west": "true"
+      }
+    },
+    "s": {
+      "Name": "biomeswevegone:wood_blewit_mushroom_block",
+      "Properties": {
+        "down": "true",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "t": {
+      "Name": "biomeswevegone:wood_blewit_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "true",
+        "south": "false",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "u": {
+      "Name": "biomeswevegone:wood_blewit_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "true",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "v": {
+      "Name": "biomeswevegone:wood_blewit_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "false",
+        "south": "true",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "w": {
+      "Name": "biomeswevegone:wood_blewit_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "true",
+        "south": "true",
+        "up": "true",
+        "west": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      " jlm ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "  w  ",
+      "je em",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      " tqv ",
+      "f   k",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "  h  ",
+      " psu ",
+      "f i k",
+      "  i  ",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  b  "
+    ],
+    [
+      "     ",
+      " nqr ",
+      "f   k",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "  o  ",
+      "ce eg",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      " cdg ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ],
+  "version": 4
+}

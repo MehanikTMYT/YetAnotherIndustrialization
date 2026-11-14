@@ -1,0 +1,414 @@
+{
+  "ref": {
+    "a": {
+      "Name": "eternal_starlight:glowing_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "true",
+        "south": "false",
+        "up": "true",
+        "west": "true"
+      }
+    },
+    "b": {
+      "Name": "eternal_starlight:glowing_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "true",
+        "south": "false",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "c": {
+      "Name": "eternal_starlight:glowing_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "true",
+        "south": "false",
+        "up": "true",
+        "west": "true"
+      }
+    },
+    "d": {
+      "Name": "eternal_starlight:glowing_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "true",
+        "west": "true"
+      }
+    },
+    "e": {
+      "Name": "eternal_starlight:glowing_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "f": {
+      "Name": "eternal_starlight:glowing_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "g": {
+      "Name": "eternal_starlight:glowing_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "true",
+        "south": "false",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "h": {
+      "Name": "eternal_starlight:glowing_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "true",
+        "south": "false",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "i": {
+      "Name": "eternal_starlight:glowing_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "true",
+        "up": "false",
+        "west": "true"
+      }
+    },
+    "j": {
+      "Name": "eternal_starlight:glowing_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "true",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "k": {
+      "Name": "eternal_starlight:glowing_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "true",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "l": {
+      "Name": "eternal_starlight:glowing_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "false",
+        "south": "true",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "m": {
+      "Name": "eternal_starlight:glowing_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "true",
+        "south": "false",
+        "up": "false",
+        "west": "true"
+      }
+    },
+    "n": {
+      "Name": "eternal_starlight:glowing_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "true",
+        "south": "true",
+        "up": "true",
+        "west": "true"
+      }
+    },
+    "o": {
+      "Name": "eternal_starlight:glowing_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "true",
+        "up": "true",
+        "west": "true"
+      }
+    },
+    "p": {
+      "Name": "eternal_starlight:glowing_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "false",
+        "south": "true",
+        "up": "true",
+        "west": "true"
+      }
+    },
+    "q": {
+      "Name": "eternal_starlight:glowing_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "false",
+        "south": "false",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "r": {
+      "Name": "eternal_starlight:glowing_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "true",
+        "south": "true",
+        "up": "true",
+        "west": "true"
+      }
+    },
+    "s": {
+      "Name": "eternal_starlight:glowing_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "true"
+      }
+    },
+    "t": {
+      "Name": "eternal_starlight:glowing_mushroom_stem",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "true",
+        "south": "true",
+        "up": "false",
+        "west": "true"
+      }
+    },
+    "u": {
+      "Name": "eternal_starlight:glowing_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "false",
+        "south": "true",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "v": {
+      "Name": "eternal_starlight:glowing_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "w": {
+      "Name": "eternal_starlight:glowing_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "false",
+        "south": "false",
+        "up": "true",
+        "west": "true"
+      }
+    },
+    "x": {
+      "Name": "eternal_starlight:glowing_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "true",
+        "south": "true",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "y": {
+      "Name": "eternal_starlight:glowing_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "true",
+        "south": "false",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "z": {
+      "Name": "eternal_starlight:glowing_mushroom_block",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "true",
+        "south": "false",
+        "up": "false",
+        "west": "true"
+      }
+    }
+  },
+  "shape": [
+    [
+      "           ",
+      "           ",
+      "           ",
+      "           ",
+      "           ",
+      "           ",
+      "     gl    ",
+      "           ",
+      "           "
+    ],
+    [
+      "           ",
+      "           ",
+      "           ",
+      "           ",
+      "           ",
+      "    gl     ",
+      "  gqvefqql ",
+      "           ",
+      "           "
+    ],
+    [
+      "           ",
+      "           ",
+      "           ",
+      "           ",
+      "     gl    ",
+      " n gfevqqp ",
+      " hfeeeeeek ",
+      "       e   ",
+      "           "
+    ],
+    [
+      "           ",
+      "           ",
+      "           ",
+      "    gl     ",
+      "  gqvefl   ",
+      "  heeeeej  ",
+      " beeeeeeej ",
+      "       e   ",
+      "           "
+    ],
+    [
+      "           ",
+      "           ",
+      "    gl     ",
+      "   geel    ",
+      "  beeeefl  ",
+      "  yeeeeeel ",
+      "gfeeeeeeek ",
+      " e e     e ",
+      "           "
+    ],
+    [
+      "     n     ",
+      "     t     ",
+      "   cdtwp   ",
+      "   yeteu   ",
+      " cdeeteej  ",
+      " meeeteeej ",
+      "aeeeeteeeep",
+      "     t  e  ",
+      "     t     "
+    ],
+    [
+      "           ",
+      "     r     ",
+      "     x     ",
+      "   afedo   ",
+      "   yeeeej  ",
+      "  beeeeeeo ",
+      " beeeeeeek ",
+      "           ",
+      "           "
+    ],
+    [
+      "           ",
+      "           ",
+      "     r     ",
+      "    ai     ",
+      "   bsefdo  ",
+      "  aeeeeei  ",
+      " beeeeeeej ",
+      "   e    e  ",
+      "           "
+    ],
+    [
+      "           ",
+      "           ",
+      "           ",
+      "           ",
+      "   r ao    ",
+      "   ydeej n ",
+      " afeeeeefi ",
+      "   e     e ",
+      "           "
+    ],
+    [
+      "           ",
+      "           ",
+      "           ",
+      "           ",
+      "           ",
+      "  co bdo   ",
+      "  zsfeseo  ",
+      "  e        ",
+      "           "
+    ],
+    [
+      "           ",
+      "           ",
+      "           ",
+      "           ",
+      "           ",
+      "     r     ",
+      "    ai r   ",
+      "           ",
+      "           "
+    ]
+  ],
+  "version": 4
+}

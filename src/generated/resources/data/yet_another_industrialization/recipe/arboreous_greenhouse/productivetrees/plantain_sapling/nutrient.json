@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:plantain_sapling",
+      "ingredient": "productivetrees:plantain_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "productivetrees:plantain_log"
+      "id": "productivetrees:plantain_log"
     },
     {
       "amount": 64,
-      "item": "productivetrees:plantain_sapling"
+      "id": "productivetrees:plantain_sapling"
     },
     {
       "amount": 1,
-      "item": "productivetrees:plantain_sapling"
+      "id": "productivetrees:plantain_sapling"
     }
   ],
   "process_conditions": [

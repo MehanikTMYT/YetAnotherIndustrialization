@@ -1,0 +1,90 @@
+{
+  "ref": {
+    "a": {
+      "Name": "minecraft:spruce_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "minecraft:spruce_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "c": {
+      "Name": "minecraft:spruce_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "minecraft:spruce_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "minecraft:spruce_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      " dcd ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "  a  ",
+      "     ",
+      "  e  ",
+      "ccacd",
+      "  a  ",
+      "     "
+    ],
+    [
+      "  a  ",
+      " aea ",
+      "  b  ",
+      " ebe ",
+      "aabac",
+      " aba ",
+      "  b  "
+    ],
+    [
+      "     ",
+      "  a  ",
+      "     ",
+      "  e  ",
+      "caacd",
+      "  a  ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      " cac ",
+      "     ",
+      "     "
+    ]
+  ],
+  "version": 4
+}

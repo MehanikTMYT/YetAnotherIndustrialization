@@ -1,7 +1,11 @@
 {
-  "variants": {
-    "": {
-      "model": "yet_another_industrialization:block/configurable_mixed_storage"
-    }
-  }
+  "type": "modern_industrialization:machine",
+  "casing": "yet_another_industrialization:configurable_mixed_storage",
+  "default_overlays": {
+    "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+    "item_auto": "modern_industrialization:block/overlays/item_auto",
+    "output": "modern_industrialization:block/overlays/output"
+  },
+  "no_overlay_on_output_side": false,
+  "tiered_overlays": {}
 }

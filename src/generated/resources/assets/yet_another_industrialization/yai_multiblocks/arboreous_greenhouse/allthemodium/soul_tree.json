@@ -1,0 +1,90 @@
+{
+  "ref": {
+    "a": {
+      "Name": "allthemodium:soul_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "b": {
+      "Name": "allthemodium:soul_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "allthemodium:soul_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "allthemodium:soul_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "allthemodium:soul_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      " beb ",
+      " beb ",
+      " beb ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "  e  ",
+      "beceb",
+      "bedeb",
+      "eeceb",
+      "  c  ",
+      "     ",
+      "     "
+    ],
+    [
+      " ece ",
+      "ecdce",
+      "edade",
+      "ccace",
+      " cac ",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      "  e  ",
+      "beceb",
+      "bedeb",
+      "ecceb",
+      "  c  ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      " beb ",
+      " beb ",
+      " ece ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ],
+  "version": 4
+}

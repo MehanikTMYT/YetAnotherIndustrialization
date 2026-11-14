@@ -1,0 +1,219 @@
+{
+  "ref": {
+    "a": {
+      "Name": "minecraft:oak_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "minecraft:oak_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "c": {
+      "Name": "minecraft:oak_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "regions_unexplored:apple_oak_leaves",
+      "Properties": {
+        "age": "4",
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "minecraft:oak_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "minecraft:oak_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "regions_unexplored:apple_oak_leaves",
+      "Properties": {
+        "age": "0",
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "h": {
+      "Name": "regions_unexplored:apple_oak_leaves",
+      "Properties": {
+        "age": "3",
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "i": {
+      "Name": "regions_unexplored:apple_oak_leaves",
+      "Properties": {
+        "age": "3",
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "j": {
+      "Name": "regions_unexplored:apple_oak_leaves",
+      "Properties": {
+        "age": "2",
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "k": {
+      "Name": "regions_unexplored:apple_oak_leaves",
+      "Properties": {
+        "age": "1",
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "l": {
+      "Name": "regions_unexplored:apple_oak_leaves",
+      "Properties": {
+        "age": "0",
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "m": {
+      "Name": "regions_unexplored:apple_oak_leaves",
+      "Properties": {
+        "age": "3",
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "n": {
+      "Name": "regions_unexplored:apple_oak_leaves",
+      "Properties": {
+        "age": "3",
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "o": {
+      "Name": "minecraft:oak_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "p": {
+      "Name": "regions_unexplored:apple_oak_leaves",
+      "Properties": {
+        "age": "1",
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "q": {
+      "Name": "regions_unexplored:apple_oak_leaves",
+      "Properties": {
+        "age": "4",
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "r": {
+      "Name": "regions_unexplored:apple_oak_leaves",
+      "Properties": {
+        "age": "2",
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "s": {
+      "Name": "regions_unexplored:apple_oak_leaves",
+      "Properties": {
+        "age": "2",
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "t": {
+      "Name": "regions_unexplored:apple_oak_leaves",
+      "Properties": {
+        "age": "4",
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "rjsfo",
+      " fcfo",
+      "     ",
+      "     "
+    ],
+    [
+      "  a  ",
+      " he  ",
+      "filcf",
+      "cclcn",
+      "     ",
+      "     "
+    ],
+    [
+      " aga ",
+      " kbe ",
+      "chbac",
+      "adbac",
+      "  b  ",
+      "  b  "
+    ],
+    [
+      "  a  ",
+      "  t  ",
+      "fcaij",
+      "caacj",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      " fpfq",
+      "fclcm",
+      "     ",
+      "     "
+    ]
+  ],
+  "version": 4
+}

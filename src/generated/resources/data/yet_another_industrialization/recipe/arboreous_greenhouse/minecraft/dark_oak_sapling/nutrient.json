@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "minecraft:dark_oak_sapling",
+      "ingredient": "minecraft:dark_oak_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "minecraft:dark_oak_log"
+      "id": "minecraft:dark_oak_log"
     },
     {
       "amount": 64,
-      "item": "minecraft:dark_oak_leaves"
+      "id": "minecraft:dark_oak_leaves"
     },
     {
       "amount": 1,
-      "item": "minecraft:dark_oak_sapling"
+      "id": "minecraft:dark_oak_sapling"
     }
   ],
   "process_conditions": [

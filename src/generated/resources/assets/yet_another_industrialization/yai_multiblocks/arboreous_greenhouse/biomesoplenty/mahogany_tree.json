@@ -1,0 +1,175 @@
+{
+  "ref": {
+    "a": {
+      "Name": "biomesoplenty:mahogany_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "biomesoplenty:mahogany_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "biomesoplenty:mahogany_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "d": {
+      "Name": "biomesoplenty:mahogany_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "biomesoplenty:mahogany_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "biomesoplenty:mahogany_log",
+      "Properties": {
+        "axis": "z"
+      }
+    },
+    "g": {
+      "Name": "biomesoplenty:mahogany_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "h": {
+      "Name": "biomesoplenty:mahogany_log",
+      "Properties": {
+        "axis": "x"
+      }
+    }
+  },
+  "shape": [
+    [
+      "         ",
+      "         ",
+      "   dadg  ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "    e    ",
+      "  daead  ",
+      "    b    ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "   aba   ",
+      "  aecea  ",
+      "   bcb   ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "daede    ",
+      "  aaeaadg",
+      "    b    ",
+      "    h    ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "  e      ",
+      "aebad e  ",
+      "  eaaaead",
+      "      b  ",
+      "    h    ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      " ebe     ",
+      "ebcbaaba ",
+      " eceaecea",
+      "  c  bcb ",
+      "   fcf   ",
+      "    c    ",
+      "    c    ",
+      "    c    "
+    ],
+    [
+      " ae      ",
+      "aebaeae  ",
+      "  e aeeea",
+      "      b  ",
+      "    h    ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "   de    ",
+      " aaabea  ",
+      "     aea ",
+      "         ",
+      "    h    ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "   ebe   ",
+      "  ebcbe  ",
+      "    c    ",
+      "    c    ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "    e    ",
+      "  aebea  ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "   aea   ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ]
+  ],
+  "version": 4
+}

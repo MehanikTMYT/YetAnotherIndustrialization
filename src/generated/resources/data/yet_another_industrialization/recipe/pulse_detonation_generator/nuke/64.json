@@ -5,19 +5,19 @@
   "fluid_inputs": [
     {
       "amount": 16000,
-      "fluid": "modern_industrialization:helium_plasma"
+      "ingredient": "modern_industrialization:helium_plasma"
     }
   ],
   "fluid_outputs": [
     {
       "amount": 2500,
-      "fluid": "modern_industrialization:helium_3"
+      "id": "modern_industrialization:helium_3"
     }
   ],
   "item_inputs": [
     {
       "amount": 64,
-      "item": "modern_industrialization:nuke"
+      "ingredient": "modern_industrialization:nuke"
     }
   ],
   "process_conditions": [

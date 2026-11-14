@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "enchanted:alder_sapling",
+      "ingredient": "enchanted:alder_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "enchanted:alder_log"
+      "id": "enchanted:alder_log"
     },
     {
       "amount": 32,
-      "item": "enchanted:alder_leaves"
+      "id": "enchanted:alder_leaves"
     },
     {
       "amount": 1,
-      "item": "enchanted:alder_sapling",
+      "id": "enchanted:alder_sapling",
       "probability": 0.5
     }
   ],

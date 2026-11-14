@@ -1,0 +1,93 @@
+{
+  "ref": {
+    "a": {
+      "Name": "regions_unexplored:dead_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "regions_unexplored:dead_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "c": {
+      "Name": "regions_unexplored:dead_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "regions_unexplored:dead_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "regions_unexplored:dead_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "regions_unexplored:dead_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      " ece ",
+      " ecef",
+      "     ",
+      "     "
+    ],
+    [
+      "  a  ",
+      "  d  ",
+      "ecace",
+      "ccace",
+      "     ",
+      "     "
+    ],
+    [
+      " ada ",
+      " dbd ",
+      "cabac",
+      "aabac",
+      "  b  ",
+      "  b  "
+    ],
+    [
+      "  a  ",
+      "  d  ",
+      "ecace",
+      "caace",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      " ecef",
+      "ecacf",
+      "     ",
+      "     "
+    ]
+  ],
+  "version": 4
+}

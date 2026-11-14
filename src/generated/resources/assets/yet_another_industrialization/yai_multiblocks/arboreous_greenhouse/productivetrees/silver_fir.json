@@ -1,0 +1,117 @@
+{
+  "ref": {
+    "a": {
+      "Name": "productivetrees:silver_fir_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "productivetrees:silver_fir_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "productivetrees:silver_fir_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "productivetrees:silver_fir_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "productivetrees:silver_fir_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "productivetrees:silver_fir_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "productivetrees:silver_fir_log",
+      "Properties": {
+        "axis": "y"
+      }
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      "ddeaedd",
+      " deaedd",
+      "       ",
+      "       "
+    ],
+    [
+      "  ebe  ",
+      " eaba  ",
+      "eeabaed",
+      "deabaed",
+      "       ",
+      "       "
+    ],
+    [
+      " aafaa ",
+      " abcba ",
+      "aabfbaa",
+      "eabfbae",
+      "       ",
+      "       "
+    ],
+    [
+      " bfcfb ",
+      " bcgcb ",
+      "bffgfbb",
+      "abfgfba",
+      "   g   ",
+      "   g   "
+    ],
+    [
+      " eafaa ",
+      " abcba ",
+      "aaffbaa",
+      "ebbfbbe",
+      "       ",
+      "       "
+    ],
+    [
+      "  ebe  ",
+      " eaba  ",
+      "debfbed",
+      "eaabaad",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      " daaaed",
+      "deebedd",
+      "       ",
+      "       "
+    ]
+  ],
+  "version": 4
+}

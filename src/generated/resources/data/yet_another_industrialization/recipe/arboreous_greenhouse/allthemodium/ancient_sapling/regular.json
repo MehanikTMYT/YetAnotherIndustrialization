@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "allthemodium:ancient_sapling",
+      "ingredient": "allthemodium:ancient_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "allthemodium:ancient_log_0"
+      "id": "allthemodium:ancient_log_0"
     },
     {
       "amount": 32,
-      "item": "allthemodium:ancient_leaves"
+      "id": "allthemodium:ancient_leaves"
     },
     {
       "amount": 1,
-      "item": "allthemodium:ancient_sapling",
+      "id": "allthemodium:ancient_sapling",
       "probability": 0.5
     }
   ],

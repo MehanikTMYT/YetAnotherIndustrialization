@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "biomeswevegone:silver_maple_sapling",
+      "ingredient": "biomeswevegone:silver_maple_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "biomeswevegone:maple_log"
+      "id": "biomeswevegone:maple_log"
     },
     {
       "amount": 64,
-      "item": "biomeswevegone:silver_maple_leaves"
+      "id": "biomeswevegone:silver_maple_leaves"
     },
     {
       "amount": 1,
-      "item": "biomeswevegone:silver_maple_sapling"
+      "id": "biomeswevegone:silver_maple_sapling"
     }
   ],
   "process_conditions": [

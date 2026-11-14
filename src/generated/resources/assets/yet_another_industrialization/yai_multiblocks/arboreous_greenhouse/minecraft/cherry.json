@@ -1,0 +1,158 @@
+{
+  "ref": {
+    "a": {
+      "Name": "minecraft:cherry_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "minecraft:cherry_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "minecraft:cherry_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "minecraft:cherry_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "minecraft:cherry_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "minecraft:cherry_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "minecraft:cherry_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "h": {
+      "Name": "minecraft:cherry_log",
+      "Properties": {
+        "axis": "x"
+      }
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      " ffdff ",
+      " f e f ",
+      "     f ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "  fdff ",
+      "ffdbdf ",
+      "ddbcbd ",
+      "  dedf ",
+      "    d  ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "  fdf  ",
+      " fdbdf ",
+      "fdbebdf",
+      " beaebb",
+      " dbcbd ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "  dbd  ",
+      " dbebd ",
+      "dbecebd",
+      "bechcee",
+      " beaeb ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "  beb  ",
+      " beceb ",
+      "becaceb",
+      "ecagac ",
+      " ecgce ",
+      "   g   ",
+      "   h   ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      " dbeb  ",
+      "ddecedf",
+      "bbcacb ",
+      " eecee ",
+      "       ",
+      "   g   ",
+      "   h   ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      " dbebd ",
+      " beceb ",
+      "  be   ",
+      "  be   ",
+      "       ",
+      "   g   ",
+      "   g   ",
+      "   g   ",
+      "   g   "
+    ]
+  ],
+  "version": 4
+}

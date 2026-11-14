@@ -2,15 +2,9 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "G": {
-      "tag": "c:glass_panes"
-    },
-    "P": {
-      "item": "modern_industrialization:bronze_plate"
-    },
-    "W": {
-      "tag": "c:tools/wrench"
-    }
+    "G": "#c:glass_panes",
+    "P": "modern_industrialization:bronze_plate",
+    "W": "#c:tools/wrench"
   },
   "pattern": [
     " W ",

@@ -1,0 +1,199 @@
+{
+  "ref": {
+    "a": {
+      "Name": "roots:wildwood_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "roots:wildwood_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "roots:wildwood_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "roots:wildwood_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "roots:wildwood_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "roots:wildwood_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "roots:wildwood_log",
+      "Properties": {
+        "axis": "z"
+      }
+    },
+    "h": {
+      "Name": "roots:wildwood_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "i": {
+      "Name": "roots:wildwood_log",
+      "Properties": {
+        "axis": "x"
+      }
+    }
+  },
+  "shape": [
+    [
+      "          ",
+      "          ",
+      "          ",
+      "          ",
+      "          ",
+      "          ",
+      " bcd      ",
+      " dbb      ",
+      " bcd      ",
+      "          ",
+      "          ",
+      "          "
+    ],
+    [
+      "          ",
+      "    fdf   ",
+      "    dbd   ",
+      " fffbcb   ",
+      " fdd      ",
+      " bcd      ",
+      "bcabb     ",
+      "dbccc     ",
+      "bcabb     ",
+      "  e       ",
+      "          ",
+      "          "
+    ],
+    [
+      "     d    ",
+      "   fdbdf  ",
+      "  ffbcbf  ",
+      "ffddcacd  ",
+      "fdbbce    ",
+      "bcabc cbd ",
+      "caecc cbd ",
+      "bcaea acb ",
+      "caeac     ",
+      " ege      ",
+      "   g      ",
+      "          "
+    ],
+    [
+      "    dbd   ",
+      "   dbcbd  ",
+      " fddcacd  ",
+      "fdbbaeab  ",
+      "dbccahac  ",
+      "caecahacbd",
+      "aegeahacbd",
+      "caeggheacb",
+      "bcaeahge  ",
+      "  e  h    ",
+      "    gh    ",
+      "     h    "
+    ],
+    [
+      "     f    ",
+      "   ffdff  ",
+      "  ffdbdf  ",
+      "ffddbcbd  ",
+      "fdbbcacbd ",
+      "dbccaiacbd",
+      " aeccacccb",
+      " cae aceac",
+      " bca iege ",
+      "          ",
+      "          ",
+      "          "
+    ],
+    [
+      "          ",
+      "    dbd   ",
+      "   dbcbd  ",
+      " ffbcacb  ",
+      " dbcaeac  ",
+      " bcaeieacb",
+      "   bcacbdf",
+      "     eacbb",
+      "     i e  ",
+      "          ",
+      "          ",
+      "          "
+    ],
+    [
+      "          ",
+      "     d    ",
+      "   fdbff  ",
+      "   dbcdf  ",
+      "   bbabb  ",
+      "   cceccd ",
+      "   baaabb ",
+      "    eieac ",
+      "          ",
+      "          ",
+      "          ",
+      "          "
+    ],
+    [
+      "          ",
+      "          ",
+      "    fdf   ",
+      "    fbd   ",
+      "   ddcdd  ",
+      "   bbabb  ",
+      "   dbccd  ",
+      "     e    ",
+      "          ",
+      "          ",
+      "          ",
+      "          "
+    ],
+    [
+      "          ",
+      "          ",
+      "          ",
+      "          ",
+      "    fdf   ",
+      "    dbd   ",
+      "    bcb   ",
+      "          ",
+      "          ",
+      "          ",
+      "          ",
+      "          "
+    ]
+  ],
+  "version": 4
+}

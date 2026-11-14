@@ -5,29 +5,29 @@
   "item_inputs": [
     {
       "amount": 2,
-      "item": "modern_industrialization:pump"
+      "ingredient": "modern_industrialization:pump"
     },
     {
       "amount": 4,
-      "item": "modern_industrialization:analog_circuit"
+      "ingredient": "modern_industrialization:analog_circuit"
     },
     {
       "amount": 1,
-      "tag": "minecraft:dirt"
+      "ingredient": "#minecraft:dirt"
     },
     {
       "amount": 1,
-      "item": "modern_industrialization:basic_machine_hull"
+      "ingredient": "modern_industrialization:basic_machine_hull"
     },
     {
       "amount": 1,
-      "item": "modern_industrialization:heatproof_machine_casing"
+      "ingredient": "modern_industrialization:heatproof_machine_casing"
     }
   ],
   "item_outputs": [
     {
       "amount": 1,
-      "item": "yet_another_industrialization:arboreous_greenhouse"
+      "id": "yet_another_industrialization:arboreous_greenhouse"
     }
   ]
 }

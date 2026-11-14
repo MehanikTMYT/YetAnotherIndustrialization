@@ -5,23 +5,23 @@
   "fluid_inputs": [
     {
       "amount": 50,
-      "fluid": "yet_another_industrialization:nutrient_rich_dragon_breath"
+      "ingredient": "yet_another_industrialization:nutrient_rich_dragon_breath"
     }
   ],
   "item_inputs": [
     {
       "amount": 8,
-      "item": "modern_industrialization:steel_plate"
+      "ingredient": "modern_industrialization:steel_plate"
     },
     {
       "amount": 1,
-      "item": "modern_industrialization:quartz_tiny_dust"
+      "ingredient": "modern_industrialization:quartz_tiny_dust"
     }
   ],
   "item_outputs": [
     {
       "amount": 4,
-      "item": "yet_another_industrialization:dragon_egg_siphon_catalyst"
+      "id": "yet_another_industrialization:dragon_egg_siphon_catalyst"
     }
   ]
 }

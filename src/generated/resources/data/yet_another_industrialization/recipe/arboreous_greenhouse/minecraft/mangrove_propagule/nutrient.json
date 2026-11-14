@@ -11,32 +11,32 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "minecraft:mangrove_propagule",
+      "ingredient": "minecraft:mangrove_propagule",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "minecraft:mangrove_log"
+      "id": "minecraft:mangrove_log"
     },
     {
       "amount": 64,
-      "item": "minecraft:mangrove_leaves"
+      "id": "minecraft:mangrove_leaves"
     },
     {
       "amount": 2,
-      "item": "minecraft:mangrove_roots"
+      "id": "minecraft:mangrove_roots"
     },
     {
       "amount": 1,
-      "item": "minecraft:mangrove_propagule"
+      "id": "minecraft:mangrove_propagule"
     }
   ],
   "process_conditions": [

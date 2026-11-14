@@ -5,17 +5,17 @@
   "item_inputs": [
     {
       "amount": 1,
-      "item": "modern_industrialization:redstone_battery"
+      "ingredient": "modern_industrialization:redstone_battery"
     },
     {
       "amount": 1,
-      "item": "yet_another_industrialization:battery_casing"
+      "ingredient": "yet_another_industrialization:battery_casing"
     }
   ],
   "item_outputs": [
     {
       "amount": 1,
-      "item": "yet_another_industrialization:large_storage_unit_output_hatch"
+      "id": "yet_another_industrialization:large_storage_unit_output_hatch"
     }
   ]
 }

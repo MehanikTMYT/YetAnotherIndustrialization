@@ -5,21 +5,21 @@
   "item_inputs": [
     {
       "amount": 1,
-      "item": "minecraft:bread"
+      "ingredient": "minecraft:bread"
     },
     {
       "amount": 1,
-      "item": "modern_industrialization:ultradense_metal_ball"
+      "ingredient": "modern_industrialization:ultradense_metal_ball"
     },
     {
       "amount": 1,
-      "item": "minecraft:bread"
+      "ingredient": "minecraft:bread"
     }
   ],
   "item_outputs": [
     {
       "amount": 1,
-      "item": "yet_another_industrialization:ultradense_metal_ball_burger"
+      "id": "yet_another_industrialization:ultradense_metal_ball_burger"
     }
   ]
 }

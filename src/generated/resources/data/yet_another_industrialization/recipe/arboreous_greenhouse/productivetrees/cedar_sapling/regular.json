@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:cedar_sapling",
+      "ingredient": "productivetrees:cedar_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "productivetrees:cedar_log"
+      "id": "productivetrees:cedar_log"
     },
     {
       "amount": 32,
-      "item": "productivetrees:cedar_leaves"
+      "id": "productivetrees:cedar_leaves"
     },
     {
       "amount": 1,
-      "item": "productivetrees:cedar_sapling",
+      "id": "productivetrees:cedar_sapling",
       "probability": 0.5
     }
   ],

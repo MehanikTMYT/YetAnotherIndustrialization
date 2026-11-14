@@ -1,0 +1,319 @@
+{
+  "ref": {
+    "a": {
+      "Name": "minecraft:vine",
+      "Properties": {
+        "east": "false",
+        "north": "false",
+        "south": "true",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "b": {
+      "Name": "twilightforest:mangrove_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "twilightforest:mangrove_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "twilightforest:mangrove_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "minecraft:vine",
+      "Properties": {
+        "east": "false",
+        "north": "true",
+        "south": "false",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "f": {
+      "Name": "twilightforest:mangrove_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "minecraft:vine",
+      "Properties": {
+        "east": "true",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "h": {
+      "Name": "twilightforest:mangrove_wood",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "i": {
+      "Name": "twilightforest:mangrove_root"
+    },
+    "j": {
+      "Name": "twilightforest:mangrove_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "k": {
+      "Name": "minecraft:vine",
+      "Properties": {
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "true"
+      }
+    },
+    "l": {
+      "Name": "twilightforest:mangrove_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "m": {
+      "Name": "twilightforest:firefly",
+      "Properties": {
+        "facing": "west",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "             ",
+      "             ",
+      "         k   ",
+      "         k   ",
+      "         k   ",
+      "         k   ",
+      "         k   ",
+      "         k   ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "             ",
+      "             ",
+      "        cdc  ",
+      "       k b   ",
+      "       k     ",
+      "       k     ",
+      "       k     ",
+      "       k     ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "             ",
+      "             ",
+      "      acdfdc ",
+      "      ajbcbje",
+      "      a     e",
+      "      a     e",
+      "      a     e",
+      "            e",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "             ",
+      "        cdd  ",
+      "      cdfhfdc",
+      "       bcdcc ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "             ",
+      "  cdb  afdfe ",
+      "   b  dfhhhfd",
+      "      bcddddc",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "  k k        ",
+      " cdfcbjbdfd  ",
+      " bccdbbcfhfdc",
+      "       fhfdc ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "  dfc k      ",
+      "cdfhdcbcbd   ",
+      " cddfccccfdcg",
+      "       dfdcbg",
+      "        h   g",
+      "            g",
+      "            g",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      " afdf bdb    ",
+      "dfhhhdcdcbj  ",
+      "cdfdhddfccbe ",
+      "        ac e ",
+      "        a  e ",
+      "       ha  e ",
+      "        a  e ",
+      "        a    ",
+      "             ",
+      "             ",
+      "             ",
+      "       i     "
+    ],
+    [
+      "  dfc cfc    ",
+      "cdfhdcdldcb  ",
+      " ccdfdflfdc  ",
+      "     h l     ",
+      "      hl     ",
+      "       l     ",
+      "       l     ",
+      "       l     ",
+      "       l     ",
+      "       l     ",
+      "       i     ",
+      "       i     "
+    ],
+    [
+      "      bdb    ",
+      " cdfcbcdcbj  ",
+      " bbcccdfdb   ",
+      "        kdfdc",
+      "       mk c  ",
+      "        h    ",
+      "        h    ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "       g     ",
+      "  cdcjbcbbe  ",
+      "   cabcdccdc ",
+      "    a  adfhfd",
+      "    a  a hdd ",
+      "    a  a     ",
+      "    a  a     ",
+      "       a     ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "             ",
+      "  g   bbj    ",
+      "  g    c ddd ",
+      "  g     fhhhf",
+      "  g     dfdfd",
+      "  g          ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "             ",
+      "             ",
+      "       g  f  ",
+      "       gdfhfd",
+      "       g dfd ",
+      "       g     ",
+      "       g     ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "             ",
+      "             ",
+      "             ",
+      "         dfd ",
+      "          de ",
+      "           e ",
+      "           e ",
+      "           e ",
+      "           e ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "             ",
+      "             ",
+      "             ",
+      "         g   ",
+      "         g   ",
+      "         g   ",
+      "         g   ",
+      "         g   ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ]
+  ],
+  "version": 4
+}

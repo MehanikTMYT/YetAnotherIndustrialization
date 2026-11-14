@@ -1,0 +1,173 @@
+{
+  "ref": {
+    "a": {
+      "Name": "productivetrees:dogwood_leaves",
+      "Properties": {
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "productivetrees:dogwood_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "productivetrees:dogwood_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "productivetrees:dogwood_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "productivetrees:dogwood_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "productivetrees:dogwood_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "productivetrees:dogwood_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "h": {
+      "Name": "productivetrees:dogwood_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "             ",
+      "             ",
+      "aaaaaabaaaaaa",
+      "aaaaaabaaaaa ",
+      "             ",
+      "             "
+    ],
+    [
+      "  aaaabaaaa  ",
+      " aaaabcbaaa  ",
+      "aaaaabbbaaaaa",
+      "aaaaabbbaaaaa",
+      "             ",
+      "             "
+    ],
+    [
+      " aaaabcbaaaa ",
+      " aaabbdbbaaa ",
+      "aaaabbcbbaaaa",
+      "aaaabbcbbaaaa",
+      "             ",
+      "             "
+    ],
+    [
+      " aaabbdbbaaa ",
+      " aabbcecbbaa ",
+      "aaabbcdcbbaaa",
+      "aaabbcdcbbaaa",
+      "             ",
+      "             "
+    ],
+    [
+      " aabbceccbaa ",
+      " abbddfddbba ",
+      "aabbcdedcbbaa",
+      "aabbcdedccbaa",
+      "             ",
+      "             "
+    ],
+    [
+      " abbdefedbba ",
+      " bccefhfeccb ",
+      "abbcdefedcbba",
+      "abcddefeddcba",
+      "             ",
+      "             "
+    ],
+    [
+      " bccefhfeccb ",
+      " bddfhghfddb ",
+      "bbcdefgfedcbb",
+      "bcdeffgfeedcb",
+      "      g      ",
+      "      g      "
+    ],
+    [
+      " abbdefedbba ",
+      " bccefhfeccb ",
+      "abbcdefedcbba",
+      "abcdeffeddcba",
+      "             ",
+      "             "
+    ],
+    [
+      " aabbceccbaa ",
+      " abbddfddbba ",
+      "aabbcdedcbbaa",
+      "aabcdefedcbaa",
+      "             ",
+      "             "
+    ],
+    [
+      " aaabbdbbaaa ",
+      " aabbcecbbaa ",
+      "aaabbcdcbbaaa",
+      "aaabcdedcbaaa",
+      "             ",
+      "             "
+    ],
+    [
+      " aaaabcbaaaa ",
+      " aaabbdbbaaa ",
+      "aaaabbcbbaaaa",
+      "aaaabcdcbaaaa",
+      "             ",
+      "             "
+    ],
+    [
+      "  aaaabaaaa  ",
+      " aaaabcbaaa  ",
+      "aaaaabbbaaaaa",
+      "aaaaabcbaaaaa",
+      "             ",
+      "             "
+    ],
+    [
+      "             ",
+      "             ",
+      "aaaaaabaaaaa ",
+      "aaaaaabaaaaa ",
+      "             ",
+      "             "
+    ]
+  ],
+  "version": 4
+}

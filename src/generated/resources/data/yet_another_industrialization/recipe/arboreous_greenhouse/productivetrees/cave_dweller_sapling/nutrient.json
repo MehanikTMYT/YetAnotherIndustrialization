@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:cave_dweller_sapling",
+      "ingredient": "productivetrees:cave_dweller_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "productivetrees:cave_dweller_log"
+      "id": "productivetrees:cave_dweller_log"
     },
     {
       "amount": 64,
-      "item": "productivetrees:cave_dweller_leaves"
+      "id": "productivetrees:cave_dweller_leaves"
     },
     {
       "amount": 1,
-      "item": "productivetrees:cave_dweller_sapling"
+      "id": "productivetrees:cave_dweller_sapling"
     }
   ],
   "process_conditions": [

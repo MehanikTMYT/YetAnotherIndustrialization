@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:lawson_cypress_sapling",
+      "ingredient": "productivetrees:lawson_cypress_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "productivetrees:lawson_cypress_log"
+      "id": "productivetrees:lawson_cypress_log"
     },
     {
       "amount": 32,
-      "item": "productivetrees:lawson_cypress_leaves"
+      "id": "productivetrees:lawson_cypress_leaves"
     },
     {
       "amount": 1,
-      "item": "productivetrees:lawson_cypress_sapling",
+      "id": "productivetrees:lawson_cypress_sapling",
       "probability": 0.5
     }
   ],

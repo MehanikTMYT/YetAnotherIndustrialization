@@ -5,19 +5,19 @@
   "fluid_inputs": [
     {
       "amount": 8000,
-      "fluid": "modern_industrialization:deuterium"
+      "ingredient": "modern_industrialization:deuterium"
     }
   ],
   "fluid_outputs": [
     {
       "amount": 10000,
-      "fluid": "modern_industrialization:steam"
+      "id": "modern_industrialization:steam"
     }
   ],
   "item_inputs": [
     {
       "amount": 16,
-      "item": "modern_industrialization:nuke"
+      "ingredient": "modern_industrialization:nuke"
     }
   ],
   "process_conditions": [

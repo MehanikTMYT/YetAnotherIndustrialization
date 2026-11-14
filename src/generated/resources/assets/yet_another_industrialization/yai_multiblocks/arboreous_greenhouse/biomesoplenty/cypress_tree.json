@@ -1,0 +1,130 @@
+{
+  "ref": {
+    "a": {
+      "Name": "biomesoplenty:cypress_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "minecraft:spruce_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "c": {
+      "Name": "biomesoplenty:cypress_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "biomesoplenty:cypress_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "biomesoplenty:cypress_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      " dad ",
+      " da  ",
+      " dad ",
+      " dcd ",
+      " dad ",
+      " aad ",
+      " d   ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "  c  ",
+      " cca ",
+      " aca ",
+      " aea ",
+      "dacad",
+      "daccd",
+      " acad",
+      "daeaa",
+      "dacad",
+      "dccad",
+      "aaca ",
+      " cec ",
+      "     "
+    ],
+    [
+      "  c  ",
+      "  e  ",
+      " cbc ",
+      " ebe ",
+      " cbc ",
+      " cbc ",
+      "acbca",
+      "aebea",
+      "acbca",
+      "acbcc",
+      "acbc ",
+      "cebea",
+      " cbcc",
+      " ebe ",
+      "  b  "
+    ],
+    [
+      "     ",
+      "     ",
+      "  c  ",
+      " cca ",
+      " aca ",
+      " aea ",
+      "dacad",
+      "dacca",
+      "daca ",
+      "aaeaa",
+      " aca ",
+      " ccad",
+      "aacaa",
+      " cec ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      " da  ",
+      " aa  ",
+      " dc  ",
+      " d   ",
+      " dad ",
+      " aca ",
+      " d d ",
+      "     ",
+      "     "
+    ]
+  ],
+  "version": 4
+}

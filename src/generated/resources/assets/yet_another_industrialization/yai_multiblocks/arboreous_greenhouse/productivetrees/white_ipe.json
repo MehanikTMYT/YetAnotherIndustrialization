@@ -1,0 +1,93 @@
+{
+  "ref": {
+    "a": {
+      "Name": "productivetrees:white_ipe_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "productivetrees:white_ipe_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "c": {
+      "Name": "productivetrees:white_ipe_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "productivetrees:white_ipe_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "productivetrees:white_ipe_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "productivetrees:white_ipe_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      " ecef",
+      " ecef",
+      "     ",
+      "     "
+    ],
+    [
+      "  a  ",
+      " ad  ",
+      "ecace",
+      "ccace",
+      "     ",
+      "     "
+    ],
+    [
+      " ada ",
+      " dbd ",
+      "cabac",
+      "aabac",
+      "  b  ",
+      "  b  "
+    ],
+    [
+      "  a  ",
+      "  da ",
+      "ecace",
+      "caace",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      " ecef",
+      "ecac ",
+      "     ",
+      "     "
+    ]
+  ],
+  "version": 4
+}

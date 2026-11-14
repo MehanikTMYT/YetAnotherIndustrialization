@@ -1,0 +1,148 @@
+{
+  "ref": {
+    "a": {
+      "Name": "regions_unexplored:pink_magnolia_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "regions_unexplored:magnolia_log",
+      "Properties": {
+        "axis": "z"
+      }
+    },
+    "c": {
+      "Name": "regions_unexplored:magnolia_log",
+      "Properties": {
+        "axis": "y"
+      }
+    }
+  },
+  "shape": [
+    [
+      "            ",
+      "      aaaaa ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            "
+    ],
+    [
+      "       aa   ",
+      "     aaaaaaa",
+      "       aa   ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            "
+    ],
+    [
+      "       aaaa ",
+      "     aaaaaaa",
+      "       aaaa ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            "
+    ],
+    [
+      "      aaaaa ",
+      "     aaaaaaa",
+      "      aacaa ",
+      "        c   ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            "
+    ],
+    [
+      "      aaaa  ",
+      "     aaaaaaa",
+      " aaaaaaaaa  ",
+      "       c    ",
+      "       c    ",
+      "       c    ",
+      "            ",
+      "            ",
+      "     c      "
+    ],
+    [
+      "        aa  ",
+      "   aaaaaaaaa",
+      "aaaaaaa aa  ",
+      "   aa       ",
+      "            ",
+      "      c     ",
+      "      c     ",
+      "      c     ",
+      "      cb    "
+    ],
+    [
+      "            ",
+      " aaaa aaaaa ",
+      "aaaaaaa     ",
+      " aaaa       ",
+      "    bb      ",
+      "            ",
+      "            ",
+      "            ",
+      "            "
+    ],
+    [
+      "            ",
+      " aaaaa      ",
+      "aaaaaaa     ",
+      " aabaa      ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            "
+    ],
+    [
+      "            ",
+      "  aaaa      ",
+      "aaaaaaa     ",
+      "  aaaa      ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            "
+    ],
+    [
+      "            ",
+      "  aa        ",
+      "aaaaaaa     ",
+      "  aa        ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            "
+    ],
+    [
+      "            ",
+      "            ",
+      " aaaaa      ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            "
+    ]
+  ],
+  "version": 4
+}

@@ -1,0 +1,117 @@
+{
+  "ref": {
+    "a": {
+      "Name": "productivetrees:sugar_maple_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "productivetrees:sugar_maple_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "productivetrees:sugar_maple_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "productivetrees:sugar_maple_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "productivetrees:sugar_maple_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "productivetrees:sugar_maple_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "productivetrees:sugar_maple_log",
+      "Properties": {
+        "axis": "y"
+      }
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      "ffeaeff",
+      " feaef ",
+      "       ",
+      "       "
+    ],
+    [
+      "  ece  ",
+      " aabaa ",
+      "feacaef",
+      "eeacaef",
+      "       ",
+      "       "
+    ],
+    [
+      " acbca ",
+      " cbdbc ",
+      "eacbcae",
+      "aacbcaa",
+      "       ",
+      "       "
+    ],
+    [
+      " cbdbc ",
+      " bdgdb ",
+      "acbgbca",
+      "cbbgbcc",
+      "   g   ",
+      "   g   "
+    ],
+    [
+      " acbca ",
+      " cbdbc ",
+      "eacbcae",
+      "acbbcaa",
+      "       ",
+      "       "
+    ],
+    [
+      "  ece  ",
+      "  aba  ",
+      "feacaef",
+      "eacbcae",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      " feaeff",
+      " eacaef",
+      "       ",
+      "       "
+    ]
+  ],
+  "version": 4
+}

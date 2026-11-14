@@ -1,0 +1,95 @@
+{
+  "ref": {
+    "a": {
+      "Name": "regions_unexplored:saguaro_cactus",
+      "Properties": {
+        "cactus_shape": "east_up"
+      }
+    },
+    "b": {
+      "Name": "regions_unexplored:saguaro_cactus",
+      "Properties": {
+        "cactus_shape": "south_up"
+      }
+    },
+    "c": {
+      "Name": "regions_unexplored:saguaro_cactus",
+      "Properties": {
+        "cactus_shape": "up_down"
+      }
+    },
+    "d": {
+      "Name": "regions_unexplored:saguaro_cactus",
+      "Properties": {
+        "cactus_shape": "east_west"
+      }
+    },
+    "e": {
+      "Name": "regions_unexplored:saguaro_cactus",
+      "Properties": {
+        "cactus_shape": "north_south"
+      }
+    },
+    "f": {
+      "Name": "regions_unexplored:saguaro_cactus",
+      "Properties": {
+        "cactus_shape": "west_up"
+      }
+    },
+    "g": {
+      "Name": "regions_unexplored:saguaro_cactus",
+      "Properties": {
+        "cactus_shape": "north_up"
+      }
+    },
+    "h": {
+      "Name": "regions_unexplored:cactus_flower",
+      "Properties": {
+        "stage": "0"
+      }
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "  c  ",
+      "  c  ",
+      "  f  ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "     ",
+      "  d  ",
+      "     ",
+      "     "
+    ],
+    [
+      "h c  ",
+      "c c  ",
+      "c c c",
+      "bec c",
+      "  ceg",
+      "  c  "
+    ],
+    [
+      "     ",
+      "     ",
+      "     ",
+      "  d  ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "  c  ",
+      "  c  ",
+      "  a  ",
+      "     ",
+      "     "
+    ]
+  ],
+  "version": 4
+}

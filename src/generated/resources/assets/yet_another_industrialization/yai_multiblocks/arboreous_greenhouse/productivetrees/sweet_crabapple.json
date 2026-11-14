@@ -1,0 +1,134 @@
+{
+  "ref": {
+    "a": {
+      "Name": "productivetrees:sweet_crabapple_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "productivetrees:sweet_crabapple_fruit",
+      "Properties": {
+        "age": "0",
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "productivetrees:sweet_crabapple_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "productivetrees:sweet_crabapple_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "productivetrees:sweet_crabapple_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "productivetrees:sweet_crabapple_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "productivetrees:sweet_crabapple_leaves",
+      "Properties": {
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "h": {
+      "Name": "productivetrees:sweet_crabapple_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "i": {
+      "Name": "productivetrees:sweet_crabapple_log",
+      "Properties": {
+        "axis": "y"
+      }
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      "ghfhgb ",
+      "hbbgbgb",
+      "       ",
+      "       "
+    ],
+    [
+      "  bba  ",
+      "  cacb ",
+      "hfabbbb",
+      "fafbbbb",
+      "       ",
+      "       "
+    ],
+    [
+      " acbbb ",
+      " bebeb ",
+      "bbcbbaf",
+      "acbbbbb",
+      "       ",
+      "       "
+    ],
+    [
+      " cebbb ",
+      " edide ",
+      "acbibcb",
+      "bedibab",
+      "   i   ",
+      "   i   "
+    ],
+    [
+      " bbgbb ",
+      " bbbec ",
+      "bbbbcab",
+      "bcedbfh",
+      "       ",
+      "       "
+    ],
+    [
+      "  gba  ",
+      " hbbc  ",
+      "bfbfabb",
+      "babbbbg",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "gbbbbb ",
+      " bgggb ",
+      "       ",
+      "       "
+    ]
+  ],
+  "version": 4
+}

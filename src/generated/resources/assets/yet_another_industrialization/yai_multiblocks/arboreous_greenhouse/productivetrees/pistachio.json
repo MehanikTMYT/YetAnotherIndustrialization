@@ -1,0 +1,134 @@
+{
+  "ref": {
+    "a": {
+      "Name": "productivetrees:pistachio_fruit",
+      "Properties": {
+        "age": "0",
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "productivetrees:pistachio_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "productivetrees:pistachio_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "productivetrees:pistachio_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "productivetrees:pistachio_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "productivetrees:pistachio_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "productivetrees:pistachio_leaves",
+      "Properties": {
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "h": {
+      "Name": "productivetrees:pistachio_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "i": {
+      "Name": "productivetrees:pistachio_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      " daadg ",
+      "dcdaag ",
+      "       ",
+      "       "
+    ],
+    [
+      "  fcd  ",
+      "  eaa  ",
+      "dafcddd",
+      "cfaadga",
+      "       ",
+      "       "
+    ],
+    [
+      " ceaaf ",
+      " fbiaa ",
+      "gaeaaac",
+      "aeeaaac",
+      "       ",
+      "       "
+    ],
+    [
+      " caaae ",
+      " fahib ",
+      "abihbea",
+      "aabhbef",
+      "   h   ",
+      "   h   "
+    ],
+    [
+      " febef ",
+      " ebiaa ",
+      "afabefa",
+      "acaaeaa",
+      "       ",
+      "       "
+    ],
+    [
+      "  fea  ",
+      "  aafa ",
+      "aaaaefc",
+      "gaggacd",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      " gaafca",
+      " aadcd ",
+      "       ",
+      "       "
+    ]
+  ],
+  "version": 4
+}

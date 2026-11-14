@@ -1,0 +1,143 @@
+{
+  "ref": {
+    "a": {
+      "Name": "productivetrees:night_fuchsia_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "productivetrees:night_fuchsia_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "productivetrees:night_fuchsia_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "productivetrees:night_fuchsia_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "productivetrees:night_fuchsia_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "productivetrees:night_fuchsia_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "g": {
+      "Name": "productivetrees:night_fuchsia_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "h": {
+      "Name": "productivetrees:night_fuchsia_log",
+      "Properties": {
+        "axis": "x"
+      }
+    },
+    "i": {
+      "Name": "productivetrees:night_fuchsia_log",
+      "Properties": {
+        "axis": "z"
+      }
+    }
+  },
+  "shape": [
+    [
+      "      ",
+      "  ddg ",
+      "  eee ",
+      " debe ",
+      " eeb  ",
+      " deb  ",
+      "      ",
+      "      "
+    ],
+    [
+      "   e  ",
+      " gebed",
+      " dbabe",
+      "debcbb",
+      "dbbab ",
+      "debab ",
+      "  c   ",
+      "      "
+    ],
+    [
+      "  ebe ",
+      " dbabe",
+      " eacab",
+      "ebcfca",
+      "eaafa ",
+      "ebafa ",
+      " cif  ",
+      "   f  "
+    ],
+    [
+      "   e  ",
+      " gdbed",
+      "gdeabe",
+      "debcbb",
+      "ebaab ",
+      "bachc ",
+      "  a   ",
+      "      "
+    ],
+    [
+      "      ",
+      " dedg ",
+      "debee ",
+      "ebabe ",
+      "bacab ",
+      " chc  ",
+      "      ",
+      "      "
+    ],
+    [
+      "      ",
+      "  d   ",
+      "gdedg ",
+      "deeed ",
+      "ebabe ",
+      "  c   ",
+      "      ",
+      "      "
+    ],
+    [
+      "      ",
+      "      ",
+      " gdg  ",
+      " ddd  ",
+      " ebe  ",
+      "      ",
+      "      ",
+      "      "
+    ]
+  ],
+  "version": 4
+}

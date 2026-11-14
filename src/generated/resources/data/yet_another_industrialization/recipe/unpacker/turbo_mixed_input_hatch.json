@@ -5,17 +5,17 @@
   "item_inputs": [
     {
       "amount": 1,
-      "item": "yet_another_industrialization:turbo_mixed_input_hatch"
+      "ingredient": "yet_another_industrialization:turbo_mixed_input_hatch"
     }
   ],
   "item_outputs": [
     {
       "amount": 1,
-      "item": "modern_industrialization:turbo_item_input_hatch"
+      "id": "modern_industrialization:turbo_item_input_hatch"
     },
     {
       "amount": 1,
-      "item": "modern_industrialization:turbo_fluid_input_hatch"
+      "id": "modern_industrialization:turbo_fluid_input_hatch"
     }
   ]
 }

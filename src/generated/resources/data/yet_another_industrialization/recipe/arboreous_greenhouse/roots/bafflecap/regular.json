@@ -11,24 +11,24 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "roots:bafflecap",
+      "ingredient": "roots:bafflecap",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 1,
-      "item": "minecraft:mushroom_stem"
+      "id": "minecraft:mushroom_stem"
     },
     {
       "amount": 1,
-      "item": "roots:bafflecap",
+      "id": "roots:bafflecap",
       "probability": 0.5
     }
   ],

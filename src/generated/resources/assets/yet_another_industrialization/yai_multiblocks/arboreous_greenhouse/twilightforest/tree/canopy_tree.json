@@ -1,0 +1,421 @@
+{
+  "ref": {
+    "a": {
+      "Name": "twilightforest:canopy_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "twilightforest:canopy_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "twilightforest:canopy_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "twilightforest:canopy_wood",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "e": {
+      "Name": "twilightforest:canopy_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "twilightforest:canopy_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "twilightforest:canopy_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "h": {
+      "Name": "twilightforest:firefly",
+      "Properties": {
+        "facing": "south",
+        "waterlogged": "false"
+      }
+    },
+    "i": {
+      "Name": "twilightforest:canopy_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "j": {
+      "Name": "twilightforest:firefly",
+      "Properties": {
+        "facing": "west",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "          aba     ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  "
+    ],
+    [
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "         abcba    ",
+      "          aae     ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  "
+    ],
+    [
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "          bcb     ",
+      "        abcfcba   ",
+      "         ebbae    ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  "
+    ],
+    [
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "         bcfcb    ",
+      "       abcfdfcba  ",
+      "        eaccbae   ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  "
+    ],
+    [
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "         cfcfc    ",
+      "       bcfdddfcb  ",
+      "        abfccba   ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  "
+    ],
+    [
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "         acfba    ",
+      "       eabfdcbae  ",
+      "        bccdfcb   ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  "
+    ],
+    [
+      "                  ",
+      "         geg      ",
+      "                  ",
+      "                  ",
+      "          bba     ",
+      "        eaccbaa   ",
+      "         bbfcb    ",
+      "           d      ",
+      "           d      ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  "
+    ],
+    [
+      "                  ",
+      "       ggeaee     ",
+      "         eaa      ",
+      "                  ",
+      "   abe            ",
+      "        eebbaa    ",
+      "         aacb     ",
+      "                  ",
+      "                  ",
+      "          d       ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  "
+    ],
+    [
+      "         eae      ",
+      "       geabaag    ",
+      "       geabbe     ",
+      "    ae            ",
+      "  abcae           ",
+      "   eaa    aba     ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "          d       ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  "
+    ],
+    [
+      "        eacaa     ",
+      "      geabfbbee   ",
+      "       eabccaa    ",
+      "   bba            ",
+      " abcfbae          ",
+      "  aabbb           ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "          d       ",
+      "          d       ",
+      "                  ",
+      "                  "
+    ],
+    [
+      "        abfbb     ",
+      "      eacciccaa   ",
+      "       abfifbb    ",
+      "  bccba   i       ",
+      "abcfdcbaa i       ",
+      " abbcccb  i       ",
+      "          i       ",
+      "          i       ",
+      "       d  i       ",
+      "        d i       ",
+      "         di       ",
+      "         di       ",
+      "          i       ",
+      "          i       ",
+      "          ih      "
+    ],
+    [
+      "        eacaa     ",
+      "      eeabfbbee   ",
+      "       aabccae    ",
+      "  cfcfb     eae   ",
+      "bcfdddcbb         ",
+      " bcccdfc          ",
+      "      d           ",
+      "      d           ",
+      "                  ",
+      "           d      ",
+      "          d       ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  "
+    ],
+    [
+      "        eeae      ",
+      "       eaabaee    ",
+      "        ebcbeae   ",
+      "  bcfba   baabae  ",
+      "abcfdcbaa   aba   ",
+      " abcfccb          ",
+      "                  ",
+      "      j    d      ",
+      "           d      ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  "
+    ],
+    [
+      "                  ",
+      "        eeaea     ",
+      "         abaaba   ",
+      "  abca    ebbfbae ",
+      " abcfbae   abcba  ",
+      "  aabcb           ",
+      "            d     ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  "
+    ],
+    [
+      "                  ",
+      "         gea      ",
+      "           bbcbb  ",
+      "         eaccdccaa",
+      "  abcae   abcdcba ",
+      "   eaba     d     ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  "
+    ],
+    [
+      "                  ",
+      "                  ",
+      "           ccccc  ",
+      "         bcfdddfcb",
+      "   aba    bcfcfcb ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  "
+    ],
+    [
+      "                  ",
+      "                  ",
+      "           bcfcb  ",
+      "         abcfdfcba",
+      "          abcfcba ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  "
+    ],
+    [
+      "                  ",
+      "                  ",
+      "            bcb   ",
+      "          abcfcba ",
+      "           abcba  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  "
+    ],
+    [
+      "                  ",
+      "                  ",
+      "                  ",
+      "           abcba  ",
+      "            abae  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  "
+    ],
+    [
+      "                  ",
+      "                  ",
+      "                  ",
+      "            aba   ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  ",
+      "                  "
+    ]
+  ],
+  "version": 4
+}

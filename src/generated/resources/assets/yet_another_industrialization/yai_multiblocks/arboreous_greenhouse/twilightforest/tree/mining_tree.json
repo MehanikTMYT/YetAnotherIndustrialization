@@ -1,0 +1,75 @@
+{
+  "ref": {
+    "a": {
+      "Name": "twilightforest:mining_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "twilightforest:mining_leaves",
+      "Properties": {
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "twilightforest:mining_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "d": {
+      "Name": "twilightforest:mining_wood",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "e": {
+      "Name": "twilightforest:mining_log_core",
+      "Properties": {
+        "active": "false",
+        "axis": "y"
+      }
+    }
+  },
+  "shape": [
+    [
+      "    aaaaa    ",
+      "   aaaaaaa   ",
+      "  aaaaaaaaa  ",
+      " aaa     aaa ",
+      "aaa       aaa",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "   aaaaaaa   ",
+      "  aaddcddaa  ",
+      " aadaacaadaa ",
+      "aadaa c aadaa",
+      "adaa  c  aada",
+      "aab   c   bab",
+      "      c      ",
+      "      e      ",
+      "      c      "
+    ],
+    [
+      "    aaaaa    ",
+      "   abaaaba   ",
+      "  aaaaabaaa  ",
+      " aab     aab ",
+      "aab       bab",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ]
+  ],
+  "version": 4
+}

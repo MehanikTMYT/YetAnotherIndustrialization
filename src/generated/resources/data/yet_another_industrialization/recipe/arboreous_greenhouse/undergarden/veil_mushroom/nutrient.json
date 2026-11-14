@@ -11,24 +11,24 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "undergarden:veil_mushroom",
+      "ingredient": "undergarden:veil_mushroom",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 2,
-      "item": "undergarden:veil_mushroom_stem"
+      "id": "undergarden:veil_mushroom_stem"
     },
     {
       "amount": 1,
-      "item": "undergarden:veil_mushroom"
+      "id": "undergarden:veil_mushroom"
     }
   ],
   "process_conditions": [

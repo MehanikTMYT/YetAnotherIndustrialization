@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    {
-      "item": "modern_industrialization:advanced_item_input_hatch"
-    },
-    {
-      "item": "modern_industrialization:advanced_fluid_input_hatch"
-    }
+    "modern_industrialization:advanced_item_input_hatch",
+    "modern_industrialization:advanced_fluid_input_hatch"
   ],
   "result": {
     "count": 1,

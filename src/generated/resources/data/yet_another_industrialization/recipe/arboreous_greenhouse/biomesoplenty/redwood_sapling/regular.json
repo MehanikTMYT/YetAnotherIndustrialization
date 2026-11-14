@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "biomesoplenty:redwood_sapling",
+      "ingredient": "biomesoplenty:redwood_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "biomesoplenty:redwood_log"
+      "id": "biomesoplenty:redwood_log"
     },
     {
       "amount": 32,
-      "item": "biomesoplenty:redwood_leaves"
+      "id": "biomesoplenty:redwood_leaves"
     },
     {
       "amount": 1,
-      "item": "biomesoplenty:redwood_sapling",
+      "id": "biomesoplenty:redwood_sapling",
       "probability": 0.5
     }
   ],

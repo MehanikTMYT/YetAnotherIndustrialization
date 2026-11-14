@@ -1,0 +1,95 @@
+{
+  "ref": {
+    "a": {
+      "Name": "regions_unexplored:maple_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "regions_unexplored:maple_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "c": {
+      "Name": "regions_unexplored:maple_branch",
+      "Properties": {
+        "facing": "north"
+      }
+    },
+    "d": {
+      "Name": "regions_unexplored:maple_branch",
+      "Properties": {
+        "facing": "south"
+      }
+    },
+    "e": {
+      "Name": "regions_unexplored:maple_branch",
+      "Properties": {
+        "facing": "west"
+      }
+    },
+    "f": {
+      "Name": "regions_unexplored:maple_branch",
+      "Properties": {
+        "facing": "east"
+      }
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "     ",
+      "  a  ",
+      " aaa ",
+      " aaa ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "  a  ",
+      " aa  ",
+      " aaa ",
+      "aaaaa",
+      "aafaa",
+      "  a  ",
+      "     "
+    ],
+    [
+      "  a  ",
+      " aaa ",
+      " aba ",
+      " aba ",
+      "aabaa",
+      "acbda",
+      " aba ",
+      "  b  "
+    ],
+    [
+      "     ",
+      " aaa ",
+      "  a  ",
+      " aaa ",
+      "aaaaa",
+      "aaeaa",
+      "  a  ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      " aaaa",
+      " aaaa",
+      "     ",
+      "     "
+    ]
+  ],
+  "version": 4
+}

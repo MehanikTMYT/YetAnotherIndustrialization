@@ -5,19 +5,19 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:lava"
+      "ingredient": "minecraft:lava"
     }
   ],
   "fluid_outputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_lava"
+      "id": "yet_another_industrialization:nutrient_rich_lava"
     }
   ],
   "item_inputs": [
     {
       "amount": 6,
-      "item": "minecraft:nether_wart"
+      "ingredient": "minecraft:nether_wart"
     }
   ]
 }

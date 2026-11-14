@@ -1,0 +1,124 @@
+{
+  "ref": {
+    "a": {
+      "Name": "regions_unexplored:green_bioshroom_stem",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "b": {
+      "Name": "regions_unexplored:green_bioshroom_block"
+    },
+    "c": {
+      "Name": "regions_unexplored:glowing_green_bioshroom_block"
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      "  bbb  ",
+      "  bbb  ",
+      "  bbb  ",
+      "  bbb  ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "  bbb  ",
+      " bcccb ",
+      " b   b ",
+      " b   b ",
+      " b   b ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "   bb  ",
+      " bcacb ",
+      "bc a cb",
+      "b     b",
+      "b      ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "   a   ",
+      "   a   "
+    ],
+    [
+      "  bbb  ",
+      " baaab ",
+      "bcaaacb",
+      "b  a  b",
+      "b  a   ",
+      "b  a   ",
+      "   a   ",
+      "   a   ",
+      "   a   ",
+      "   a   ",
+      "   a   ",
+      "   a   ",
+      "  aaa  "
+    ],
+    [
+      "  bbb  ",
+      " bcacb ",
+      "bc a cb",
+      "b     b",
+      "      b",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "   a   "
+    ],
+    [
+      "       ",
+      "  bbb  ",
+      " bcccb ",
+      " b   b ",
+      " b   b ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "  bbb  ",
+      "  bb   ",
+      "  bb   ",
+      "  b    ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ]
+  ],
+  "version": 4
+}

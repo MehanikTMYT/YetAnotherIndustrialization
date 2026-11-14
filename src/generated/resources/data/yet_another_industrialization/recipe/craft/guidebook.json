@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    {
-      "item": "modern_industrialization:guidebook"
-    },
-    {
-      "tag": "c:dyes/magenta"
-    }
+    "modern_industrialization:guidebook",
+    "#c:dyes/magenta"
   ],
   "result": {
     "count": 1,

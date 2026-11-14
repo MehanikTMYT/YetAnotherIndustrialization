@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "biomeswevegone:palo_verde_sapling",
+      "ingredient": "biomeswevegone:palo_verde_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "biomeswevegone:palo_verde_log"
+      "id": "biomeswevegone:palo_verde_log"
     },
     {
       "amount": 32,
-      "item": "biomeswevegone:palo_verde_leaves"
+      "id": "biomeswevegone:palo_verde_leaves"
     },
     {
       "amount": 1,
-      "item": "biomeswevegone:palo_verde_sapling",
+      "id": "biomeswevegone:palo_verde_sapling",
       "probability": 0.5
     }
   ],

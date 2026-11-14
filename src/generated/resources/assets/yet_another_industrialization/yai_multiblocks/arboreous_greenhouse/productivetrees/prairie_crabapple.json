@@ -1,0 +1,134 @@
+{
+  "ref": {
+    "a": {
+      "Name": "productivetrees:prairie_crabapple_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "productivetrees:prairie_crabapple_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "productivetrees:prairie_crabapple_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "productivetrees:prairie_crabapple_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "productivetrees:prairie_crabapple_fruit",
+      "Properties": {
+        "age": "0",
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "productivetrees:prairie_crabapple_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "productivetrees:prairie_crabapple_leaves",
+      "Properties": {
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "h": {
+      "Name": "productivetrees:prairie_crabapple_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "i": {
+      "Name": "productivetrees:prairie_crabapple_log",
+      "Properties": {
+        "axis": "y"
+      }
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      "ehegegg",
+      " faeege",
+      "       ",
+      "       "
+    ],
+    [
+      "  hee  ",
+      " hfef  ",
+      "eeaeege",
+      "eecbeee",
+      "       ",
+      "       "
+    ],
+    [
+      " gebca ",
+      " eeeae ",
+      "eeceegg",
+      "ecbdcee",
+      "       ",
+      "       "
+    ],
+    [
+      " gedbe ",
+      " ediee ",
+      "hfeidee",
+      "eedibef",
+      "   i   ",
+      "   i   "
+    ],
+    [
+      " ecbca ",
+      " ebdbe ",
+      "faeeeaf",
+      "acbdbca",
+      "       ",
+      "       "
+    ],
+    [
+      "  eca  ",
+      "  ebeg ",
+      "heaeaee",
+      "facbcae",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      " efheg ",
+      "efeeae ",
+      "       ",
+      "       "
+    ]
+  ],
+  "version": 4
+}

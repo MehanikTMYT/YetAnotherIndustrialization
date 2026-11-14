@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:greenheart_sapling",
+      "ingredient": "productivetrees:greenheart_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "productivetrees:greenheart_log"
+      "id": "productivetrees:greenheart_log"
     },
     {
       "amount": 64,
-      "item": "productivetrees:greenheart_leaves"
+      "id": "productivetrees:greenheart_leaves"
     },
     {
       "amount": 1,
-      "item": "productivetrees:greenheart_sapling"
+      "id": "productivetrees:greenheart_sapling"
     }
   ],
   "process_conditions": [

@@ -2,18 +2,10 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    {
-      "item": "modern_industrialization:configurable_chest"
-    },
-    {
-      "item": "modern_industrialization:configurable_tank"
-    },
-    {
-      "item": "modern_industrialization:clean_stainless_steel_machine_casing"
-    },
-    {
-      "item": "modern_industrialization:electronic_circuit"
-    }
+    "modern_industrialization:configurable_chest",
+    "modern_industrialization:configurable_tank",
+    "modern_industrialization:clean_stainless_steel_machine_casing",
+    "modern_industrialization:electronic_circuit"
   ],
   "result": {
     "count": 2,

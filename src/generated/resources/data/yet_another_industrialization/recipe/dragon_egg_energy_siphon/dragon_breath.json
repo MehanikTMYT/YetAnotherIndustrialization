@@ -5,19 +5,19 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:dragon_breath"
+      "ingredient": "yet_another_industrialization:dragon_breath"
     }
   ],
   "fluid_outputs": [
     {
       "amount": 1250,
-      "fluid": "yet_another_industrialization:impure_dragon_breath"
+      "id": "yet_another_industrialization:impure_dragon_breath"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "yet_another_industrialization:dragon_egg_siphon_catalyst"
+      "ingredient": "yet_another_industrialization:dragon_egg_siphon_catalyst"
     }
   ],
   "process_conditions": [

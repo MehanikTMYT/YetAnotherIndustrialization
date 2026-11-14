@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "biomesoplenty:jacaranda_sapling",
+      "ingredient": "biomesoplenty:jacaranda_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "biomesoplenty:jacaranda_log"
+      "id": "biomesoplenty:jacaranda_log"
     },
     {
       "amount": 32,
-      "item": "biomesoplenty:jacaranda_leaves"
+      "id": "biomesoplenty:jacaranda_leaves"
     },
     {
       "amount": 1,
-      "item": "biomesoplenty:jacaranda_sapling",
+      "id": "biomesoplenty:jacaranda_sapling",
       "probability": 0.5
     }
   ],

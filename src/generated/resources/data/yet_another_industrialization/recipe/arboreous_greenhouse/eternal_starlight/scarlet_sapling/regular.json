@@ -11,32 +11,32 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "eternal_starlight:scarlet_sapling",
+      "ingredient": "eternal_starlight:scarlet_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "eternal_starlight:scarlet_log"
+      "id": "eternal_starlight:scarlet_log"
     },
     {
       "amount": 32,
-      "item": "eternal_starlight:scarlet_leaves"
+      "id": "eternal_starlight:scarlet_leaves"
     },
     {
       "amount": 1,
-      "item": "minecraft:cobweb"
+      "id": "minecraft:cobweb"
     },
     {
       "amount": 1,
-      "item": "eternal_starlight:scarlet_sapling",
+      "id": "eternal_starlight:scarlet_sapling",
       "probability": 0.5
     }
   ],

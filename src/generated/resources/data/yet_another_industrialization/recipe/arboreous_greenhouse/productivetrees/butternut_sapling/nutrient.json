@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:butternut_sapling",
+      "ingredient": "productivetrees:butternut_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "productivetrees:butternut_log"
+      "id": "productivetrees:butternut_log"
     },
     {
       "amount": 64,
-      "item": "productivetrees:butternut_leaves"
+      "id": "productivetrees:butternut_leaves"
     },
     {
       "amount": 1,
-      "item": "productivetrees:butternut_sapling"
+      "id": "productivetrees:butternut_sapling"
     }
   ],
   "process_conditions": [

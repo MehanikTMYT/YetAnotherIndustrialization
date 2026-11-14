@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:pandanus_sapling",
+      "ingredient": "productivetrees:pandanus_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "productivetrees:pandanus_log"
+      "id": "productivetrees:pandanus_log"
     },
     {
       "amount": 64,
-      "item": "productivetrees:pandanus_sapling"
+      "id": "productivetrees:pandanus_sapling"
     },
     {
       "amount": 1,
-      "item": "productivetrees:pandanus_sapling"
+      "id": "productivetrees:pandanus_sapling"
     }
   ],
   "process_conditions": [

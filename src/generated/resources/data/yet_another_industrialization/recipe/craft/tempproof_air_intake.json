@@ -2,15 +2,9 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "A": {
-      "item": "modern_industrialization:annealed_copper_plate"
-    },
-    "R": {
-      "item": "modern_industrialization:titanium_rotor"
-    },
-    "T": {
-      "item": "modern_industrialization:titanium_plate"
-    }
+    "A": "modern_industrialization:annealed_copper_plate",
+    "R": "modern_industrialization:titanium_rotor",
+    "T": "modern_industrialization:titanium_plate"
   },
   "pattern": [
     "ATA",

@@ -1,0 +1,93 @@
+{
+  "ref": {
+    "a": {
+      "Name": "minecraft:crimson_stem",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "b": {
+      "Name": "minecraft:nether_wart_block"
+    },
+    "c": {
+      "Name": "minecraft:weeping_vines_plant"
+    },
+    "d": {
+      "Name": "minecraft:weeping_vines",
+      "Properties": {
+        "age": "25"
+      }
+    },
+    "e": {
+      "Name": "minecraft:shroomlight"
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "     ",
+      "bbbb ",
+      "b  bb",
+      "b   b",
+      "b    ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      " bbb ",
+      " db  ",
+      " ebb ",
+      "b   b",
+      "b    ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      " bbb ",
+      "  ab ",
+      " bab ",
+      "b abb",
+      "b a  ",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  a  "
+    ],
+    [
+      " bb  ",
+      " bb  ",
+      " bb  ",
+      "b   b",
+      "b   b",
+      "b   b",
+      "    b",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "     ",
+      "bbb b",
+      "c b b",
+      "c b b",
+      "c b b",
+      "c    ",
+      "c    ",
+      "d    ",
+      "     "
+    ]
+  ],
+  "version": 4
+}

@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "roots:wildwood_sapling",
+      "ingredient": "roots:wildwood_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "roots:wildwood_log"
+      "id": "roots:wildwood_log"
     },
     {
       "amount": 32,
-      "item": "roots:wildwood_leaves"
+      "id": "roots:wildwood_leaves"
     },
     {
       "amount": 1,
-      "item": "roots:wildwood_sapling",
+      "id": "roots:wildwood_sapling",
       "probability": 0.5
     }
   ],

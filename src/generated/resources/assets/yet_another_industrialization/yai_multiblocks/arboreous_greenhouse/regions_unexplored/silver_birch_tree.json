@@ -1,0 +1,91 @@
+{
+  "ref": {
+    "a": {
+      "Name": "regions_unexplored:silver_birch_log",
+      "Properties": {
+        "axis": "y",
+        "is_base": "false"
+      }
+    },
+    "b": {
+      "Name": "regions_unexplored:silver_birch_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "regions_unexplored:silver_birch_log",
+      "Properties": {
+        "axis": "y",
+        "is_base": "true"
+      }
+    },
+    "d": {
+      "Name": "regions_unexplored:silver_birch_log",
+      "Properties": {
+        "axis": "x",
+        "is_base": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "     ",
+      "  b  ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "  b  ",
+      " bbb ",
+      " bbb ",
+      "     ",
+      "  d  ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "  bb ",
+      " bbb ",
+      " bbb ",
+      "bbabb",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  a  ",
+      "  c  "
+    ],
+    [
+      "  b  ",
+      "  b  ",
+      " bbb ",
+      " bbb ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "     ",
+      "  b  ",
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ],
+  "version": 4
+}

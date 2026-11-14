@@ -1,0 +1,117 @@
+{
+  "ref": {
+    "a": {
+      "Name": "productivetrees:loblolly_pine_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "productivetrees:loblolly_pine_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "productivetrees:loblolly_pine_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "productivetrees:loblolly_pine_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "productivetrees:loblolly_pine_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "productivetrees:loblolly_pine_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "productivetrees:loblolly_pine_log",
+      "Properties": {
+        "axis": "y"
+      }
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      " feaeff",
+      " eeaeff",
+      "       ",
+      "       "
+    ],
+    [
+      "  aca  ",
+      " ecbc  ",
+      "feacaef",
+      "eaacaef",
+      "       ",
+      "       "
+    ],
+    [
+      " ecbce ",
+      " abdba ",
+      "eacbcae",
+      "accbcae",
+      "       ",
+      "       "
+    ],
+    [
+      " cbdbc ",
+      " bdgdb ",
+      "acbgbca",
+      "cbbgbca",
+      "   g   ",
+      "   g   "
+    ],
+    [
+      " ecbce ",
+      " abdba ",
+      "eacbcae",
+      "acbbcca",
+      "       ",
+      "       "
+    ],
+    [
+      "  aca  ",
+      "  cbc  ",
+      "feacaef",
+      "eacbcae",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      " feaeff",
+      " eacae ",
+      "       ",
+      "       "
+    ]
+  ],
+  "version": 4
+}

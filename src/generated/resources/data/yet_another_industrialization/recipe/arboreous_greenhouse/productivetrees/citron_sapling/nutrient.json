@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:citron_sapling",
+      "ingredient": "productivetrees:citron_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "productivetrees:citron_log"
+      "id": "productivetrees:citron_log"
     },
     {
       "amount": 64,
-      "item": "productivetrees:citron_sapling"
+      "id": "productivetrees:citron_sapling"
     },
     {
       "amount": 1,
-      "item": "productivetrees:citron_sapling"
+      "id": "productivetrees:citron_sapling"
     }
   ],
   "process_conditions": [

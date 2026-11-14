@@ -2,9 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "p": {
-      "tag": "c:plates/battery_alloy"
-    }
+    "p": "#c:plates/battery_alloy"
   },
   "pattern": [
     "ppp",

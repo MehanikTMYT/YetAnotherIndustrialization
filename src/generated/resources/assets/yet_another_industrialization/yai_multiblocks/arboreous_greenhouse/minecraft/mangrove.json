@@ -1,0 +1,216 @@
+{
+  "ref": {
+    "a": {
+      "Name": "minecraft:moss_carpet"
+    },
+    "b": {
+      "Name": "minecraft:mangrove_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "minecraft:mangrove_roots",
+      "Properties": {
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "minecraft:mangrove_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "minecraft:mangrove_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "minecraft:vine",
+      "Properties": {
+        "east": "false",
+        "north": "false",
+        "south": "true",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "g": {
+      "Name": "minecraft:mangrove_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "h": {
+      "Name": "minecraft:mangrove_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "i": {
+      "Name": "minecraft:vine",
+      "Properties": {
+        "east": "true",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "j": {
+      "Name": "minecraft:mangrove_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "k": {
+      "Name": "minecraft:mangrove_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "l": {
+      "Name": "minecraft:vine",
+      "Properties": {
+        "east": "false",
+        "north": "true",
+        "south": "false",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "m": {
+      "Name": "minecraft:mangrove_propagule",
+      "Properties": {
+        "age": "0",
+        "hanging": "true",
+        "stage": "0",
+        "waterlogged": "false"
+      }
+    },
+    "n": {
+      "Name": "minecraft:mangrove_leaves",
+      "Properties": {
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "          ",
+      "          ",
+      "          ",
+      "          ",
+      "      a   ",
+      "      c   ",
+      "      c   "
+    ],
+    [
+      "          ",
+      "          ",
+      "          ",
+      "      a   ",
+      "      c   ",
+      "      c   ",
+      "      c   "
+    ],
+    [
+      "          ",
+      "          ",
+      "          ",
+      "      a   ",
+      "      c   ",
+      "          ",
+      "          "
+    ],
+    [
+      "          ",
+      "          ",
+      "          ",
+      "          ",
+      "      c   ",
+      "          ",
+      "          "
+    ],
+    [
+      "     b    ",
+      "    beg n ",
+      "       b  ",
+      "       m  ",
+      "      c   ",
+      "          ",
+      "          "
+    ],
+    [
+      "          ",
+      "    egkg  ",
+      "    mkae  ",
+      "      c   ",
+      "      c   ",
+      "          ",
+      "          "
+    ],
+    [
+      "     gkge ",
+      "     kjkg ",
+      " a fkjhae ",
+      " ccccchc  ",
+      "ac    cc  ",
+      "cc     cc ",
+      "cc      cc"
+    ],
+    [
+      "     e eb ",
+      "   feg ge ",
+      "   f  a i ",
+      "   f  c i ",
+      "   f    i ",
+      "   f    i ",
+      "        i "
+    ],
+    [
+      "     b bl ",
+      "     ebel ",
+      "     fd l ",
+      "     fc l ",
+      "     f  l ",
+      "     f    ",
+      "     f    "
+    ],
+    [
+      "          ",
+      "          ",
+      "      a   ",
+      "      c   ",
+      "          ",
+      "          ",
+      "          "
+    ],
+    [
+      "          ",
+      "          ",
+      "      a   ",
+      "      c   ",
+      "      c   ",
+      "      c   ",
+      "      c   "
+    ]
+  ],
+  "version": 4
+}

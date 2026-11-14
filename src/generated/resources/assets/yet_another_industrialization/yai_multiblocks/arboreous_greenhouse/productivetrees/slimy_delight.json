@@ -1,0 +1,117 @@
+{
+  "ref": {
+    "a": {
+      "Name": "productivetrees:slimy_delight_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "productivetrees:slimy_delight_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "productivetrees:slimy_delight_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "productivetrees:slimy_delight_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "productivetrees:slimy_delight_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "productivetrees:slimy_delight_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "productivetrees:slimy_delight_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "h": {
+      "Name": "productivetrees:slimy_delight_log",
+      "Properties": {
+        "axis": "z"
+      }
+    }
+  },
+  "shape": [
+    [
+      "        ",
+      "    efe ",
+      " bebfdf ",
+      " efedad ",
+      " fde    ",
+      "        ",
+      "        ",
+      "        "
+    ],
+    [
+      "     f  ",
+      "  ebfdfe",
+      "befedadf",
+      "efdfacad",
+      "fdafda  ",
+      "  c     ",
+      "        ",
+      "        "
+    ],
+    [
+      "    fdf ",
+      " efedadf",
+      "efdfacad",
+      "fdadcgca",
+      "dacdaga ",
+      " chc g  ",
+      "   hhg  ",
+      "     g  "
+    ],
+    [
+      "     f  ",
+      "  ebfdfe",
+      "befedadf",
+      "efdfacad",
+      "fdadda  ",
+      "  c     ",
+      "        ",
+      "        "
+    ],
+    [
+      "        ",
+      "    efe ",
+      " bebfdf ",
+      " efedad ",
+      " fdf    ",
+      "        ",
+      "        ",
+      "        "
+    ]
+  ],
+  "version": 4
+}

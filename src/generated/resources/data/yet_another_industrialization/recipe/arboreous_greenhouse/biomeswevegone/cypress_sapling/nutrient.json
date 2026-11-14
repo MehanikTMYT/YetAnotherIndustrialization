@@ -11,32 +11,32 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "biomeswevegone:cypress_sapling",
+      "ingredient": "biomeswevegone:cypress_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "biomeswevegone:cypress_log"
+      "id": "biomeswevegone:cypress_log"
     },
     {
       "amount": 64,
-      "item": "biomeswevegone:cypress_leaves"
+      "id": "biomeswevegone:cypress_leaves"
     },
     {
       "amount": 2,
-      "item": "minecraft:vine"
+      "id": "minecraft:vine"
     },
     {
       "amount": 1,
-      "item": "biomeswevegone:cypress_sapling"
+      "id": "biomeswevegone:cypress_sapling"
     }
   ],
   "process_conditions": [

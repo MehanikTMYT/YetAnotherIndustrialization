@@ -1,0 +1,134 @@
+{
+  "ref": {
+    "a": {
+      "Name": "productivetrees:sand_pear_leaves",
+      "Properties": {
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "productivetrees:sand_pear_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "productivetrees:sand_pear_fruit",
+      "Properties": {
+        "age": "0",
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "productivetrees:sand_pear_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "productivetrees:sand_pear_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "productivetrees:sand_pear_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "productivetrees:sand_pear_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "h": {
+      "Name": "productivetrees:sand_pear_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "i": {
+      "Name": "productivetrees:sand_pear_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      "ccacca ",
+      "cccaccc",
+      "       ",
+      "       "
+    ],
+    [
+      "  ccd  ",
+      "  cdbc ",
+      "cccccac",
+      "cddcaca",
+      "       ",
+      "       "
+    ],
+    [
+      " accca ",
+      " cbcfc ",
+      "cbfibcc",
+      "ccbfcac",
+      "       ",
+      "       "
+    ],
+    [
+      " cecfc ",
+      " ccgif ",
+      "cfigfcc",
+      "accgcac",
+      "   g   ",
+      "   g   "
+    ],
+    [
+      " cdebc ",
+      " dbccc ",
+      "cbfcfcc",
+      "cccccac",
+      "       ",
+      "       "
+    ],
+    [
+      "  ecc  ",
+      "  dec  ",
+      "ccbdccc",
+      "cacccaa",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      " cceca ",
+      " cahca ",
+      "       ",
+      "       "
+    ]
+  ],
+  "version": 4
+}

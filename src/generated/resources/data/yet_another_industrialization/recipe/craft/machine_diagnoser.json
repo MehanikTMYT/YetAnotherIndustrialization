@@ -2,15 +2,9 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "B": {
-      "tag": "c:modern_industrialization/guide_books"
-    },
-    "G": {
-      "item": "modern_industrialization:bronze_gear"
-    },
-    "P": {
-      "item": "modern_industrialization:iron_plate"
-    }
+    "B": "#c:modern_industrialization/guide_books",
+    "G": "modern_industrialization:bronze_gear",
+    "P": "modern_industrialization:iron_plate"
   },
   "pattern": [
     "PPP",

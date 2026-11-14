@@ -1,0 +1,272 @@
+{
+  "ref": {
+    "a": {
+      "Name": "productivetrees:balsam_fir_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "productivetrees:balsam_fir_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "c": {
+      "Name": "productivetrees:balsam_fir_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "productivetrees:balsam_fir_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "productivetrees:balsam_fir_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "productivetrees:balsam_fir_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "productivetrees:balsam_fir_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "h": {
+      "Name": "productivetrees:balsam_fir_leaves",
+      "Properties": {
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      " ffdef ",
+      "       ",
+      "       ",
+      " fedef ",
+      "       ",
+      "       ",
+      " fecee ",
+      "       ",
+      "       ",
+      " fedee ",
+      "       ",
+      "       ",
+      " fedde ",
+      "       ",
+      "       ",
+      " fedef ",
+      "       ",
+      "       ",
+      " edcde ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "  hfh  ",
+      "       ",
+      "  edf  ",
+      "feeceef",
+      "       ",
+      "  dcd  ",
+      "eedcdee",
+      "       ",
+      "  dcd  ",
+      "fedadde",
+      "       ",
+      "  dcd  ",
+      "fedcdde",
+      "       ",
+      "  dcd  ",
+      "eedccde",
+      "       ",
+      "  dad  ",
+      "fedcdde",
+      "       ",
+      "  dcd  ",
+      "edcacde",
+      "       "
+    ],
+    [
+      "       ",
+      "   h   ",
+      "       ",
+      "   f   ",
+      " hfefh ",
+      "   d   ",
+      " edcef ",
+      "eddadde",
+      "   g   ",
+      " dcacd ",
+      "ddcacdd",
+      "   a   ",
+      " dcacd ",
+      "edcgccd",
+      "   a   ",
+      " daacd ",
+      "edcaccd",
+      "   g   ",
+      " dcacd ",
+      "ddcaacd",
+      "   a   ",
+      " dcgcd ",
+      "edcaccd",
+      "   a   ",
+      " dcacd ",
+      "dcagacd",
+      "       "
+    ],
+    [
+      "   h   ",
+      "  hhh  ",
+      "   f   ",
+      "  fef  ",
+      " fedff ",
+      "  dce  ",
+      " dcadd ",
+      "dccgccd",
+      "  aba  ",
+      " cabaa ",
+      "cagbacc",
+      "  abg  ",
+      " cabac ",
+      "dcabaac",
+      "  aba  ",
+      " cgbgc ",
+      "caabaac",
+      "  aba  ",
+      " cabac ",
+      "cagbgac",
+      "  aba  ",
+      " cabac ",
+      "dcabaac",
+      "  gbg  ",
+      " cabac ",
+      "cagbgac",
+      "   b   "
+    ],
+    [
+      "       ",
+      "   h   ",
+      "       ",
+      "   f   ",
+      " hfefh ",
+      "   d   ",
+      " edcde ",
+      "edcacde",
+      "   g   ",
+      " dcacd ",
+      "ddcaacd",
+      "   a   ",
+      " dcacd ",
+      "dcagacd",
+      "   a   ",
+      " daacd ",
+      "edcaacd",
+      "   g   ",
+      " dcacd ",
+      "ddcaacd",
+      "   a   ",
+      " dcgcd ",
+      "dcaaacd",
+      "   a   ",
+      " dcacd ",
+      "dcagacd",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "  hfh  ",
+      "       ",
+      "  ede  ",
+      "fedcdef",
+      "       ",
+      "  dcd  ",
+      "edcacde",
+      "       ",
+      "  dcd  ",
+      "edcacde",
+      "       ",
+      "  dcd  ",
+      "edcacde",
+      "       ",
+      "  dcd  ",
+      "edcacde",
+      "       ",
+      "  dad  ",
+      "edcccde",
+      "       ",
+      "  dcd  ",
+      "edcacde",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      " fedef ",
+      "       ",
+      "       ",
+      " edcde ",
+      "       ",
+      "       ",
+      " edcde ",
+      "       ",
+      "       ",
+      " edcde ",
+      "       ",
+      "       ",
+      " edcde ",
+      "       ",
+      "       ",
+      " edcde ",
+      "       ",
+      "       ",
+      " edcde ",
+      "       "
+    ]
+  ],
+  "version": 4
+}

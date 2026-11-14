@@ -1,0 +1,371 @@
+{
+  "ref": {
+    "A": {
+      "Name": "minecraft:chorus_plant",
+      "Properties": {
+        "down": "true",
+        "east": "false",
+        "north": "true",
+        "south": "false",
+        "up": "true",
+        "west": "true"
+      }
+    },
+    "B": {
+      "Name": "minecraft:chorus_plant",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "true",
+        "south": "false",
+        "up": "false",
+        "west": "true"
+      }
+    },
+    "a": {
+      "Name": "minecraft:chorus_flower",
+      "Properties": {
+        "age": "0"
+      }
+    },
+    "b": {
+      "Name": "minecraft:chorus_plant",
+      "Properties": {
+        "down": "true",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "true",
+        "west": "true"
+      }
+    },
+    "c": {
+      "Name": "minecraft:chorus_plant",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "true",
+        "south": "false",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "d": {
+      "Name": "minecraft:chorus_plant",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "false",
+        "south": "false",
+        "up": "true",
+        "west": "true"
+      }
+    },
+    "e": {
+      "Name": "minecraft:chorus_plant",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "true"
+      }
+    },
+    "f": {
+      "Name": "minecraft:chorus_plant",
+      "Properties": {
+        "down": "true",
+        "east": "false",
+        "north": "false",
+        "south": "true",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "g": {
+      "Name": "minecraft:chorus_plant",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "true",
+        "up": "false",
+        "west": "true"
+      }
+    },
+    "h": {
+      "Name": "minecraft:chorus_plant",
+      "Properties": {
+        "down": "true",
+        "east": "false",
+        "north": "false",
+        "south": "true",
+        "up": "true",
+        "west": "true"
+      }
+    },
+    "i": {
+      "Name": "minecraft:chorus_plant",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "true",
+        "south": "false",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "j": {
+      "Name": "minecraft:chorus_plant",
+      "Properties": {
+        "down": "true",
+        "east": "false",
+        "north": "false",
+        "south": "true",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "k": {
+      "Name": "minecraft:chorus_plant",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "true",
+        "south": "true",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "l": {
+      "Name": "minecraft:chorus_plant",
+      "Properties": {
+        "down": "true",
+        "east": "true",
+        "north": "false",
+        "south": "false",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "m": {
+      "Name": "minecraft:chorus_plant",
+      "Properties": {
+        "down": "true",
+        "east": "true",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "n": {
+      "Name": "minecraft:chorus_plant",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "true",
+        "south": "true",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "o": {
+      "Name": "minecraft:chorus_plant",
+      "Properties": {
+        "down": "true",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "true"
+      }
+    },
+    "p": {
+      "Name": "minecraft:chorus_plant",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "true",
+        "south": "false",
+        "up": "true",
+        "west": "true"
+      }
+    },
+    "q": {
+      "Name": "minecraft:chorus_plant",
+      "Properties": {
+        "down": "true",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "r": {
+      "Name": "minecraft:chorus_plant",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "true",
+        "south": "true",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "s": {
+      "Name": "minecraft:chorus_plant",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "true",
+        "west": "true"
+      }
+    },
+    "t": {
+      "Name": "minecraft:chorus_plant",
+      "Properties": {
+        "down": "true",
+        "east": "false",
+        "north": "true",
+        "south": "true",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "u": {
+      "Name": "minecraft:chorus_flower",
+      "Properties": {
+        "age": "5"
+      }
+    },
+    "v": {
+      "Name": "minecraft:chorus_plant",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "w": {
+      "Name": "minecraft:chorus_plant",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "true",
+        "south": "false",
+        "up": "false",
+        "west": "true"
+      }
+    },
+    "x": {
+      "Name": "minecraft:chorus_plant",
+      "Properties": {
+        "down": "true",
+        "east": "true",
+        "north": "true",
+        "south": "false",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "y": {
+      "Name": "minecraft:chorus_plant",
+      "Properties": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "true",
+        "up": "true",
+        "west": "false"
+      }
+    },
+    "z": {
+      "Name": "minecraft:chorus_plant",
+      "Properties": {
+        "down": "false",
+        "east": "true",
+        "north": "false",
+        "south": "true",
+        "up": "false",
+        "west": "true"
+      }
+    }
+  },
+  "shape": [
+    [
+      "      ",
+      "      ",
+      "    a ",
+      "    q ",
+      "  a ha",
+      "   ji ",
+      " gui  ",
+      "  s aB",
+      "      "
+    ],
+    [
+      "      ",
+      "   a  ",
+      "      ",
+      "      ",
+      "atc e ",
+      " b    ",
+      " d    ",
+      "  a  e",
+      "      "
+    ],
+    [
+      "   a  ",
+      "   l  ",
+      "   b  ",
+      "   s  ",
+      "    a ",
+      " m o  ",
+      " a fka",
+      " yrA d",
+      "   v  "
+    ],
+    [
+      "      ",
+      "      ",
+      "   a  ",
+      " akx a",
+      "   q q",
+      "  ankp",
+      "      ",
+      "   zkc",
+      "      "
+    ],
+    [
+      "      ",
+      "      ",
+      "      ",
+      "      ",
+      "      ",
+      " jw  a",
+      " a    ",
+      "   u  ",
+      "      "
+    ],
+    [
+      "      ",
+      "      ",
+      "      ",
+      "   a  ",
+      "   q  ",
+      "  ui  ",
+      "      ",
+      "      ",
+      "      "
+    ]
+  ],
+  "version": 4
+}

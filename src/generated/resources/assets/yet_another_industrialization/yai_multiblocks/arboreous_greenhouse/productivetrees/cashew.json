@@ -1,0 +1,134 @@
+{
+  "ref": {
+    "a": {
+      "Name": "productivetrees:cashew_fruit",
+      "Properties": {
+        "age": "0",
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "productivetrees:cashew_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "productivetrees:cashew_leaves",
+      "Properties": {
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "productivetrees:cashew_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "productivetrees:cashew_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "productivetrees:cashew_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "g": {
+      "Name": "productivetrees:cashew_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "h": {
+      "Name": "productivetrees:cashew_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "i": {
+      "Name": "productivetrees:cashew_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      " aaaca ",
+      "cccaaa ",
+      "       ",
+      "       "
+    ],
+    [
+      "  ccc  ",
+      " acaac ",
+      "cacaaaa",
+      "cccacac",
+      "       ",
+      "       "
+    ],
+    [
+      " aaaac ",
+      " caaac ",
+      "cdaigaa",
+      "aaaaaaa",
+      "       ",
+      "       "
+    ],
+    [
+      " aaaac ",
+      " aafia ",
+      "dbafaac",
+      "caafacc",
+      "   f   ",
+      "   f   "
+    ],
+    [
+      " aacaa ",
+      " aaaaa ",
+      "aehaacc",
+      "aagiaac",
+      "       ",
+      "       "
+    ],
+    [
+      "  aca  ",
+      "  acca ",
+      "dbaacaa",
+      "caagaaa",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      " daaadc",
+      "ccaheb ",
+      "       ",
+      "       "
+    ]
+  ],
+  "version": 4
+}

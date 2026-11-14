@@ -1,0 +1,94 @@
+{
+  "ref": {
+    "a": {
+      "Name": "productivetrees:banana_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "productivetrees:banana_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "c": {
+      "Name": "productivetrees:banana_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "productivetrees:banana_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "productivetrees:banana_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "productivetrees:banana_fruit",
+      "Properties": {
+        "age": "1",
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      " aca ",
+      "aceca",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "aceca",
+      "cedec",
+      "     ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      "cedec",
+      "edbde",
+      "  b  ",
+      "  b  ",
+      "  b  ",
+      "  b  "
+    ],
+    [
+      "aceca",
+      "cedec",
+      " f   ",
+      "     ",
+      "     ",
+      "     "
+    ],
+    [
+      " aca ",
+      "aceca",
+      "ff f ",
+      "     ",
+      "     ",
+      "     "
+    ]
+  ],
+  "version": 4
+}

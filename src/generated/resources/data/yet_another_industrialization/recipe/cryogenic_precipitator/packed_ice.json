@@ -5,27 +5,27 @@
   "fluid_inputs": [
     {
       "amount": 4000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     },
     {
       "amount": 8,
-      "fluid": "modern_industrialization:cryofluid"
+      "ingredient": "modern_industrialization:cryofluid"
     }
   ],
   "fluid_outputs": [
     {
       "amount": 5,
-      "fluid": "modern_industrialization:argon"
+      "id": "modern_industrialization:argon"
     },
     {
       "amount": 2,
-      "fluid": "modern_industrialization:helium"
+      "id": "modern_industrialization:helium"
     }
   ],
   "item_outputs": [
     {
       "amount": 1,
-      "item": "minecraft:packed_ice"
+      "id": "minecraft:packed_ice"
     }
   ]
 }

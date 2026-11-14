@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:brazil_nut_sapling",
+      "ingredient": "productivetrees:brazil_nut_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "productivetrees:brazil_nut_log"
+      "id": "productivetrees:brazil_nut_log"
     },
     {
       "amount": 32,
-      "item": "productivetrees:brazil_nut_sapling"
+      "id": "productivetrees:brazil_nut_sapling"
     },
     {
       "amount": 1,
-      "item": "productivetrees:brazil_nut_sapling",
+      "id": "productivetrees:brazil_nut_sapling",
       "probability": 0.5
     }
   ],

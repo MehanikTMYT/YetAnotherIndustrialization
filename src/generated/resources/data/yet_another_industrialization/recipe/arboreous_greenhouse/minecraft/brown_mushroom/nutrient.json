@@ -11,24 +11,24 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "minecraft:brown_mushroom",
+      "ingredient": "minecraft:brown_mushroom",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 2,
-      "item": "minecraft:mushroom_stem"
+      "id": "minecraft:mushroom_stem"
     },
     {
       "amount": 1,
-      "item": "minecraft:brown_mushroom"
+      "id": "minecraft:brown_mushroom"
     }
   ],
   "process_conditions": [

@@ -1,0 +1,265 @@
+{
+  "ref": {
+    "a": {
+      "Name": "productivetrees:purple_spiral_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "productivetrees:purple_spiral_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "productivetrees:purple_spiral_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "productivetrees:purple_spiral_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "productivetrees:purple_spiral_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "minecraft:vine",
+      "Properties": {
+        "east": "false",
+        "north": "false",
+        "south": "true",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "g": {
+      "Name": "productivetrees:purple_spiral_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "h": {
+      "Name": "productivetrees:purple_spiral_log",
+      "Properties": {
+        "axis": "z"
+      }
+    },
+    "i": {
+      "Name": "minecraft:vine",
+      "Properties": {
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "true"
+      }
+    },
+    "j": {
+      "Name": "minecraft:vine",
+      "Properties": {
+        "east": "false",
+        "north": "true",
+        "south": "false",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "k": {
+      "Name": "minecraft:vine",
+      "Properties": {
+        "east": "true",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "l": {
+      "Name": "productivetrees:purple_spiral_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "m": {
+      "Name": "productivetrees:purple_spiral_log",
+      "Properties": {
+        "axis": "x"
+      }
+    }
+  },
+  "shape": [
+    [
+      "            ",
+      "     dgd    ",
+      "     ded    ",
+      "     gag    ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            "
+    ],
+    [
+      "      g     ",
+      "    ddedd   ",
+      "    dgagd   ",
+      "    gebeg   ",
+      "      cae   ",
+      "      i     ",
+      " ddg  i     ",
+      " dgg  i     ",
+      " gee  i     ",
+      "            ",
+      "    i       ",
+      "      i     ",
+      "      i     ",
+      "      i     ",
+      "      i     ",
+      "            ",
+      "      i     "
+    ],
+    [
+      "     ded    ",
+      "    dgagd   ",
+      "    gebegd  ",
+      "    eacaegd ",
+      "     blbaeg ",
+      "  d  clcbae ",
+      "ddgeablb    ",
+      "ggeebclci   ",
+      "geaaeflj    ",
+      "  ci fl     ",
+      "   fhhlj    ",
+      "     ilj    ",
+      "      l     ",
+      "     flj    ",
+      "     flj    ",
+      "     flj    ",
+      "      lj    "
+    ],
+    [
+      "      d     ",
+      "    ddged   ",
+      "    dgaegg  ",
+      "    gebaeegd",
+      "     abbaaeg",
+      " dggebcmcbae",
+      "ggeeeabbbb  ",
+      "eabaeabmh   ",
+      "abcbabm     ",
+      " chhca      ",
+      "      k     ",
+      "    fmj     ",
+      "            ",
+      "      k     ",
+      "      k     ",
+      "      k     ",
+      "      k     "
+    ],
+    [
+      "            ",
+      "     dgd    ",
+      "     degdeg ",
+      "     gaegaeg",
+      "     eabebae",
+      "  d gaacacba",
+      "ddgggeaabhc ",
+      "dgeeeabbb   ",
+      "geaaacmmj   ",
+      "  cbaac     ",
+      "    c       ",
+      "     mj     ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            "
+    ],
+    [
+      "            ",
+      "            ",
+      "      gddg  ",
+      "      gegegd",
+      "     geaeaeg",
+      "    geababae",
+      " ddgeebcbc  ",
+      " dgeaacmc   ",
+      " geaaabk    ",
+      "  abcba     ",
+      "   cmc      ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            "
+    ],
+    [
+      "            ",
+      "            ",
+      "            ",
+      "       gdgd ",
+      "     ggegeg ",
+      "     deaeae ",
+      "    ggabab  ",
+      "  dgeebc    ",
+      "  geeea     ",
+      "  eabea     ",
+      "    c       ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            "
+    ],
+    [
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "      dgd   ",
+      "      geg   ",
+      "      eae   ",
+      "   ddg      ",
+      "   ggg      ",
+      "   eae      ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            ",
+      "            "
+    ]
+  ],
+  "version": 4
+}

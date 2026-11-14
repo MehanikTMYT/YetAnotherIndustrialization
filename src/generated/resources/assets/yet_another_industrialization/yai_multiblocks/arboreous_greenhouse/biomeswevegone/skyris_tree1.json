@@ -1,0 +1,277 @@
+{
+  "ref": {
+    "a": {
+      "Name": "biomeswevegone:skyris_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "b": {
+      "Name": "biomeswevegone:green_apple_skyris_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "biomeswevegone:skyris_vine",
+      "Properties": {
+        "east": "true",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "d": {
+      "Name": "biomeswevegone:skyris_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "biomeswevegone:skyris_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "biomeswevegone:skyris_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "biomeswevegone:flowering_skyris_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "h": {
+      "Name": "biomeswevegone:skyris_vine",
+      "Properties": {
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "true"
+      }
+    },
+    "i": {
+      "Name": "biomeswevegone:skyris_vine",
+      "Properties": {
+        "east": "false",
+        "north": "false",
+        "south": "true",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "j": {
+      "Name": "biomeswevegone:flowering_skyris_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "k": {
+      "Name": "biomeswevegone:flowering_skyris_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "l": {
+      "Name": "biomeswevegone:skyris_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "m": {
+      "Name": "biomeswevegone:flowering_skyris_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "n": {
+      "Name": "biomeswevegone:skyris_vine",
+      "Properties": {
+        "east": "false",
+        "north": "true",
+        "south": "false",
+        "up": "false",
+        "west": "false"
+      }
+    },
+    "o": {
+      "Name": "biomeswevegone:green_apple_skyris_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "   lfjf ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        "
+    ],
+    [
+      "        ",
+      "    mdfn",
+      "     e n",
+      "       n",
+      "    denn",
+      "   fbedf",
+      "        ",
+      "        ",
+      "    hh  ",
+      "    hh  ",
+      "    hh  ",
+      "    hh  ",
+      "    hh  ",
+      "        "
+    ],
+    [
+      "     d  ",
+      "   ided ",
+      "   ieag ",
+      "   i a  ",
+      "   ieae ",
+      "   bgaed",
+      "        ",
+      "        ",
+      "   fdf  ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        "
+    ],
+    [
+      "        ",
+      "    mjf ",
+      "     e  ",
+      "     c  ",
+      "    ce  ",
+      "   jeedm",
+      "    a   ",
+      "    ah  ",
+      "  fdedf ",
+      "    h   ",
+      "        ",
+      "        ",
+      "    h   ",
+      "        "
+    ],
+    [
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "    bjf ",
+      "  fjc   ",
+      "   eed  ",
+      "  jeagd ",
+      "    an  ",
+      "    a   ",
+      "   ia   ",
+      "    a   ",
+      "    an  "
+    ],
+    [
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "   d    ",
+      "ifdgdf  ",
+      "i  aod  ",
+      "i eaedf ",
+      "i       ",
+      "i       ",
+      "        ",
+      "        ",
+      "        "
+    ],
+    [
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "  d d   ",
+      " ieaeb  ",
+      " i      ",
+      " i ebfk ",
+      " i      ",
+      " i      ",
+      "        ",
+      "        ",
+      "        "
+    ],
+    [
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "  md    ",
+      "  dedf  ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        "
+    ],
+    [
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      " lf f   ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        ",
+      "        "
+    ]
+  ],
+  "version": 4
+}

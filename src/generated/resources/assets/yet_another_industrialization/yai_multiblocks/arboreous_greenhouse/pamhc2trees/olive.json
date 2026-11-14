@@ -1,0 +1,104 @@
+{
+  "ref": {
+    "a": {
+      "Name": "minecraft:jungle_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "minecraft:jungle_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "c": {
+      "Name": "minecraft:jungle_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "minecraft:jungle_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "minecraft:jungle_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "pamhc2trees:pamolive",
+      "Properties": {
+        "age": "0"
+      }
+    },
+    "g": {
+      "Name": "minecraft:jungle_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "eeaeg",
+      "     ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      " ada ",
+      " aca ",
+      "aacae",
+      " fff ",
+      "     "
+    ],
+    [
+      "  c  ",
+      "  d  ",
+      " dbd ",
+      " cbc ",
+      "ccbca",
+      " fbf ",
+      "  b  "
+    ],
+    [
+      "     ",
+      "     ",
+      " ada ",
+      " cca ",
+      "aacae",
+      " fff ",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      "     ",
+      "     ",
+      "eacae",
+      "     ",
+      "     "
+    ]
+  ],
+  "version": 4
+}

@@ -2,9 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "X": {
-      "tag": "c:plates/beryllium"
-    }
+    "X": "#c:plates/beryllium"
   },
   "pattern": [
     "XX",

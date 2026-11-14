@@ -1,0 +1,134 @@
+{
+  "ref": {
+    "a": {
+      "Name": "productivetrees:nutmeg_leaves",
+      "Properties": {
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "productivetrees:nutmeg_fruit",
+      "Properties": {
+        "age": "0",
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "productivetrees:nutmeg_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "productivetrees:nutmeg_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "productivetrees:nutmeg_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "productivetrees:nutmeg_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "productivetrees:nutmeg_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "h": {
+      "Name": "productivetrees:nutmeg_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "i": {
+      "Name": "productivetrees:nutmeg_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      "abaaba ",
+      "bbbabab",
+      "       ",
+      "       "
+    ],
+    [
+      "  aba  ",
+      " abbb  ",
+      "bbabbba",
+      "babbbbb",
+      "       ",
+      "       "
+    ],
+    [
+      " bbbba ",
+      " abbbb ",
+      "bbababb",
+      "babbbaa",
+      "       ",
+      "       "
+    ],
+    [
+      " babbb ",
+      " abgib ",
+      "aabgbcb",
+      "babgbbb",
+      "   g   ",
+      "   g   "
+    ],
+    [
+      " bbbbb ",
+      " bbihf ",
+      "babbbdb",
+      "babbbce",
+      "       ",
+      "       "
+    ],
+    [
+      "  bbb  ",
+      " bbhbb ",
+      "bbbfdba",
+      "babbbba",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      " bbbcbb",
+      "bbabeaa",
+      "       ",
+      "       "
+    ]
+  ],
+  "version": 4
+}

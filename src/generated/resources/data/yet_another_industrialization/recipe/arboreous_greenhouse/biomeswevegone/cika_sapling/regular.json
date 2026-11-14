@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "biomeswevegone:cika_sapling",
+      "ingredient": "biomeswevegone:cika_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "biomeswevegone:cika_log"
+      "id": "biomeswevegone:cika_log"
     },
     {
       "amount": 32,
-      "item": "biomeswevegone:cika_leaves"
+      "id": "biomeswevegone:cika_leaves"
     },
     {
       "amount": 1,
-      "item": "biomeswevegone:cika_sapling",
+      "id": "biomeswevegone:cika_sapling",
       "probability": 0.5
     }
   ],

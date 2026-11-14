@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "I": {
-      "item": "modern_industrialization:industrial_tnt"
-    },
-    "P": {
-      "item": "modern_industrialization:blastproof_alloy_plate"
-    }
+    "I": "modern_industrialization:industrial_tnt",
+    "P": "modern_industrialization:blastproof_alloy_plate"
   },
   "pattern": [
     "PPP",

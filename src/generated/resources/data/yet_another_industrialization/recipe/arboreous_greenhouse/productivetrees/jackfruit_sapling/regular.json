@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:jackfruit_sapling",
+      "ingredient": "productivetrees:jackfruit_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "productivetrees:jackfruit_log"
+      "id": "productivetrees:jackfruit_log"
     },
     {
       "amount": 32,
-      "item": "productivetrees:jackfruit_sapling"
+      "id": "productivetrees:jackfruit_sapling"
     },
     {
       "amount": 1,
-      "item": "productivetrees:jackfruit_sapling",
+      "id": "productivetrees:jackfruit_sapling",
       "probability": 0.5
     }
   ],

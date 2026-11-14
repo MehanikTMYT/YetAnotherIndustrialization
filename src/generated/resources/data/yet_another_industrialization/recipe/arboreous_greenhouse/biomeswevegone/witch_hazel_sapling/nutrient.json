@@ -11,32 +11,32 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "biomeswevegone:witch_hazel_sapling",
+      "ingredient": "biomeswevegone:witch_hazel_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "biomeswevegone:witch_hazel_log"
+      "id": "biomeswevegone:witch_hazel_log"
     },
     {
       "amount": 64,
-      "item": "biomeswevegone:witch_hazel_leaves"
+      "id": "biomeswevegone:witch_hazel_leaves"
     },
     {
       "amount": 2,
-      "item": "biomeswevegone:witch_hazel_branch"
+      "id": "biomeswevegone:witch_hazel_branch"
     },
     {
       "amount": 1,
-      "item": "biomeswevegone:witch_hazel_sapling"
+      "id": "biomeswevegone:witch_hazel_sapling"
     }
   ],
   "process_conditions": [

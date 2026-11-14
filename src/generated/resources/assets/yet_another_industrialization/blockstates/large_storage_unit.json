@@ -1,7 +1,13 @@
 {
-  "variants": {
-    "": {
-      "model": "yet_another_industrialization:block/large_storage_unit"
-    }
-  }
+  "type": "modern_industrialization:machine",
+  "casing": "yet_another_industrialization:battery_casing",
+  "default_overlays": {
+    "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+    "front": "yet_another_industrialization:block/machines/large_storage_unit/overlay_front",
+    "front_active": "yet_another_industrialization:block/machines/large_storage_unit/overlay_front_active",
+    "item_auto": "modern_industrialization:block/overlays/item_auto",
+    "output": "modern_industrialization:block/overlays/output"
+  },
+  "no_overlay_on_output_side": false,
+  "tiered_overlays": {}
 }

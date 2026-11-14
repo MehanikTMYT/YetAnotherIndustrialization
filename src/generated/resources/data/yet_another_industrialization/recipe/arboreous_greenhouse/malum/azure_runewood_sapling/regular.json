@@ -11,32 +11,32 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "malum:azure_runewood_sapling",
+      "ingredient": "malum:azure_runewood_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "malum:runewood_log"
+      "id": "malum:runewood_log"
     },
     {
       "amount": 32,
-      "item": "malum:azure_runewood_leaves"
+      "id": "malum:azure_runewood_leaves"
     },
     {
       "amount": 1,
-      "item": "malum:hanging_azure_runewood_leaves"
+      "id": "malum:hanging_azure_runewood_leaves"
     },
     {
       "amount": 1,
-      "item": "malum:azure_runewood_sapling",
+      "id": "malum:azure_runewood_sapling",
       "probability": 0.5
     }
   ],

@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:firecracker_sapling",
+      "ingredient": "productivetrees:firecracker_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "productivetrees:firecracker_log"
+      "id": "productivetrees:firecracker_log"
     },
     {
       "amount": 32,
-      "item": "productivetrees:firecracker_leaves"
+      "id": "productivetrees:firecracker_leaves"
     },
     {
       "amount": 1,
-      "item": "productivetrees:firecracker_sapling",
+      "id": "productivetrees:firecracker_sapling",
       "probability": 0.5
     }
   ],

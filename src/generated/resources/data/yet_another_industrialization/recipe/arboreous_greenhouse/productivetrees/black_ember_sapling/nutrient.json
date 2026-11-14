@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:black_ember_sapling",
+      "ingredient": "productivetrees:black_ember_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "productivetrees:black_ember_log"
+      "id": "productivetrees:black_ember_log"
     },
     {
       "amount": 64,
-      "item": "productivetrees:black_ember_leaves"
+      "id": "productivetrees:black_ember_leaves"
     },
     {
       "amount": 1,
-      "item": "productivetrees:black_ember_sapling"
+      "id": "productivetrees:black_ember_sapling"
     }
   ],
   "process_conditions": [

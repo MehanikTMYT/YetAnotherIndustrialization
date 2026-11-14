@@ -1,0 +1,241 @@
+{
+  "ref": {
+    "a": {
+      "Name": "biomeswevegone:ironwood_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "b": {
+      "Name": "biomeswevegone:ironwood_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "biomeswevegone:flowering_ironwood_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "biomeswevegone:flowering_ironwood_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "biomeswevegone:flowering_ironwood_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "biomeswevegone:flowering_ironwood_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "biomeswevegone:ironwood_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "h": {
+      "Name": "biomeswevegone:ironwood_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "i": {
+      "Name": "biomeswevegone:ironwood_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "j": {
+      "Name": "biomeswevegone:ironwood_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "k": {
+      "Name": "biomeswevegone:flowering_ironwood_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "l": {
+      "Name": "biomeswevegone:flowering_ironwood_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "m": {
+      "Name": "biomeswevegone:ironwood_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "           ",
+      "           ",
+      "           ",
+      "       id  ",
+      "        b  ",
+      "           ",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ],
+    [
+      "           ",
+      "           ",
+      "   jegef l ",
+      "    e b bd ",
+      "  id h ef  ",
+      "      b    ",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ],
+    [
+      "           ",
+      "     g fb  ",
+      "  ld cgcf  ",
+      " k bghghfed",
+      "  de ah cg ",
+      "    c fef  ",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ],
+    [
+      "     g     ",
+      "   bghgh   ",
+      " ki  ahahf ",
+      " l  hahacge",
+      "mk gcaa acf",
+      "   ha  d f ",
+      "    a      ",
+      "    a      ",
+      "           ",
+      "           "
+    ],
+    [
+      "   i b b   ",
+      " kldegefe  ",
+      "  d e f  bj",
+      "ljbffh cf j",
+      "i  ffhcgcf ",
+      " bg  f b   ",
+      "           ",
+      "           ",
+      "    a      ",
+      "           "
+    ],
+    [
+      "   di l    ",
+      "  jbdedb   ",
+      "ljefb  bdd ",
+      " e c fcg  i",
+      "j fhchh  e ",
+      "i cc   ed  ",
+      " ha   e    ",
+      "  a  c     ",
+      "   aa      ",
+      "    a      "
+    ],
+    [
+      "  de       ",
+      " dbfbe     ",
+      "j  hgfhge  ",
+      "egcac acg  ",
+      "bghaaaac   ",
+      " caa hhfe  ",
+      "  a  hf    ",
+      "     ac    ",
+      "    ha     ",
+      "           "
+    ],
+    [
+      "   e       ",
+      "dbff       ",
+      "  ccg ge   ",
+      "gcaa gh    ",
+      "  cccccfe  ",
+      " gchff b   ",
+      "      b    ",
+      "     h     ",
+      "           ",
+      "           "
+    ],
+    [
+      "           ",
+      "  bej      ",
+      " eg ej     ",
+      " gch efb   ",
+      " e  fff    ",
+      "   ge ed   ",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ],
+    [
+      "           ",
+      "           ",
+      "  b  i     ",
+      " efge e    ",
+      "  b eb     ",
+      "           ",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ],
+    [
+      "           ",
+      "           ",
+      "    lk     ",
+      "  bed      ",
+      "   d       ",
+      "           ",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ]
+  ],
+  "version": 4
+}

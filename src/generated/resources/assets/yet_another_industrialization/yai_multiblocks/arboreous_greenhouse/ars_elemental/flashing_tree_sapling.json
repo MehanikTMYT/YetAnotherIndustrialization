@@ -1,0 +1,179 @@
+{
+  "ref": {
+    "a": {
+      "Name": "ars_elemental:yellow_archwood_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "b": {
+      "Name": "ars_elemental:yellow_archwood_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "ars_elemental:yellow_archwood_leaves",
+      "Properties": {
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "           ",
+      "           ",
+      "           ",
+      "           ",
+      "     b     ",
+      "           ",
+      "           ",
+      "    bbb    ",
+      "    bbc    ",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ],
+    [
+      "           ",
+      "           ",
+      "           ",
+      "  bbbbbb   ",
+      "  bbbcbc   ",
+      "           ",
+      "    bbb    ",
+      "   bbabb   ",
+      "   b a b   ",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ],
+    [
+      "           ",
+      "           ",
+      "   bbbb    ",
+      " bbbbbbbb  ",
+      "bb      b  ",
+      "           ",
+      "    bbb    ",
+      "   bbabb   ",
+      "   c   b   ",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ],
+    [
+      "           ",
+      "   bbbb    ",
+      "  bbbbbb   ",
+      " bbbbbbbb  ",
+      " b      b  ",
+      "      b    ",
+      "    bbb    ",
+      "    bab    ",
+      "    babbb  ",
+      "     a bc  ",
+      "           ",
+      "           ",
+      "    aa     "
+    ],
+    [
+      "     b     ",
+      "   bbbb    ",
+      "  bbbbbb   ",
+      " bbbaabbb  ",
+      "bb  aa  b  ",
+      "    aa     ",
+      "    aa     ",
+      "    aabbb  ",
+      "    aabbbb ",
+      "    aab  b ",
+      "    aa     ",
+      "    aa     ",
+      "   aaa     "
+    ],
+    [
+      "           ",
+      "   bbbb    ",
+      "  bbbbbb   ",
+      " bbbaabbb  ",
+      " b  aa  b  ",
+      "    aa     ",
+      "    aa     ",
+      "    aabbb  ",
+      "    aaaaabc",
+      "    aaa ab ",
+      "    aaa    ",
+      "    aa     ",
+      "    aaa    "
+    ],
+    [
+      "           ",
+      "   bbbb    ",
+      "  bbbbbb   ",
+      "bbbbbbbbb  ",
+      " b      b  ",
+      "           ",
+      "           ",
+      "      bbb  ",
+      "      bbbb ",
+      "      c  bc",
+      "           ",
+      "           ",
+      "    aa     "
+    ],
+    [
+      "           ",
+      "           ",
+      "   bbbb    ",
+      " bbbbbbbb  ",
+      " c      c  ",
+      "           ",
+      "           ",
+      "           ",
+      "       bb  ",
+      "       bc  ",
+      "           ",
+      "           ",
+      "           "
+    ],
+    [
+      "           ",
+      "           ",
+      "           ",
+      "  bbbbcb   ",
+      "  bbbcbc   ",
+      "  c        ",
+      "           ",
+      "           ",
+      "       bc  ",
+      "       c   ",
+      "           ",
+      "           ",
+      "           "
+    ],
+    [
+      "           ",
+      "           ",
+      "           ",
+      "           ",
+      "    c      ",
+      "           ",
+      "           ",
+      "           ",
+      "           ",
+      "           ",
+      "           ",
+      "           ",
+      "           "
+    ]
+  ],
+  "version": 4
+}

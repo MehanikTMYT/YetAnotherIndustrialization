@@ -1,0 +1,180 @@
+{
+  "ref": {
+    "a": {
+      "Name": "biomeswevegone:orange_spruce_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "minecraft:spruce_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "c": {
+      "Name": "biomeswevegone:orange_spruce_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "biomeswevegone:orange_spruce_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "biomeswevegone:orange_spruce_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "biomeswevegone:orange_spruce_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "biomeswevegone:orange_spruce_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "  ed   ",
+      "       ",
+      "       ",
+      " fede  ",
+      "       ",
+      "  ede  ",
+      "  e    ",
+      "    e  ",
+      "  e    ",
+      "  e eg ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      " edad  ",
+      "   d   ",
+      "  da   ",
+      " edadef",
+      "  e    ",
+      "  dade ",
+      " eda   ",
+      " e ade ",
+      "  da   ",
+      "  dadf ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "   ca  ",
+      "   c   ",
+      " e ca  ",
+      "     d ",
+      "  acad ",
+      " daca  ",
+      " e c   ",
+      " dacad ",
+      "edaca  ",
+      " daca  ",
+      "  aca  ",
+      "edacaef",
+      "       "
+    ],
+    [
+      "   a   ",
+      "   c   ",
+      "  cb   ",
+      "  cbc  ",
+      " d bcad",
+      " acbca ",
+      "   b de",
+      "dacbc  ",
+      "ed bc  ",
+      "dacbcad",
+      "  cbca ",
+      "  cbcad",
+      " acbca ",
+      "dacbcde",
+      "   b   "
+    ],
+    [
+      "       ",
+      "       ",
+      "       ",
+      "  aca  ",
+      "  acad ",
+      "  aca  ",
+      "    def",
+      "edac   ",
+      "   cade",
+      " daca  ",
+      "  acad ",
+      " dacade",
+      "  a a  ",
+      "  acde ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "  dad  ",
+      "  d    ",
+      "    ef ",
+      " eda   ",
+      "   ad  ",
+      " edad  ",
+      "   ade ",
+      " edade ",
+      "    d  ",
+      "  efe  ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "   d   ",
+      "    e  ",
+      "   d   ",
+      "  ed   ",
+      "   d f ",
+      "       ",
+      "   gf  ",
+      "       "
+    ]
+  ],
+  "version": 4
+}

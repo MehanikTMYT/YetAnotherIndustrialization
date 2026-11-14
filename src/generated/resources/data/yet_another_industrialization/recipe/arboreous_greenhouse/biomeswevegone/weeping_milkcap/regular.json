@@ -11,24 +11,24 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "biomeswevegone:weeping_milkcap",
+      "ingredient": "biomeswevegone:weeping_milkcap",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 1,
-      "item": "biomeswevegone:weeping_milkcap_mushroom_block"
+      "id": "biomeswevegone:weeping_milkcap_mushroom_block"
     },
     {
       "amount": 1,
-      "item": "biomeswevegone:weeping_milkcap",
+      "id": "biomeswevegone:weeping_milkcap",
       "probability": 0.5
     }
   ],

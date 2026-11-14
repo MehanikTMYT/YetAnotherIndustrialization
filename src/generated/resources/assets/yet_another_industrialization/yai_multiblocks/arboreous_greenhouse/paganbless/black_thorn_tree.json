@@ -1,0 +1,75 @@
+{
+  "ref": {
+    "a": {
+      "Name": "paganbless:black_thorn_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "paganbless:black_thorn_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "paganbless:black_thorn_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "paganbless:black_thorn_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "e": {
+      "Name": "paganbless:black_thorn_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "     ",
+      "     ",
+      " abae",
+      "     "
+    ],
+    [
+      "     ",
+      "  ba ",
+      "abcba",
+      "     "
+    ],
+    [
+      "  b  ",
+      " bcb ",
+      "bcdcb",
+      "  d  "
+    ],
+    [
+      "     ",
+      " aba ",
+      "abcba",
+      "     "
+    ],
+    [
+      "     ",
+      "     ",
+      " abae",
+      "     "
+    ]
+  ],
+  "version": 4
+}

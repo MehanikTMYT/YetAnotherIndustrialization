@@ -1,0 +1,134 @@
+{
+  "ref": {
+    "a": {
+      "Name": "productivetrees:pomegranate_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "productivetrees:pomegranate_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "productivetrees:pomegranate_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "productivetrees:pomegranate_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "productivetrees:pomegranate_fruit",
+      "Properties": {
+        "age": "0",
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "productivetrees:pomegranate_leaves",
+      "Properties": {
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "productivetrees:pomegranate_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "h": {
+      "Name": "productivetrees:pomegranate_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "i": {
+      "Name": "productivetrees:pomegranate_log",
+      "Properties": {
+        "axis": "y"
+      }
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      " efecee",
+      " eeeeef",
+      "       ",
+      "       "
+    ],
+    [
+      "  eee  ",
+      "  ebgc ",
+      "eeeghce",
+      "eeeecee",
+      "       ",
+      "       "
+    ],
+    [
+      " febee ",
+      " eedeh ",
+      "effebee",
+      "efeeehc",
+      "       ",
+      "       "
+    ],
+    [
+      " fedee ",
+      " edieg ",
+      "eeeidbe",
+      "feeibgh",
+      "   i   ",
+      "   i   "
+    ],
+    [
+      " egeec ",
+      " ebeeh ",
+      "chgeeee",
+      "acedbeh",
+      "       ",
+      "       "
+    ],
+    [
+      "  eee  ",
+      " egece ",
+      "eeeghce",
+      "eaebeee",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "eeehca ",
+      "eefeeef",
+      "       ",
+      "       "
+    ]
+  ],
+  "version": 4
+}

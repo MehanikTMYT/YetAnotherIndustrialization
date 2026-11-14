@@ -1,0 +1,117 @@
+{
+  "ref": {
+    "a": {
+      "Name": "productivetrees:whitebeam_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "productivetrees:whitebeam_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "productivetrees:whitebeam_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "productivetrees:whitebeam_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "productivetrees:whitebeam_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "productivetrees:whitebeam_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "g": {
+      "Name": "productivetrees:whitebeam_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      " eacaee",
+      " aacaee",
+      "       ",
+      "       "
+    ],
+    [
+      "  cbc  ",
+      "  bdba ",
+      "eacbcae",
+      "accbcae",
+      "       ",
+      "       "
+    ],
+    [
+      " abdba ",
+      " cdgdc ",
+      "acbdbca",
+      "cbbdbca",
+      "       ",
+      "       "
+    ],
+    [
+      " cdgdb ",
+      " bdfgd ",
+      "cbgfdbc",
+      "bddfdbc",
+      "   f   ",
+      "   f   "
+    ],
+    [
+      " abdba ",
+      " cbddc ",
+      "abbgbca",
+      "ccddbbc",
+      "       ",
+      "       "
+    ],
+    [
+      "  ccc  ",
+      " acbca ",
+      "accbcae",
+      "eabdbca",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      " aabae ",
+      " eccca ",
+      "       ",
+      "       "
+    ]
+  ],
+  "version": 4
+}

@@ -5,17 +5,17 @@
   "item_inputs": [
     {
       "amount": 1,
-      "item": "yet_another_industrialization:item_trash_can_hatch"
+      "ingredient": "yet_another_industrialization:item_trash_can_hatch"
     }
   ],
   "item_outputs": [
     {
       "amount": 1,
-      "item": "modern_industrialization:steel_item_output_hatch"
+      "id": "modern_industrialization:steel_item_output_hatch"
     },
     {
       "amount": 1,
-      "item": "modern_industrialization:trash_can"
+      "id": "modern_industrialization:trash_can"
     }
   ]
 }

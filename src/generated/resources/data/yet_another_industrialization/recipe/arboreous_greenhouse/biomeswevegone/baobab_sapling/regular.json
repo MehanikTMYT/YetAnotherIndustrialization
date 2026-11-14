@@ -11,32 +11,32 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "biomeswevegone:baobab_sapling",
+      "ingredient": "biomeswevegone:baobab_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "biomeswevegone:baobab_log"
+      "id": "biomeswevegone:baobab_log"
     },
     {
       "amount": 32,
-      "item": "biomeswevegone:baobab_leaves"
+      "id": "biomeswevegone:baobab_leaves"
     },
     {
       "amount": 1,
-      "item": "biomeswevegone:baobab_fruit"
+      "id": "biomeswevegone:baobab_fruit"
     },
     {
       "amount": 1,
-      "item": "biomeswevegone:baobab_sapling",
+      "id": "biomeswevegone:baobab_sapling",
       "probability": 0.5
     }
   ],

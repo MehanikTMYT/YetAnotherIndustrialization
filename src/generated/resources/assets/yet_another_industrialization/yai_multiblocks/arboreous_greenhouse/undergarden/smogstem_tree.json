@@ -1,0 +1,180 @@
+{
+  "ref": {
+    "a": {
+      "Name": "undergarden:smogstem_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "b": {
+      "Name": "undergarden:smogstem_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "undergarden:smogstem_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "undergarden:smogstem_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "undergarden:smogstem_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "undergarden:smogstem_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "undergarden:smogstem_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      "bbgcgbb",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "  cfc  ",
+      "  fdfc ",
+      "ggcfcgb",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      " cfdfc ",
+      " fdedf ",
+      "ccfdfcg",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "   a   ",
+      "   a   ",
+      "   a   "
+    ],
+    [
+      " fdedf ",
+      " deaed ",
+      "ffdadfc",
+      "   a   ",
+      "   a   ",
+      "   a   ",
+      "   a   ",
+      "   a   ",
+      "   a   ",
+      "   a   ",
+      "   a   ",
+      "   a   ",
+      "  aaa  ",
+      "  aaa  ",
+      "  aaa  "
+    ],
+    [
+      " cfdfc ",
+      " cdedf ",
+      "cffdfcg",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "   a   ",
+      "   a   ",
+      "   a   "
+    ],
+    [
+      "  cfc  ",
+      " gcdf  ",
+      "gcffcgb",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "bgcfcgb",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       ",
+      "       "
+    ]
+  ],
+  "version": 4
+}

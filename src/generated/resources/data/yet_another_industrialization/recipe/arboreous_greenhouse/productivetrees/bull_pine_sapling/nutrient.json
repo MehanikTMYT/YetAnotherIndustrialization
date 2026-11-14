@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:bull_pine_sapling",
+      "ingredient": "productivetrees:bull_pine_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "productivetrees:bull_pine_log"
+      "id": "productivetrees:bull_pine_log"
     },
     {
       "amount": 64,
-      "item": "productivetrees:bull_pine_leaves"
+      "id": "productivetrees:bull_pine_leaves"
     },
     {
       "amount": 1,
-      "item": "productivetrees:bull_pine_sapling"
+      "id": "productivetrees:bull_pine_sapling"
     }
   ],
   "process_conditions": [

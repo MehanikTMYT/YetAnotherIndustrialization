@@ -11,24 +11,24 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "biomeswevegone:wood_blewit",
+      "ingredient": "biomeswevegone:wood_blewit",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 1,
-      "item": "biomeswevegone:brown_mushroom_stem"
+      "id": "biomeswevegone:brown_mushroom_stem"
     },
     {
       "amount": 1,
-      "item": "biomeswevegone:wood_blewit",
+      "id": "biomeswevegone:wood_blewit",
       "probability": 0.5
     }
   ],

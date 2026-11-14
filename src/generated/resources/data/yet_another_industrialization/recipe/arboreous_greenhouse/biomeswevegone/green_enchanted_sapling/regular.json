@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "biomeswevegone:green_enchanted_sapling",
+      "ingredient": "biomeswevegone:green_enchanted_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "biomeswevegone:green_enchanted_log"
+      "id": "biomeswevegone:green_enchanted_log"
     },
     {
       "amount": 32,
-      "item": "biomeswevegone:green_enchanted_leaves"
+      "id": "biomeswevegone:green_enchanted_leaves"
     },
     {
       "amount": 1,
-      "item": "biomeswevegone:green_enchanted_sapling",
+      "id": "biomeswevegone:green_enchanted_sapling",
       "probability": 0.5
     }
   ],

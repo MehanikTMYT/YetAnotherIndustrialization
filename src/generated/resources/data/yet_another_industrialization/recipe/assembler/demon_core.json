@@ -5,17 +5,17 @@
   "item_inputs": [
     {
       "amount": 1,
-      "item": "modern_industrialization:plutonium_block"
+      "ingredient": "modern_industrialization:plutonium_block"
     },
     {
       "amount": 8,
-      "item": "yet_another_industrialization:beryllium_large_plate"
+      "ingredient": "yet_another_industrialization:beryllium_large_plate"
     }
   ],
   "item_outputs": [
     {
       "amount": 1,
-      "item": "yet_another_industrialization:demon_core"
+      "id": "yet_another_industrialization:demon_core"
     }
   ]
 }

@@ -1,4 +1,3 @@
 {
-  "block": "yet_another_industrialization:steel_plated_end_stone_bricks",
-  "loader": "modern_industrialization:use_block_model"
+  "parent": "yet_another_industrialization:block/steel_plated_end_stone_bricks"
 }

@@ -1,0 +1,117 @@
+{
+  "ref": {
+    "a": {
+      "Name": "productivetrees:monkey_puzzle_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "productivetrees:monkey_puzzle_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "productivetrees:monkey_puzzle_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "productivetrees:monkey_puzzle_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "productivetrees:monkey_puzzle_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "productivetrees:monkey_puzzle_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "productivetrees:monkey_puzzle_log",
+      "Properties": {
+        "axis": "y"
+      }
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      " feaeff",
+      "ffeaeff",
+      "       ",
+      "       "
+    ],
+    [
+      "  ece  ",
+      "  aba  ",
+      "feacaef",
+      "eeacaef",
+      "       ",
+      "       "
+    ],
+    [
+      " acbca ",
+      " cbdbc ",
+      "eacbcae",
+      "aacbcaa",
+      "       ",
+      "       "
+    ],
+    [
+      " cbdbc ",
+      " bdgdb ",
+      "acbgbca",
+      "cbbgbcc",
+      "   g   ",
+      "   g   "
+    ],
+    [
+      " acbca ",
+      " cbdbc ",
+      "eacbcae",
+      "acbbcaa",
+      "       ",
+      "       "
+    ],
+    [
+      "  ece  ",
+      "  aba  ",
+      "feacaef",
+      "eacbcae",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "ffeaeff",
+      " eacaef",
+      "       ",
+      "       "
+    ]
+  ],
+  "version": 4
+}

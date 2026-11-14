@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:copper_beech_sapling",
+      "ingredient": "productivetrees:copper_beech_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "productivetrees:copper_beech_log"
+      "id": "productivetrees:copper_beech_log"
     },
     {
       "amount": 64,
-      "item": "productivetrees:copper_beech_sapling"
+      "id": "productivetrees:copper_beech_sapling"
     },
     {
       "amount": 1,
-      "item": "productivetrees:copper_beech_sapling"
+      "id": "productivetrees:copper_beech_sapling"
     }
   ],
   "process_conditions": [

@@ -5,23 +5,23 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "modern_industrialization:sugar_solution"
+      "ingredient": "modern_industrialization:sugar_solution"
     },
     {
       "amount": 51,
-      "fluid": "modern_industrialization:ethanol"
+      "ingredient": "modern_industrialization:ethanol"
     }
   ],
   "item_inputs": [
     {
       "amount": 3,
-      "item": "minecraft:glass_bottle"
+      "ingredient": "minecraft:glass_bottle"
     }
   ],
   "item_outputs": [
     {
       "amount": 3,
-      "item": "yet_another_industrialization:cachaca"
+      "id": "yet_another_industrialization:cachaca"
     }
   ]
 }

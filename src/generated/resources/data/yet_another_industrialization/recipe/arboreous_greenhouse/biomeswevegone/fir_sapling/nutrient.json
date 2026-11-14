@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "biomeswevegone:fir_sapling",
+      "ingredient": "biomeswevegone:fir_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "biomeswevegone:fir_log"
+      "id": "biomeswevegone:fir_log"
     },
     {
       "amount": 64,
-      "item": "biomeswevegone:fir_leaves"
+      "id": "biomeswevegone:fir_leaves"
     },
     {
       "amount": 1,
-      "item": "biomeswevegone:fir_sapling"
+      "id": "biomeswevegone:fir_sapling"
     }
   ],
   "process_conditions": [

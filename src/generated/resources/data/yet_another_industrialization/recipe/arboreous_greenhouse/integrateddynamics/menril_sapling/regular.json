@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "integrateddynamics:menril_sapling",
+      "ingredient": "integrateddynamics:menril_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "integrateddynamics:menril_log"
+      "id": "integrateddynamics:menril_log"
     },
     {
       "amount": 32,
-      "item": "integrateddynamics:menril_leaves"
+      "id": "integrateddynamics:menril_leaves"
     },
     {
       "amount": 1,
-      "item": "integrateddynamics:menril_sapling",
+      "id": "integrateddynamics:menril_sapling",
       "probability": 0.5
     }
   ],

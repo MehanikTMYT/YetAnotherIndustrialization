@@ -11,32 +11,32 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "twilightforest:transformation_sapling",
+      "ingredient": "twilightforest:transformation_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "twilightforest:transformation_log"
+      "id": "twilightforest:transformation_log"
     },
     {
       "amount": 64,
-      "item": "twilightforest:transformation_leaves"
+      "id": "twilightforest:transformation_leaves"
     },
     {
       "amount": 2,
-      "item": "twilightforest:transformation_log"
+      "id": "twilightforest:transformation_log"
     },
     {
       "amount": 1,
-      "item": "twilightforest:transformation_sapling"
+      "id": "twilightforest:transformation_sapling"
     }
   ],
   "process_conditions": [

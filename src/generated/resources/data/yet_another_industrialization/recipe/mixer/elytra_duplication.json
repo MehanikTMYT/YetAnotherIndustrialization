@@ -5,23 +5,23 @@
   "fluid_inputs": [
     {
       "amount": 2000,
-      "fluid": "yet_another_industrialization:dragon_breath"
+      "ingredient": "yet_another_industrialization:dragon_breath"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "minecraft:elytra"
+      "ingredient": "minecraft:elytra"
     },
     {
       "amount": 4,
-      "item": "minecraft:phantom_membrane"
+      "ingredient": "minecraft:phantom_membrane"
     }
   ],
   "item_outputs": [
     {
       "amount": 2,
-      "item": "minecraft:elytra"
+      "id": "minecraft:elytra"
     }
   ]
 }

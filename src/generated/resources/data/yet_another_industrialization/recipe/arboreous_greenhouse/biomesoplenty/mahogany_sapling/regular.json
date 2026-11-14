@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "biomesoplenty:mahogany_sapling",
+      "ingredient": "biomesoplenty:mahogany_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "biomesoplenty:mahogany_log"
+      "id": "biomesoplenty:mahogany_log"
     },
     {
       "amount": 32,
-      "item": "biomesoplenty:mahogany_leaves"
+      "id": "biomesoplenty:mahogany_leaves"
     },
     {
       "amount": 1,
-      "item": "biomesoplenty:mahogany_sapling",
+      "id": "biomesoplenty:mahogany_sapling",
       "probability": 0.5
     }
   ],

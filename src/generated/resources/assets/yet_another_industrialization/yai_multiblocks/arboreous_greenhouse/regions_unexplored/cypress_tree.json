@@ -1,0 +1,234 @@
+{
+  "ref": {
+    "a": {
+      "Name": "regions_unexplored:cypress_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "b": {
+      "Name": "regions_unexplored:cypress_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "regions_unexplored:cypress_log",
+      "Properties": {
+        "axis": "z"
+      }
+    },
+    "d": {
+      "Name": "regions_unexplored:cypress_log",
+      "Properties": {
+        "axis": "x"
+      }
+    },
+    "e": {
+      "Name": "regions_unexplored:cypress_branch",
+      "Properties": {
+        "facing": "east"
+      }
+    },
+    "f": {
+      "Name": "regions_unexplored:cypress_branch",
+      "Properties": {
+        "facing": "west"
+      }
+    }
+  },
+  "shape": [
+    [
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "   bbb   ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "    b    ",
+      "  bbbbb  ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "   bbb   ",
+      "         ",
+      "         ",
+      " bbb     ",
+      "         ",
+      "    b    ",
+      "         ",
+      "         ",
+      "         ",
+      "     bbb ",
+      "         ",
+      "   bbb   ",
+      "  bbdbb  ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "    b    ",
+      "  bbbbb  ",
+      "         ",
+      "  b      ",
+      "bbbbb    ",
+      "    b    ",
+      "   beb   ",
+      "         ",
+      "         ",
+      "      b  ",
+      "    bbbbb",
+      "         ",
+      "    b    ",
+      "  bbdbb  ",
+      "         ",
+      "         ",
+      "         ",
+      "    a    ",
+      "    a    "
+    ],
+    [
+      "   bbb   ",
+      "  bbabb  ",
+      "    a    ",
+      " bbba    ",
+      "bbcca    ",
+      "    a    ",
+      "    a    ",
+      "   bab   ",
+      "    a    ",
+      "    abbb ",
+      "    accbb",
+      "    a    ",
+      "    a    ",
+      "   bab   ",
+      "    a    ",
+      "    a    ",
+      "    a    ",
+      "   aa    ",
+      "   aaa   "
+    ],
+    [
+      "    b    ",
+      "  bbbbb  ",
+      "         ",
+      "  b      ",
+      "bbbbb    ",
+      "   bfb   ",
+      "    b    ",
+      "  bbdbb  ",
+      "         ",
+      "      b  ",
+      "    bbbbb",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "    a    "
+    ],
+    [
+      "         ",
+      "   bbb   ",
+      "         ",
+      "         ",
+      " bbb     ",
+      "    b    ",
+      "   bbb   ",
+      "  bbdbb  ",
+      "         ",
+      "         ",
+      "     bbb ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "    b    ",
+      "  bbbbb  ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    [
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "   bbb   ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ]
+  ],
+  "version": 4
+}

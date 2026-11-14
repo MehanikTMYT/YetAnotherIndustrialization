@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 500,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "biomesoplenty:palm_sapling",
+      "ingredient": "biomesoplenty:palm_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "biomesoplenty:palm_log"
+      "id": "biomesoplenty:palm_log"
     },
     {
       "amount": 64,
-      "item": "biomesoplenty:palm_leaves"
+      "id": "biomesoplenty:palm_leaves"
     },
     {
       "amount": 1,
-      "item": "biomesoplenty:palm_sapling"
+      "id": "biomesoplenty:palm_sapling"
     }
   ],
   "process_conditions": [

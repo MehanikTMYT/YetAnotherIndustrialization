@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "undergarden:wigglewood_sapling",
+      "ingredient": "undergarden:wigglewood_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "undergarden:wigglewood_log"
+      "id": "undergarden:wigglewood_log"
     },
     {
       "amount": 32,
-      "item": "undergarden:wigglewood_leaves"
+      "id": "undergarden:wigglewood_leaves"
     },
     {
       "amount": 1,
-      "item": "undergarden:wigglewood_sapling",
+      "id": "undergarden:wigglewood_sapling",
       "probability": 0.5
     }
   ],

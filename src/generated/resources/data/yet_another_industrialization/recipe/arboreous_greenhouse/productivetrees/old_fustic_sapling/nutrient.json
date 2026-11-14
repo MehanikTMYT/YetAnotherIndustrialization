@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:old_fustic_sapling",
+      "ingredient": "productivetrees:old_fustic_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "productivetrees:old_fustic_log"
+      "id": "productivetrees:old_fustic_log"
     },
     {
       "amount": 64,
-      "item": "productivetrees:old_fustic_leaves"
+      "id": "productivetrees:old_fustic_leaves"
     },
     {
       "amount": 1,
-      "item": "productivetrees:old_fustic_sapling"
+      "id": "productivetrees:old_fustic_sapling"
     }
   ],
   "process_conditions": [

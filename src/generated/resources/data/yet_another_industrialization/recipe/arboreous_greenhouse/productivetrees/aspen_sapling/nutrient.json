@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:aspen_sapling",
+      "ingredient": "productivetrees:aspen_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "productivetrees:aspen_log"
+      "id": "productivetrees:aspen_log"
     },
     {
       "amount": 64,
-      "item": "productivetrees:aspen_leaves"
+      "id": "productivetrees:aspen_leaves"
     },
     {
       "amount": 1,
-      "item": "productivetrees:aspen_sapling"
+      "id": "productivetrees:aspen_sapling"
     }
   ],
   "process_conditions": [

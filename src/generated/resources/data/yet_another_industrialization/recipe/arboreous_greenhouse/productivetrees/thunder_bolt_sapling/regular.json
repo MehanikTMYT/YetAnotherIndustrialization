@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:thunder_bolt_sapling",
+      "ingredient": "productivetrees:thunder_bolt_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "productivetrees:thunder_bolt_log"
+      "id": "productivetrees:thunder_bolt_log"
     },
     {
       "amount": 32,
-      "item": "productivetrees:thunder_bolt_leaves"
+      "id": "productivetrees:thunder_bolt_leaves"
     },
     {
       "amount": 1,
-      "item": "productivetrees:thunder_bolt_sapling",
+      "id": "productivetrees:thunder_bolt_sapling",
       "probability": 0.5
     }
   ],

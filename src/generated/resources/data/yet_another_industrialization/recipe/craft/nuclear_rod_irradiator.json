@@ -2,18 +2,10 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "H": {
-      "item": "modern_industrialization:highly_advanced_machine_hull"
-    },
-    "N": {
-      "item": "modern_industrialization:nuclear_alloy_large_plate"
-    },
-    "P": {
-      "item": "modern_industrialization:plutonium_dust"
-    },
-    "U": {
-      "item": "modern_industrialization:processing_unit"
-    }
+    "H": "modern_industrialization:highly_advanced_machine_hull",
+    "N": "modern_industrialization:nuclear_alloy_large_plate",
+    "P": "modern_industrialization:plutonium_dust",
+    "U": "modern_industrialization:processing_unit"
   },
   "pattern": [
     "NUN",

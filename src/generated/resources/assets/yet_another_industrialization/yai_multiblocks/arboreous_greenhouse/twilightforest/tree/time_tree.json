@@ -1,0 +1,232 @@
+{
+  "ref": {
+    "a": {
+      "Name": "twilightforest:time_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "twilightforest:time_wood",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "c": {
+      "Name": "twilightforest:time_leaves",
+      "Properties": {
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "twilightforest:time_log",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "e": {
+      "Name": "twilightforest:time_log_core",
+      "Properties": {
+        "active": "false",
+        "axis": "y"
+      }
+    },
+    "f": {
+      "Name": "minecraft:vine",
+      "Properties": {
+        "east": "true",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false"
+      }
+    }
+  },
+  "shape": [
+    [
+      "             ",
+      "     aaa     ",
+      "     aaa     ",
+      "  aaaaaa     ",
+      "  aaa        ",
+      "  aaa        ",
+      "  aa         ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "     aa      ",
+      "    aaaaa    ",
+      "   aaaaaa    ",
+      " aaaaaaa     ",
+      " aaaaaaa     ",
+      " aaaaa       ",
+      "  aaaa       ",
+      "  aaa        ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "     aaa     ",
+      "    aaaaa    ",
+      "  aaaabaa    ",
+      " caaaaaaa    ",
+      " aabaaaaa    ",
+      " aabaaaa     ",
+      " aabaa       ",
+      "  aaa     a  ",
+      "         aaa ",
+      "          aa ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "     aa      ",
+      "  caaaaaa    ",
+      "  aaaaaaa    ",
+      "  aaaabaa    ",
+      " aaababaaa   ",
+      " aaabaaaaa   ",
+      " aaabc a aa  ",
+      "  aab  aaaaaa",
+      "   aac aaaaaa",
+      "   aa   aaaaa",
+      "         aaa ",
+      "             ",
+      "             "
+    ],
+    [
+      "  aaa        ",
+      "  aaaaaa a   ",
+      " aaaaaaaaaa  ",
+      " caaaaaaaa   ",
+      "  aaaaabaa   ",
+      "  aaaabbaa   ",
+      "  aaadddaaaa ",
+      " aaaadddaaaaa",
+      " aaaadddaabaa",
+      " aaaadddabaaa",
+      "   aadddaaaa ",
+      "     ddd     ",
+      "     bdd     "
+    ],
+    [
+      "  aaa        ",
+      " aaaaa  aaa  ",
+      " aabaaaaaba  ",
+      " aaabaaabac  ",
+      "  aabbaaba   ",
+      "   aababa    ",
+      " aaaadadaaaa ",
+      "aaaaadadaaaaa",
+      "aaaabdadbaaaa",
+      "aaabbdcdbbaac",
+      " aaaadfdaaac ",
+      "     dfd     ",
+      "     dfd     "
+    ],
+    [
+      "  caa        ",
+      " aaaaaaa a   ",
+      " caaaaaaaac  ",
+      " aaaaaaaaa   ",
+      "   aaabaaa   ",
+      "    aabaaaa  ",
+      " aaaadddaa   ",
+      "aaaaadddaaaa ",
+      "aabbadddaaaa ",
+      "aaabadddaaac ",
+      " aaacdddac   ",
+      "     ddd     ",
+      "     bed     "
+    ],
+    [
+      "     aaa     ",
+      "  aaaaaaa    ",
+      "  aaaaaaa    ",
+      "   aaabaaa   ",
+      "    aabaaaaa ",
+      "    aaaaabaa ",
+      " aa  aabbaaa ",
+      "aaaaaaaaba   ",
+      "aaaaaaaaaa   ",
+      "aaaaaaaaac   ",
+      " ac   ac     ",
+      "             ",
+      "             "
+    ],
+    [
+      "     aaa     ",
+      "    aaaaa    ",
+      "    aabaa    ",
+      "    aaaaaaa  ",
+      "     aaaaaaaa",
+      "      aaabaaa",
+      "      aaabaaa",
+      " aaa  aaaaaa ",
+      " aaa  aac    ",
+      "  ac   c     ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "      aa     ",
+      "    aaaaa    ",
+      "    aaaaa    ",
+      "    aaaaaaaa ",
+      "     aaaaaaaa",
+      "       aaabaa",
+      "       aaaaaa",
+      "        aaaa ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "             ",
+      "      aa     ",
+      "     aaa     ",
+      "      ac  a  ",
+      "        aaaa ",
+      "        aaaaa",
+      "         aaac",
+      "         aac ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ],
+    [
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "         aaa ",
+      "         aaa ",
+      "         aac ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             ",
+      "             "
+    ]
+  ],
+  "version": 4
+}

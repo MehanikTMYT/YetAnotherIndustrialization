@@ -1,0 +1,134 @@
+{
+  "ref": {
+    "a": {
+      "Name": "productivetrees:grapefruit_fruit",
+      "Properties": {
+        "age": "0",
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "b": {
+      "Name": "productivetrees:grapefruit_leaves",
+      "Properties": {
+        "distance": "2",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "c": {
+      "Name": "productivetrees:grapefruit_leaves",
+      "Properties": {
+        "distance": "1",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "d": {
+      "Name": "productivetrees:grapefruit_leaves",
+      "Properties": {
+        "distance": "4",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "e": {
+      "Name": "productivetrees:grapefruit_leaves",
+      "Properties": {
+        "distance": "6",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "f": {
+      "Name": "productivetrees:grapefruit_leaves",
+      "Properties": {
+        "distance": "5",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "g": {
+      "Name": "productivetrees:grapefruit_leaves",
+      "Properties": {
+        "distance": "3",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "h": {
+      "Name": "productivetrees:grapefruit_leaves",
+      "Properties": {
+        "distance": "7",
+        "persistent": "false",
+        "waterlogged": "false"
+      }
+    },
+    "i": {
+      "Name": "productivetrees:grapefruit_log",
+      "Properties": {
+        "axis": "y"
+      }
+    }
+  },
+  "shape": [
+    [
+      "       ",
+      "       ",
+      " adaaha",
+      "haaaha ",
+      "       ",
+      "       "
+    ],
+    [
+      "  fah  ",
+      "  dgaa ",
+      "fdgbgaa",
+      "eadgaaa",
+      "       ",
+      "       "
+    ],
+    [
+      " haaah ",
+      " aaaaa ",
+      "aaacahh",
+      "aaabaaa",
+      "       ",
+      "       "
+    ],
+    [
+      " abaeh ",
+      " aciah ",
+      "aaaiaaa",
+      "haciaah",
+      "   i   ",
+      "   i   "
+    ],
+    [
+      " agdfa ",
+      " gbaah ",
+      "adgahhh",
+      "aaaahaa",
+      "       ",
+      "       "
+    ],
+    [
+      "  dfa  ",
+      " dgaaa ",
+      "afdfeaa",
+      "aaaeaah",
+      "       ",
+      "       "
+    ],
+    [
+      "       ",
+      "       ",
+      "heaehh ",
+      " aaaaaa",
+      "       ",
+      "       "
+    ]
+  ],
+  "version": 4
+}

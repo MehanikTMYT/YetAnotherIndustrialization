@@ -5,23 +5,23 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:lava"
+      "ingredient": "minecraft:lava"
     },
     {
       "amount": 2,
-      "fluid": "modern_industrialization:cryofluid"
+      "ingredient": "modern_industrialization:cryofluid"
     }
   ],
   "fluid_outputs": [
     {
       "amount": 1,
-      "fluid": "modern_industrialization:argon"
+      "id": "modern_industrialization:argon"
     }
   ],
   "item_outputs": [
     {
       "amount": 4,
-      "item": "minecraft:crying_obsidian"
+      "id": "minecraft:crying_obsidian"
     }
   ]
 }

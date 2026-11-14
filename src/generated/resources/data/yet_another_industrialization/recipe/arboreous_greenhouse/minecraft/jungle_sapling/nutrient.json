@@ -11,32 +11,32 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "minecraft:jungle_sapling",
+      "ingredient": "minecraft:jungle_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "minecraft:jungle_log"
+      "id": "minecraft:jungle_log"
     },
     {
       "amount": 64,
-      "item": "minecraft:jungle_leaves"
+      "id": "minecraft:jungle_leaves"
     },
     {
       "amount": 2,
-      "item": "minecraft:vine"
+      "id": "minecraft:vine"
     },
     {
       "amount": 1,
-      "item": "minecraft:jungle_sapling"
+      "id": "minecraft:jungle_sapling"
     }
   ],
   "process_conditions": [

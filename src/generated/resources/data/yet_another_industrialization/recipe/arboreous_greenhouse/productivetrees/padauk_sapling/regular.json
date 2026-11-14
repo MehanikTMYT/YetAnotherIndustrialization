@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "productivetrees:padauk_sapling",
+      "ingredient": "productivetrees:padauk_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "productivetrees:padauk_log"
+      "id": "productivetrees:padauk_log"
     },
     {
       "amount": 32,
-      "item": "productivetrees:padauk_leaves"
+      "id": "productivetrees:padauk_leaves"
     },
     {
       "amount": 1,
-      "item": "productivetrees:padauk_sapling",
+      "id": "productivetrees:padauk_sapling",
       "probability": 0.5
     }
   ],

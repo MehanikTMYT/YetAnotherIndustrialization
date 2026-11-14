@@ -5,27 +5,27 @@
   "fluid_inputs": [
     {
       "amount": 4000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     },
     {
       "amount": 64,
-      "fluid": "modern_industrialization:cryofluid"
+      "ingredient": "modern_industrialization:cryofluid"
     }
   ],
   "fluid_outputs": [
     {
       "amount": 41,
-      "fluid": "modern_industrialization:argon"
+      "id": "modern_industrialization:argon"
     },
     {
       "amount": 16,
-      "fluid": "modern_industrialization:helium"
+      "id": "modern_industrialization:helium"
     }
   ],
   "item_outputs": [
     {
       "amount": 1,
-      "item": "minecraft:blue_ice"
+      "id": "minecraft:blue_ice"
     }
   ]
 }

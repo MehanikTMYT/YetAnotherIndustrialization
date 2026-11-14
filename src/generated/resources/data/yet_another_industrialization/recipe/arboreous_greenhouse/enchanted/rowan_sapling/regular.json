@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "minecraft:water"
+      "ingredient": "minecraft:water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "enchanted:rowan_sapling",
+      "ingredient": "enchanted:rowan_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 16,
-      "item": "enchanted:rowan_log"
+      "id": "enchanted:rowan_log"
     },
     {
       "amount": 32,
-      "item": "enchanted:rowan_leaves"
+      "id": "enchanted:rowan_leaves"
     },
     {
       "amount": 1,
-      "item": "enchanted:rowan_sapling",
+      "id": "enchanted:rowan_sapling",
       "probability": 0.5
     }
   ],

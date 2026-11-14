@@ -11,28 +11,28 @@
   "fluid_inputs": [
     {
       "amount": 1000,
-      "fluid": "yet_another_industrialization:nutrient_rich_water"
+      "ingredient": "yet_another_industrialization:nutrient_rich_water"
     }
   ],
   "item_inputs": [
     {
       "amount": 1,
-      "item": "sushigocrafting:avocado_sapling",
+      "ingredient": "sushigocrafting:avocado_sapling",
       "probability": 0.0
     }
   ],
   "item_outputs": [
     {
       "amount": 32,
-      "item": "sushigocrafting:avocado_log"
+      "id": "sushigocrafting:avocado_log"
     },
     {
       "amount": 64,
-      "item": "sushigocrafting:avocado_leaves"
+      "id": "sushigocrafting:avocado_leaves"
     },
     {
       "amount": 1,
-      "item": "sushigocrafting:avocado_sapling"
+      "id": "sushigocrafting:avocado_sapling"
     }
   ],
   "process_conditions": [
