@@ -7,17 +7,21 @@
     }
   },
   "blockstates/large_storage_unit_input_hatch.json": {
-    "casing": "yet_another_industrialization:battery_casing",
-    "default_overlays": {
-      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
-      "front": "yet_another_industrialization:block/machines/large_storage_unit_hatch/overlay_front",
-      "item_auto": "modern_industrialization:block/overlays/item_auto",
-      "output": "modern_industrialization:block/overlays/output",
-      "side": "yet_another_industrialization:block/machines/large_storage_unit_hatch/overlay_side"
-    },
-    "type": "modern_industrialization:machine",
-    "tiered_overlays": {},
-    "no_overlay_on_output_side": false
+    "variants": {
+      "": {
+        "casing": "yet_another_industrialization:battery_casing",
+        "default_overlays": {
+          "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+          "front": "yet_another_industrialization:block/machines/large_storage_unit_hatch/overlay_front",
+          "item_auto": "modern_industrialization:block/overlays/item_auto",
+          "output": "modern_industrialization:block/overlays/output",
+          "side": "yet_another_industrialization:block/machines/large_storage_unit_hatch/overlay_side"
+        },
+        "type": "modern_industrialization:machine",
+        "tiered_overlays": {},
+        "no_overlay_on_output_side": false
+      }
+    }
   },
   "items/large_storage_unit_input_hatch.json": {
     "model": {
@@ -26,17 +30,21 @@
     }
   },
   "blockstates/highly_advanced_mixed_output_hatch.json": {
-    "casing": "modern_industrialization:ev",
-    "default_overlays": {
-      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
-      "front": "yet_another_industrialization:block/machines/mixed_hatch/overlay_front",
-      "item_auto": "modern_industrialization:block/overlays/item_auto",
-      "output": "yet_another_industrialization:block/overlays/output_mixed",
-      "side": "yet_another_industrialization:block/machines/mixed_hatch/overlay_side"
-    },
-    "type": "modern_industrialization:machine",
-    "tiered_overlays": {},
-    "no_overlay_on_output_side": false
+    "variants": {
+      "": {
+        "casing": "modern_industrialization:ev",
+        "default_overlays": {
+          "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+          "front": "yet_another_industrialization:block/machines/mixed_hatch/overlay_front",
+          "item_auto": "modern_industrialization:block/overlays/item_auto",
+          "output": "yet_another_industrialization:block/overlays/output_mixed",
+          "side": "yet_another_industrialization:block/machines/mixed_hatch/overlay_side"
+        },
+        "type": "modern_industrialization:machine",
+        "tiered_overlays": {},
+        "no_overlay_on_output_side": false
+      }
+    }
   },
   "items/highly_advanced_mixed_output_hatch.json": {
     "model": {
@@ -45,17 +53,21 @@
     }
   },
   "blockstates/cryogenic_precipitator.json": {
-    "casing": "modern_industrialization:lv",
-    "default_overlays": {
-      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
-      "front": "yet_another_industrialization:block/machines/cryogenic_precipitator/overlay_front",
-      "front_active": "yet_another_industrialization:block/machines/cryogenic_precipitator/overlay_front_active",
-      "item_auto": "modern_industrialization:block/overlays/item_auto",
-      "output": "modern_industrialization:block/overlays/output"
-    },
-    "type": "modern_industrialization:machine",
-    "tiered_overlays": {},
-    "no_overlay_on_output_side": false
+    "variants": {
+      "": {
+        "casing": "modern_industrialization:lv",
+        "default_overlays": {
+          "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+          "front": "yet_another_industrialization:block/machines/cryogenic_precipitator/overlay_front",
+          "front_active": "yet_another_industrialization:block/machines/cryogenic_precipitator/overlay_front_active",
+          "item_auto": "modern_industrialization:block/overlays/item_auto",
+          "output": "modern_industrialization:block/overlays/output"
+        },
+        "type": "modern_industrialization:machine",
+        "tiered_overlays": {},
+        "no_overlay_on_output_side": false
+      }
+    }
   },
   "items/cryogenic_precipitator.json": {
     "model": {
@@ -71,17 +83,21 @@
     }
   },
   "blockstates/steel_mixed_input_hatch.json": {
-    "casing": "modern_industrialization:steel",
-    "default_overlays": {
-      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
-      "front": "yet_another_industrialization:block/machines/mixed_hatch/overlay_front",
-      "item_auto": "modern_industrialization:block/overlays/item_auto",
-      "output": "yet_another_industrialization:block/overlays/output_mixed",
-      "side": "yet_another_industrialization:block/machines/mixed_hatch/overlay_side"
-    },
-    "type": "modern_industrialization:machine",
-    "tiered_overlays": {},
-    "no_overlay_on_output_side": false
+    "variants": {
+      "": {
+        "casing": "modern_industrialization:steel",
+        "default_overlays": {
+          "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+          "front": "yet_another_industrialization:block/machines/mixed_hatch/overlay_front",
+          "item_auto": "modern_industrialization:block/overlays/item_auto",
+          "output": "yet_another_industrialization:block/overlays/output_mixed",
+          "side": "yet_another_industrialization:block/machines/mixed_hatch/overlay_side"
+        },
+        "type": "modern_industrialization:machine",
+        "tiered_overlays": {},
+        "no_overlay_on_output_side": false
+      }
+    }
   },
   "items/steel_mixed_input_hatch.json": {
     "model": {
@@ -90,17 +106,21 @@
     }
   },
   "blockstates/advanced_mixed_output_hatch.json": {
-    "casing": "modern_industrialization:mv",
-    "default_overlays": {
-      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
-      "front": "yet_another_industrialization:block/machines/mixed_hatch/overlay_front",
-      "item_auto": "modern_industrialization:block/overlays/item_auto",
-      "output": "yet_another_industrialization:block/overlays/output_mixed",
-      "side": "yet_another_industrialization:block/machines/mixed_hatch/overlay_side"
-    },
-    "type": "modern_industrialization:machine",
-    "tiered_overlays": {},
-    "no_overlay_on_output_side": false
+    "variants": {
+      "": {
+        "casing": "modern_industrialization:mv",
+        "default_overlays": {
+          "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+          "front": "yet_another_industrialization:block/machines/mixed_hatch/overlay_front",
+          "item_auto": "modern_industrialization:block/overlays/item_auto",
+          "output": "yet_another_industrialization:block/overlays/output_mixed",
+          "side": "yet_another_industrialization:block/machines/mixed_hatch/overlay_side"
+        },
+        "type": "modern_industrialization:machine",
+        "tiered_overlays": {},
+        "no_overlay_on_output_side": false
+      }
+    }
   },
   "items/advanced_mixed_output_hatch.json": {
     "model": {
@@ -109,17 +129,21 @@
     }
   },
   "blockstates/numismatic_generator.json": {
-    "casing": "modern_industrialization:steel",
-    "default_overlays": {
-      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
-      "front": "yet_another_industrialization:block/machines/numismatic_generator/overlay_front",
-      "front_active": "yet_another_industrialization:block/machines/numismatic_generator/overlay_front_active",
-      "item_auto": "modern_industrialization:block/overlays/item_auto",
-      "output": "modern_industrialization:block/overlays/output"
-    },
-    "type": "modern_industrialization:machine",
-    "tiered_overlays": {},
-    "no_overlay_on_output_side": false
+    "variants": {
+      "": {
+        "casing": "modern_industrialization:steel",
+        "default_overlays": {
+          "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+          "front": "yet_another_industrialization:block/machines/numismatic_generator/overlay_front",
+          "front_active": "yet_another_industrialization:block/machines/numismatic_generator/overlay_front_active",
+          "item_auto": "modern_industrialization:block/overlays/item_auto",
+          "output": "modern_industrialization:block/overlays/output"
+        },
+        "type": "modern_industrialization:machine",
+        "tiered_overlays": {},
+        "no_overlay_on_output_side": false
+      }
+    }
   },
   "items/numismatic_generator.json": {
     "model": {
@@ -128,17 +152,21 @@
     }
   },
   "blockstates/arboreous_greenhouse.json": {
-    "casing": "modern_industrialization:heatproof_machine_casing",
-    "default_overlays": {
-      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
-      "front": "yet_another_industrialization:block/machines/arboreous_greenhouse/overlay_front",
-      "front_active": "yet_another_industrialization:block/machines/arboreous_greenhouse/overlay_front_active",
-      "item_auto": "modern_industrialization:block/overlays/item_auto",
-      "output": "modern_industrialization:block/overlays/output"
-    },
-    "type": "modern_industrialization:machine",
-    "tiered_overlays": {},
-    "no_overlay_on_output_side": false
+    "variants": {
+      "": {
+        "casing": "modern_industrialization:heatproof_machine_casing",
+        "default_overlays": {
+          "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+          "front": "yet_another_industrialization:block/machines/arboreous_greenhouse/overlay_front",
+          "front_active": "yet_another_industrialization:block/machines/arboreous_greenhouse/overlay_front_active",
+          "item_auto": "modern_industrialization:block/overlays/item_auto",
+          "output": "modern_industrialization:block/overlays/output"
+        },
+        "type": "modern_industrialization:machine",
+        "tiered_overlays": {},
+        "no_overlay_on_output_side": false
+      }
+    }
   },
   "items/arboreous_greenhouse.json": {
     "model": {
@@ -147,17 +175,21 @@
     }
   },
   "blockstates/highly_advanced_mixed_input_hatch.json": {
-    "casing": "modern_industrialization:ev",
-    "default_overlays": {
-      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
-      "front": "yet_another_industrialization:block/machines/mixed_hatch/overlay_front",
-      "item_auto": "modern_industrialization:block/overlays/item_auto",
-      "output": "yet_another_industrialization:block/overlays/output_mixed",
-      "side": "yet_another_industrialization:block/machines/mixed_hatch/overlay_side"
-    },
-    "type": "modern_industrialization:machine",
-    "tiered_overlays": {},
-    "no_overlay_on_output_side": false
+    "variants": {
+      "": {
+        "casing": "modern_industrialization:ev",
+        "default_overlays": {
+          "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+          "front": "yet_another_industrialization:block/machines/mixed_hatch/overlay_front",
+          "item_auto": "modern_industrialization:block/overlays/item_auto",
+          "output": "yet_another_industrialization:block/overlays/output_mixed",
+          "side": "yet_another_industrialization:block/machines/mixed_hatch/overlay_side"
+        },
+        "type": "modern_industrialization:machine",
+        "tiered_overlays": {},
+        "no_overlay_on_output_side": false
+      }
+    }
   },
   "items/highly_advanced_mixed_input_hatch.json": {
     "model": {
@@ -166,15 +198,19 @@
     }
   },
   "blockstates/detonation_chamber_casing.json": {
-    "casing": "yet_another_industrialization:detonation_chamber_casing",
-    "default_overlays": {
-      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
-      "item_auto": "modern_industrialization:block/overlays/item_auto",
-      "output": "modern_industrialization:block/overlays/output"
-    },
-    "type": "modern_industrialization:machine",
-    "tiered_overlays": {},
-    "no_overlay_on_output_side": false
+    "variants": {
+      "": {
+        "casing": "yet_another_industrialization:detonation_chamber_casing",
+        "default_overlays": {
+          "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+          "item_auto": "modern_industrialization:block/overlays/item_auto",
+          "output": "modern_industrialization:block/overlays/output"
+        },
+        "type": "modern_industrialization:machine",
+        "tiered_overlays": {},
+        "no_overlay_on_output_side": false
+      }
+    }
   },
   "items/detonation_chamber_casing.json": {
     "model": {
@@ -183,17 +219,21 @@
     }
   },
   "blockstates/bronze_mixed_output_hatch.json": {
-    "casing": "modern_industrialization:bronze",
-    "default_overlays": {
-      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
-      "front": "yet_another_industrialization:block/machines/mixed_hatch/overlay_front",
-      "item_auto": "modern_industrialization:block/overlays/item_auto",
-      "output": "yet_another_industrialization:block/overlays/output_mixed",
-      "side": "yet_another_industrialization:block/machines/mixed_hatch/overlay_side"
-    },
-    "type": "modern_industrialization:machine",
-    "tiered_overlays": {},
-    "no_overlay_on_output_side": false
+    "variants": {
+      "": {
+        "casing": "modern_industrialization:bronze",
+        "default_overlays": {
+          "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+          "front": "yet_another_industrialization:block/machines/mixed_hatch/overlay_front",
+          "item_auto": "modern_industrialization:block/overlays/item_auto",
+          "output": "yet_another_industrialization:block/overlays/output_mixed",
+          "side": "yet_another_industrialization:block/machines/mixed_hatch/overlay_side"
+        },
+        "type": "modern_industrialization:machine",
+        "tiered_overlays": {},
+        "no_overlay_on_output_side": false
+      }
+    }
   },
   "items/bronze_mixed_output_hatch.json": {
     "model": {
@@ -202,17 +242,21 @@
     }
   },
   "blockstates/item_trash_can_hatch.json": {
-    "casing": "modern_industrialization:steel",
-    "default_overlays": {
-      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
-      "front": "yet_another_industrialization:block/machines/item_trash_can_hatch/overlay_front",
-      "item_auto": "modern_industrialization:block/overlays/item_auto",
-      "output": "modern_industrialization:block/overlays/output",
-      "side": "yet_another_industrialization:block/machines/item_trash_can_hatch/overlay_side"
-    },
-    "type": "modern_industrialization:machine",
-    "tiered_overlays": {},
-    "no_overlay_on_output_side": false
+    "variants": {
+      "": {
+        "casing": "modern_industrialization:steel",
+        "default_overlays": {
+          "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+          "front": "yet_another_industrialization:block/machines/item_trash_can_hatch/overlay_front",
+          "item_auto": "modern_industrialization:block/overlays/item_auto",
+          "output": "modern_industrialization:block/overlays/output",
+          "side": "yet_another_industrialization:block/machines/item_trash_can_hatch/overlay_side"
+        },
+        "type": "modern_industrialization:machine",
+        "tiered_overlays": {},
+        "no_overlay_on_output_side": false
+      }
+    }
   },
   "items/item_trash_can_hatch.json": {
     "model": {
@@ -235,15 +279,19 @@
     }
   },
   "blockstates/configurable_mixed_storage.json": {
-    "casing": "yet_another_industrialization:configurable_mixed_storage",
-    "default_overlays": {
-      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
-      "item_auto": "modern_industrialization:block/overlays/item_auto",
-      "output": "modern_industrialization:block/overlays/output"
-    },
-    "type": "modern_industrialization:machine",
-    "tiered_overlays": {},
-    "no_overlay_on_output_side": false
+    "variants": {
+      "": {
+        "casing": "yet_another_industrialization:configurable_mixed_storage",
+        "default_overlays": {
+          "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+          "item_auto": "modern_industrialization:block/overlays/item_auto",
+          "output": "modern_industrialization:block/overlays/output"
+        },
+        "type": "modern_industrialization:machine",
+        "tiered_overlays": {},
+        "no_overlay_on_output_side": false
+      }
+    }
   },
   "items/configurable_mixed_storage.json": {
     "model": {
@@ -252,17 +300,21 @@
     }
   },
   "blockstates/pulse_detonation_generator.json": {
-    "casing": "modern_industrialization:titanium_machine_casing_pipe",
-    "default_overlays": {
-      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
-      "front": "yet_another_industrialization:block/machines/pulse_detonation_generator/overlay_front",
-      "front_active": "yet_another_industrialization:block/machines/pulse_detonation_generator/overlay_front_active",
-      "item_auto": "modern_industrialization:block/overlays/item_auto",
-      "output": "modern_industrialization:block/overlays/output"
-    },
-    "type": "modern_industrialization:machine",
-    "tiered_overlays": {},
-    "no_overlay_on_output_side": false
+    "variants": {
+      "": {
+        "casing": "modern_industrialization:titanium_machine_casing_pipe",
+        "default_overlays": {
+          "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+          "front": "yet_another_industrialization:block/machines/pulse_detonation_generator/overlay_front",
+          "front_active": "yet_another_industrialization:block/machines/pulse_detonation_generator/overlay_front_active",
+          "item_auto": "modern_industrialization:block/overlays/item_auto",
+          "output": "modern_industrialization:block/overlays/output"
+        },
+        "type": "modern_industrialization:machine",
+        "tiered_overlays": {},
+        "no_overlay_on_output_side": false
+      }
+    }
   },
   "items/pulse_detonation_generator.json": {
     "model": {
@@ -271,17 +323,21 @@
     }
   },
   "blockstates/steel_mixed_output_hatch.json": {
-    "casing": "modern_industrialization:steel",
-    "default_overlays": {
-      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
-      "front": "yet_another_industrialization:block/machines/mixed_hatch/overlay_front",
-      "item_auto": "modern_industrialization:block/overlays/item_auto",
-      "output": "yet_another_industrialization:block/overlays/output_mixed",
-      "side": "yet_another_industrialization:block/machines/mixed_hatch/overlay_side"
-    },
-    "type": "modern_industrialization:machine",
-    "tiered_overlays": {},
-    "no_overlay_on_output_side": false
+    "variants": {
+      "": {
+        "casing": "modern_industrialization:steel",
+        "default_overlays": {
+          "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+          "front": "yet_another_industrialization:block/machines/mixed_hatch/overlay_front",
+          "item_auto": "modern_industrialization:block/overlays/item_auto",
+          "output": "yet_another_industrialization:block/overlays/output_mixed",
+          "side": "yet_another_industrialization:block/machines/mixed_hatch/overlay_side"
+        },
+        "type": "modern_industrialization:machine",
+        "tiered_overlays": {},
+        "no_overlay_on_output_side": false
+      }
+    }
   },
   "items/steel_mixed_output_hatch.json": {
     "model": {
@@ -297,17 +353,21 @@
     }
   },
   "blockstates/turbo_mixed_input_hatch.json": {
-    "casing": "modern_industrialization:hv",
-    "default_overlays": {
-      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
-      "front": "yet_another_industrialization:block/machines/mixed_hatch/overlay_front",
-      "item_auto": "modern_industrialization:block/overlays/item_auto",
-      "output": "yet_another_industrialization:block/overlays/output_mixed",
-      "side": "yet_another_industrialization:block/machines/mixed_hatch/overlay_side"
-    },
-    "type": "modern_industrialization:machine",
-    "tiered_overlays": {},
-    "no_overlay_on_output_side": false
+    "variants": {
+      "": {
+        "casing": "modern_industrialization:hv",
+        "default_overlays": {
+          "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+          "front": "yet_another_industrialization:block/machines/mixed_hatch/overlay_front",
+          "item_auto": "modern_industrialization:block/overlays/item_auto",
+          "output": "yet_another_industrialization:block/overlays/output_mixed",
+          "side": "yet_another_industrialization:block/machines/mixed_hatch/overlay_side"
+        },
+        "type": "modern_industrialization:machine",
+        "tiered_overlays": {},
+        "no_overlay_on_output_side": false
+      }
+    }
   },
   "items/turbo_mixed_input_hatch.json": {
     "model": {
@@ -316,17 +376,21 @@
     }
   },
   "blockstates/bronze_mixed_input_hatch.json": {
-    "casing": "modern_industrialization:bronze",
-    "default_overlays": {
-      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
-      "front": "yet_another_industrialization:block/machines/mixed_hatch/overlay_front",
-      "item_auto": "modern_industrialization:block/overlays/item_auto",
-      "output": "yet_another_industrialization:block/overlays/output_mixed",
-      "side": "yet_another_industrialization:block/machines/mixed_hatch/overlay_side"
-    },
-    "type": "modern_industrialization:machine",
-    "tiered_overlays": {},
-    "no_overlay_on_output_side": false
+    "variants": {
+      "": {
+        "casing": "modern_industrialization:bronze",
+        "default_overlays": {
+          "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+          "front": "yet_another_industrialization:block/machines/mixed_hatch/overlay_front",
+          "item_auto": "modern_industrialization:block/overlays/item_auto",
+          "output": "yet_another_industrialization:block/overlays/output_mixed",
+          "side": "yet_another_industrialization:block/machines/mixed_hatch/overlay_side"
+        },
+        "type": "modern_industrialization:machine",
+        "tiered_overlays": {},
+        "no_overlay_on_output_side": false
+      }
+    }
   },
   "items/bronze_mixed_input_hatch.json": {
     "model": {
@@ -335,17 +399,21 @@
     }
   },
   "blockstates/advanced_mixed_input_hatch.json": {
-    "casing": "modern_industrialization:mv",
-    "default_overlays": {
-      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
-      "front": "yet_another_industrialization:block/machines/mixed_hatch/overlay_front",
-      "item_auto": "modern_industrialization:block/overlays/item_auto",
-      "output": "yet_another_industrialization:block/overlays/output_mixed",
-      "side": "yet_another_industrialization:block/machines/mixed_hatch/overlay_side"
-    },
-    "type": "modern_industrialization:machine",
-    "tiered_overlays": {},
-    "no_overlay_on_output_side": false
+    "variants": {
+      "": {
+        "casing": "modern_industrialization:mv",
+        "default_overlays": {
+          "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+          "front": "yet_another_industrialization:block/machines/mixed_hatch/overlay_front",
+          "item_auto": "modern_industrialization:block/overlays/item_auto",
+          "output": "yet_another_industrialization:block/overlays/output_mixed",
+          "side": "yet_another_industrialization:block/machines/mixed_hatch/overlay_side"
+        },
+        "type": "modern_industrialization:machine",
+        "tiered_overlays": {},
+        "no_overlay_on_output_side": false
+      }
+    }
   },
   "items/advanced_mixed_input_hatch.json": {
     "model": {
@@ -368,17 +436,21 @@
     }
   },
   "blockstates/item_charger.json": {
-    "casing": "modern_industrialization:lv",
-    "default_overlays": {
-      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
-      "front": "yet_another_industrialization:block/machines/item_charger/overlay_front",
-      "front_active": "yet_another_industrialization:block/machines/item_charger/overlay_front_active",
-      "item_auto": "modern_industrialization:block/overlays/item_auto",
-      "output": "modern_industrialization:block/overlays/output"
-    },
-    "type": "modern_industrialization:machine",
-    "tiered_overlays": {},
-    "no_overlay_on_output_side": false
+    "variants": {
+      "": {
+        "casing": "modern_industrialization:lv",
+        "default_overlays": {
+          "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+          "front": "yet_another_industrialization:block/machines/item_charger/overlay_front",
+          "front_active": "yet_another_industrialization:block/machines/item_charger/overlay_front_active",
+          "item_auto": "modern_industrialization:block/overlays/item_auto",
+          "output": "modern_industrialization:block/overlays/output"
+        },
+        "type": "modern_industrialization:machine",
+        "tiered_overlays": {},
+        "no_overlay_on_output_side": false
+      }
+    }
   },
   "items/item_charger.json": {
     "model": {
@@ -387,17 +459,21 @@
     }
   },
   "blockstates/flight_pylon.json": {
-    "casing": "modern_industrialization:steel",
-    "default_overlays": {
-      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
-      "front": "yet_another_industrialization:block/machines/flight_pylon/overlay_front",
-      "front_active": "yet_another_industrialization:block/machines/flight_pylon/overlay_front_active",
-      "item_auto": "modern_industrialization:block/overlays/item_auto",
-      "output": "modern_industrialization:block/overlays/output"
-    },
-    "type": "modern_industrialization:machine",
-    "tiered_overlays": {},
-    "no_overlay_on_output_side": false
+    "variants": {
+      "": {
+        "casing": "modern_industrialization:steel",
+        "default_overlays": {
+          "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+          "front": "yet_another_industrialization:block/machines/flight_pylon/overlay_front",
+          "front_active": "yet_another_industrialization:block/machines/flight_pylon/overlay_front_active",
+          "item_auto": "modern_industrialization:block/overlays/item_auto",
+          "output": "modern_industrialization:block/overlays/output"
+        },
+        "type": "modern_industrialization:machine",
+        "tiered_overlays": {},
+        "no_overlay_on_output_side": false
+      }
+    }
   },
   "items/flight_pylon.json": {
     "model": {
@@ -406,17 +482,21 @@
     }
   },
   "blockstates/nuclear_rod_irradiator.json": {
-    "casing": "modern_industrialization:nuclear_casing",
-    "default_overlays": {
-      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
-      "front": "yet_another_industrialization:block/machines/nuclear_rod_irradiator/overlay_front",
-      "front_active": "yet_another_industrialization:block/machines/nuclear_rod_irradiator/overlay_front_active",
-      "item_auto": "modern_industrialization:block/overlays/item_auto",
-      "output": "modern_industrialization:block/overlays/output"
-    },
-    "type": "modern_industrialization:machine",
-    "tiered_overlays": {},
-    "no_overlay_on_output_side": false
+    "variants": {
+      "": {
+        "casing": "modern_industrialization:nuclear_casing",
+        "default_overlays": {
+          "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+          "front": "yet_another_industrialization:block/machines/nuclear_rod_irradiator/overlay_front",
+          "front_active": "yet_another_industrialization:block/machines/nuclear_rod_irradiator/overlay_front_active",
+          "item_auto": "modern_industrialization:block/overlays/item_auto",
+          "output": "modern_industrialization:block/overlays/output"
+        },
+        "type": "modern_industrialization:machine",
+        "tiered_overlays": {},
+        "no_overlay_on_output_side": false
+      }
+    }
   },
   "items/nuclear_rod_irradiator.json": {
     "model": {
@@ -425,17 +505,21 @@
     }
   },
   "blockstates/turbo_mixed_output_hatch.json": {
-    "casing": "modern_industrialization:hv",
-    "default_overlays": {
-      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
-      "front": "yet_another_industrialization:block/machines/mixed_hatch/overlay_front",
-      "item_auto": "modern_industrialization:block/overlays/item_auto",
-      "output": "yet_another_industrialization:block/overlays/output_mixed",
-      "side": "yet_another_industrialization:block/machines/mixed_hatch/overlay_side"
-    },
-    "type": "modern_industrialization:machine",
-    "tiered_overlays": {},
-    "no_overlay_on_output_side": false
+    "variants": {
+      "": {
+        "casing": "modern_industrialization:hv",
+        "default_overlays": {
+          "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+          "front": "yet_another_industrialization:block/machines/mixed_hatch/overlay_front",
+          "item_auto": "modern_industrialization:block/overlays/item_auto",
+          "output": "yet_another_industrialization:block/overlays/output_mixed",
+          "side": "yet_another_industrialization:block/machines/mixed_hatch/overlay_side"
+        },
+        "type": "modern_industrialization:machine",
+        "tiered_overlays": {},
+        "no_overlay_on_output_side": false
+      }
+    }
   },
   "items/turbo_mixed_output_hatch.json": {
     "model": {
@@ -458,17 +542,21 @@
     }
   },
   "blockstates/dragon_egg_energy_siphon.json": {
-    "casing": "modern_industrialization:steel",
-    "default_overlays": {
-      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
-      "front": "yet_another_industrialization:block/machines/dragon_egg_energy_siphon/overlay_front",
-      "front_active": "yet_another_industrialization:block/machines/dragon_egg_energy_siphon/overlay_front_active",
-      "item_auto": "modern_industrialization:block/overlays/item_auto",
-      "output": "modern_industrialization:block/overlays/output"
-    },
-    "type": "modern_industrialization:machine",
-    "tiered_overlays": {},
-    "no_overlay_on_output_side": false
+    "variants": {
+      "": {
+        "casing": "modern_industrialization:steel",
+        "default_overlays": {
+          "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+          "front": "yet_another_industrialization:block/machines/dragon_egg_energy_siphon/overlay_front",
+          "front_active": "yet_another_industrialization:block/machines/dragon_egg_energy_siphon/overlay_front_active",
+          "item_auto": "modern_industrialization:block/overlays/item_auto",
+          "output": "modern_industrialization:block/overlays/output"
+        },
+        "type": "modern_industrialization:machine",
+        "tiered_overlays": {},
+        "no_overlay_on_output_side": false
+      }
+    }
   },
   "items/dragon_egg_energy_siphon.json": {
     "model": {
@@ -477,17 +565,21 @@
     }
   },
   "blockstates/large_storage_unit.json": {
-    "casing": "yet_another_industrialization:battery_casing",
-    "default_overlays": {
-      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
-      "front": "yet_another_industrialization:block/machines/large_storage_unit/overlay_front",
-      "front_active": "yet_another_industrialization:block/machines/large_storage_unit/overlay_front_active",
-      "item_auto": "modern_industrialization:block/overlays/item_auto",
-      "output": "modern_industrialization:block/overlays/output"
-    },
-    "type": "modern_industrialization:machine",
-    "tiered_overlays": {},
-    "no_overlay_on_output_side": false
+    "variants": {
+      "": {
+        "casing": "yet_another_industrialization:battery_casing",
+        "default_overlays": {
+          "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+          "front": "yet_another_industrialization:block/machines/large_storage_unit/overlay_front",
+          "front_active": "yet_another_industrialization:block/machines/large_storage_unit/overlay_front_active",
+          "item_auto": "modern_industrialization:block/overlays/item_auto",
+          "output": "modern_industrialization:block/overlays/output"
+        },
+        "type": "modern_industrialization:machine",
+        "tiered_overlays": {},
+        "no_overlay_on_output_side": false
+      }
+    }
   },
   "items/large_storage_unit.json": {
     "model": {
@@ -503,17 +595,21 @@
     }
   },
   "blockstates/fluid_trash_can_hatch.json": {
-    "casing": "modern_industrialization:steel",
-    "default_overlays": {
-      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
-      "front": "yet_another_industrialization:block/machines/fluid_trash_can_hatch/overlay_front",
-      "item_auto": "modern_industrialization:block/overlays/item_auto",
-      "output": "modern_industrialization:block/overlays/output",
-      "side": "yet_another_industrialization:block/machines/fluid_trash_can_hatch/overlay_side"
-    },
-    "type": "modern_industrialization:machine",
-    "tiered_overlays": {},
-    "no_overlay_on_output_side": false
+    "variants": {
+      "": {
+        "casing": "modern_industrialization:steel",
+        "default_overlays": {
+          "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+          "front": "yet_another_industrialization:block/machines/fluid_trash_can_hatch/overlay_front",
+          "item_auto": "modern_industrialization:block/overlays/item_auto",
+          "output": "modern_industrialization:block/overlays/output",
+          "side": "yet_another_industrialization:block/machines/fluid_trash_can_hatch/overlay_side"
+        },
+        "type": "modern_industrialization:machine",
+        "tiered_overlays": {},
+        "no_overlay_on_output_side": false
+      }
+    }
   },
   "items/fluid_trash_can_hatch.json": {
     "model": {
@@ -529,17 +625,21 @@
     }
   },
   "blockstates/large_storage_unit_output_hatch.json": {
-    "casing": "yet_another_industrialization:battery_casing",
-    "default_overlays": {
-      "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
-      "front": "yet_another_industrialization:block/machines/large_storage_unit_hatch/overlay_front",
-      "item_auto": "modern_industrialization:block/overlays/item_auto",
-      "output": "modern_industrialization:block/overlays/output",
-      "side": "yet_another_industrialization:block/machines/large_storage_unit_hatch/overlay_side"
-    },
-    "type": "modern_industrialization:machine",
-    "tiered_overlays": {},
-    "no_overlay_on_output_side": false
+    "variants": {
+      "": {
+        "casing": "yet_another_industrialization:battery_casing",
+        "default_overlays": {
+          "fluid_auto": "modern_industrialization:block/overlays/fluid_auto",
+          "front": "yet_another_industrialization:block/machines/large_storage_unit_hatch/overlay_front",
+          "item_auto": "modern_industrialization:block/overlays/item_auto",
+          "output": "modern_industrialization:block/overlays/output",
+          "side": "yet_another_industrialization:block/machines/large_storage_unit_hatch/overlay_side"
+        },
+        "type": "modern_industrialization:machine",
+        "tiered_overlays": {},
+        "no_overlay_on_output_side": false
+      }
+    }
   },
   "items/large_storage_unit_output_hatch.json": {
     "model": {
