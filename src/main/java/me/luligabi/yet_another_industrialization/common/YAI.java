@@ -51,6 +51,8 @@ public class YAI {
     public YAI(IEventBus modEventBus, ModContainer container) {
         setupText();
         modEventBus.addListener(net.neoforged.neoforge.data.event.GatherDataEvent.Client.class, YAIClientAssets::gather);
+        // port-26.1.2: флюид-модели (RegisterFluidModelsEvent) — фикс 7x Missing FluidModel
+        modEventBus.register(me.luligabi.yet_another_industrialization.client.YAIFluidModels.class);
 
         // port-26.1.2: tesseract MI-hook — запускает YAIHookListener/YAIHookRegistry
         // (@MIHookEntrypoint): кейсины → хатчи → single-block → multiblock-машины.

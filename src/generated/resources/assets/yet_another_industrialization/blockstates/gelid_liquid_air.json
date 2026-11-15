@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "minecraft:block/air"
+      "model": "yet_another_industrialization:block/fluid/gelid_liquid_air"
     }
   }
 }
